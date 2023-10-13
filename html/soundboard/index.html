@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXGG6SJL6H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XXGG6SJL6H');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8217504918882767"
+     crossorigin="anonymous"></script>
+    <link rel="icon" type="image/x-icon" href="/img/lumalogo.png" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="/css/themes.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@700&display=swap" rel="stylesheet">
+    <title>Soundboard | Luma</title>
+  </head>
+  <body>
+    <script>
+      var audioObjects = [];
+      var currentSpeed = 1;
+      var currentVolume = 1;
+    </script>
+    <div class="ctrl">
+      <button id="stopAllButton" onclick="stopAll()">Stop all</button>
+      <label id="speed">Speed:</label>
+      <input
+        type="range"
+        min="0"
+        max="2"
+        value="1"
+        step="0.01"
+        id="speedSlider"
+      />
+      <span id="speedValue">1</span>
+      <label id="volume">Volume:</label>
+      <input
+        type="range"
+        min="0"
+        max="1"
+        value="1"
+        step="0.01"
+        id="volumeSlider"
+      />
+      <span id="volumeValue">1</span>
+    </div>
+    <script>
+      function stopAll() {
+        audioObjects.forEach(function (audioObject) {
+          audioObject.pause();
+        });
+      }
+    </script>
+    <script>
+      document
+        .getElementById("speedSlider")
+        .addEventListener("input", function () {
+          currentSpeed = this.value;
+          updateSpeed();
+        });
+      function updateSpeed() {
+        audioObjects.forEach(function (audioObject) {
+          audioObject.playbackRate = currentSpeed;
+        });
+        document.getElementById("speedValue").innerHTML = currentSpeed;
+      }
+    </script>
+    <script>
+      document
+        .getElementById("volumeSlider")
+        .addEventListener("input", function () {
+          currentVolume = this.value;
+          updateVolume();
+        });
+      function updateVolume() {
+        audioObjects.forEach(function (audioObject) {
+          audioObject.volume = currentVolume;
+        });
+        document.getElementById("volumeValue").innerHTML = currentVolume;
+      }
+    </script>
+
+    <h1>Soundboard</h1>
+
+    <h3 id="section">Some Goofs</h3>
+    <div id="soundsContainer"></div>
+    <script>
+      // Fetch JSON data from external file
+      fetch("sounds.json")
+        .then((response) => response.json())
+        .then((soundsData) => {
+          // Loop through each sound in the JSON data
+          soundsData.forEach((sound) => {
+            // Create elements for each sound
+            const soundContainer = document.createElement("div");
+            const circle = document.createElement("div");
+            const button = document.createElement("button");
+            const shadow = document.createElement("div");
+            const name = document.createElement("p");
+            const downloadButton = document.createElement("button");
+
+            // Add classes to elements
+            soundContainer.classList.add("sound");
+            circle.classList.add("circle", "small-button-background");
+            button.classList.add("small-button");
+            shadow.classList.add("small-button-shadow");
+            name.classList.add("name");
+            downloadButton.classList.add("download");
+
+            // Set styles for the circle
+            circle.style.backgroundColor = sound.color;
+
+            // Add onclick function to the sound container
+            soundContainer.onclick = function () {
+              var currentSpeed = document.getElementById("speedSlider").value;
+              var currentVolume = document.getElementById("volumeSlider").value;
+              const audioElement = new Audio(sound.file);
+              audioObjects.push(audioElement);
+              audioElement.playbackRate = currentSpeed;
+              audioElement.volume = currentVolume;
+              audioElement.play();
+            };
+
+            // Add onclick function to the download button
+            downloadButton.onclick = function () {
+              window.location.href = sound.file;
+            };
+
+            // Set text content for elements
+            name.textContent = sound.name;
+            downloadButton.textContent = "Download";
+
+            // Append elements to the sound container
+            soundContainer.appendChild(circle);
+            soundContainer.appendChild(button);
+            soundContainer.appendChild(shadow);
+            soundContainer.appendChild(downloadButton);
+            soundContainer.appendChild(name);
+
+            // Append the sound container to the sounds container
+            document
+              .getElementById("soundsContainer")
+              .appendChild(soundContainer);
+          });
+        });
+    </script>
+    <script src="/html/settings/js/index.js"></script>
+    <script src="/js/navbar.js"></script>
+    <script src="/js/theme.js"></script>
+  </body>
+</html>

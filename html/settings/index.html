@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXGG6SJL6H"></script>
+    <script>
+          window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-XXGG6SJL6H');
+    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8217504918882767"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/settings.css" />
+    <link rel="stylesheet" href="/css/themes.css" />
+    <title id="pageTitle">Settings | Luma</title>
+    <link rel="icon" href="/img/lumalogo.png" type="image/x-icon" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h1 style="font-size: 40px">Settings</h1>
+    <h2>Tab Cloak</h2>
+    <div class="buttons">
+      <p>Title:</p>
+      <input
+        id="title"
+        class="input"
+        placeholder="Title"
+        onkeyup="setTitle(this.value)"
+      />
+      <br />
+      <p>Favicon:</p>
+      <input
+        id="icon"
+        class="input"
+        placeholder="Favicon"
+        onkeyup="setFavicon(this.value.trim())"
+      />
+      <br />
+      <br />
+      <button class="button" onclick="resetTab()">Reset</button>
+    </div>
+    <br />
+    <div class="section-title">Presets</div>
+    <div id="buttons-container"></div>
+    <hr />
+    <h2>Themes</h2>
+    <div class="theme-buttons">
+      <button class="theme-button" data-theme="default">Default</button>
+
+
+      <button class="theme-button" data-theme="light">Ļ̵̱̜̣͙̹͈͖̈́̊̇̆͐̈̌̈̽͂̃̑͘i̷̡͉̪̞͖̍͊̃̈́̓̒̊̏̓͝ģ̸̱͇͕͔̱͍̯̗̠͙̖̿̒̒̋̾̈́́͌͂̃̉̋̃͊̓͠͝ḩ̴̛̝̹͓̘͒̊̂̒̈̾́͂̓̔̌̅̆͆̕̕ẗ̴͈́̎̄̾̃͑͐̀̈́ ̸̧̡͈̻̮͚͖̺́̕M̶̪͇͙͔͔̙̣̈́̾̒͌̔͑͝͝ô̴͈͍̥͔̗̩̤̤̤̩͈̺͆̃́́͌̌͝d̷̗̪̮̩͇͈̖̘̤͓͕͗͒̊é̸̼̥̜̖̦̯̉̊͒̋͆́̔͝</button>
+
+
+      <button class="theme-button" data-theme="dark">Dark Mode</button>
+      <button class="theme-button" data-theme="echo">3kh0</button>
+      <button class="theme-button" data-theme="cosmic">Cosmic Purple</button>
+      <button class="theme-button" data-theme="skyblue">Sky Blue</button>
+      <button class="theme-button" data-theme="beige">Beige</button>
+    </div>
+
+    
+    <select style="height: 0px; width: 0px; visibility: hidden;" id="drop">
+    </select>
+    <hr />
+    <h2>Panic Button</h1>
+    <p>When Enabled Press the <bold>`</bold> button to Open Your Set Panic Address<p>
+    <div class="panic">
+        <button class="button" onclick="panOn()">Enable</button>
+        <button class="button" onclick="panOff()">Disable</button>
+        <br>
+        <br>
+        <input
+            id="panic-address"
+            value=""
+            placeholder="Panic Address"
+            autocomplete="on"
+            type="text"
+            autofocus
+          />
+    </div>
+    <br>
+    <hr />
+  
+    <script src="js/cloak.js"></script>
+    <script src="/js/generategames.js"></script>
+    <script src="js/aboutblank.js"></script>
+    <script src="js/settings.js"></script>
+    <script src="js/index.js"></script>
+    <script src="/js/navbar.js"></script>
+  </body>
+</html>

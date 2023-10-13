@@ -1,0 +1,106 @@
+body {
+  background-color: var(--background);
+  font-family: 'Fredoka', sans-serif;
+}
+
+h1{
+  color: var(--text);
+}
+
+h2{
+  color: var(--text);
+}
+
+option {
+  color: var(--text-secondary);
+}
+
+.section-title {
+  color: var(--text);
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+input {
+  background-color:  var(--theme);
+  color: var(--text-secondary);
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1em;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+input::placeholder {
+  color: var(--text-secondary);
+}
+
+button {
+  background-color: var(--theme);
+  color: var(--text-secondary);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 1em;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+hr {
+  border: 1px solid var(--text);
+  margin: 20px 0;
+}
+
+p {
+  color: var(--text);
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.console-input input {
+  background-color: var(--theme);
+  color: var(--text-secondary);
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1em;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.console-button {
+  background-color: var(--theme);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 1em;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.home {
+  position: absolute;
+  top: 0px;
+  right: 5px;
+  width: 3em;
+  fill: var(--theme);
+}
+.presets {
+  margin-right: 10px;
+  cursor: pointer;
+}
+.presets:hover {
+  transform: scale(1.1);
+}
+.drop {
+  background-color: var(--theme);
+  color: var(--text-secondary);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 1em;
+  margin-right: 10px;
+  cursor: pointer;
+}

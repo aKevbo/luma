@@ -1,0 +1,491 @@
+{
+
+ 
+  
+  "links": [
+    {
+      "title": "Platformers",
+      "games": [
+        [
+          "MotoX3M",
+          "/img/motox3m.avif",
+          "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/index.html",
+          ""
+        ],
+        [
+          "MotoX3M 2",
+          "/img/motox3m2.jpg",
+          "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/2/index.html",
+          ""
+        ],
+        [
+          "MotoX3M Pool Party",
+          "/img/motopoolparty.avif",
+          "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/5-pool-party/index.html",
+          ""
+        ],
+        [
+          "MotoX3M Spooky Land",
+          "/img/motospooky.avif",
+          "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/6-spooky-land/index.html",
+          ""
+        ],
+        [
+          "MotoX3M Winter",
+          "/img/motowinter.jpg",
+          "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/4-winter/index.html",
+          ""
+        ],
+        [
+          "Vex 3",
+          "/img/v3.jpg",
+          "https://raw.githack.com/Corruptify/luma-assets/main/vex/3/index.html",
+          ""
+        ],
+        [
+          "Vex 4",
+          "/img/v4.png",
+          "https://raw.githack.com/Corruptify/luma-assets/main/vex/4/index.html",
+          ""
+        ],
+        [
+          "Vex 5",
+          "/img/v5.png",
+          "https://raw.githack.com/Corruptify/luma-assets/main/vex/5/index.html",
+          ""
+        ],
+        [
+          "Vex 6",
+          "/img/v6.png",
+          "https://raw.githack.com/Corruptify/luma-assets/main/vex/6/index.html",
+          ""
+        ],
+        [
+          "Vex 7",
+          "/img/v7.jpg",
+          "https://raw.githack.com/Corruptify/luma-assets/main/vex/7/index.html",
+          ""
+        ],
+        [
+          "Slope",
+          "/img/slope.jpg",
+          "https://slope.kevinhalushack.repl.co",
+          ""
+        ],
+        [
+          "Chrome Dino Runner",
+          "/img/chromedinorunner.png",
+          "https://raw.githack.com/Corruptify/luma-assets/main/trexrunner/index.html",
+          
+          ""
+        ],
+        [
+          "Cut the Rope",
+          "/img/cuttherope.png",
+          "https://cut-the-rope.kevinhalushack.repl.co",
+          
+          ""
+        ],
+        [
+          "Stickman Hook",
+          "/img/stickman.jpg",
+          "https://stickman-hook.kevinhalushack.repl.co",
+          
+          
+          ""
+        ],
+        [
+          "Subway Surfers",
+          "/img/subway.png",
+          "https://raw.githack.com/3kh0/3kh0-Assets/main/subway-surfers/index.html",
+          
+          ""
+        ]
+        
+
+       
+
+    
+      ]
+    },
+    {
+      "title": "Flash Games",
+      "games": [
+        [
+          "IndestructoTank",
+          "/img/indestructo.png",
+          "https://ruffle.kevinhalushack.repl.co/IndestructoTank/",
+          ""
+        ],
+        [
+          "Run",
+          "/img/run3.png",
+          "https://ruffle.kevinhalushack.repl.co/Run1/",
+          ""
+        ],
+        [
+          "Run 3",
+          "/img/run3.jpg",
+          "https://ruffle.kevinhalushack.repl.co/run3/",
+          ""
+        ],
+        [
+          "Bloons Tower Defense",
+          "/img/bloons1.jpg",
+          "https://ruffle.kevinhalushack.repl.co/BloonsTowerDefense/",
+          ""
+        ],
+        [
+          "Bloxorz",
+          "/img/bloxorz.png",
+          "https://ruffle.kevinhalushack.repl.co/Bloxorz/",
+          ""
+        ],
+        [
+          "Super Mario 63",
+          "/img/sm63.png",
+          "https://ruffle.kevinhalushack.repl.co/sm63/",
+          ""
+        ],
+        [
+          "Wasted Sky",
+          "/img/wastedsky.webp",
+          "https://ruffle.kevinhalushack.repl.co/wastedsky/",
+          ""
+        ],
+        [
+          "Papas Pizzeria",
+          "/img/pizzeria.png",
+          "https://ruffle.kevinhalushack.repl.co/Pizzeria/",
+          ""
+        ],
+        [
+          "Papas Freezeria",
+          "/img/freezeria.png",
+          "https://ruffle.kevinhalushack.repl.co/Pizzeria/",
+          ""
+        ],
+        [
+          "Papas Sushiria",
+          "/img/sushiria.jpg",
+          "https://ruffle.kevinhalushack.repl.co/Sushiria/",
+          ""
+        ],
+        [
+          "The Worlds Hardest Game",
+          "/img/hardestgame1.png",
+          "https://ruffle.kevinhalushack.repl.co/HardestGame1/",
+          ""
+        ],
+        [
+          "The Worlds Hardest Game 2.0",
+          "/img/hardestgame2.jpg",
+          "https://ruffle.kevinhalushack.repl.co/HardestGame2/",
+          ""
+        ],
+        [
+          "The Impossible Quiz",
+          "/img/impossiblequiz.png",
+          "https://ruffle.kevinhalushack.repl.co/ImpossibleQuiz/",
+          ""
+        ],
+        [
+          "The Impossible Quiz 2",
+          "/img/impossiblequiz2.png",
+          "https://ruffle.kevinhalushack.repl.co/ImpossibleQuiz2/",
+          ""
+        ],
+        [
+          "The Impossible Quizmas",
+          "/img/imposiblequizmas.avif",
+          "https://ruffle.kevinhalushack.repl.co/ImpossibleQuizmas/",
+          ""
+        ],
+        [
+          "Interactive Buddy",
+          "/img/interactivebuddy.png",
+          "https://ruffle.kevinhalushack.repl.co/InteractiveBuddy/",
+          ""
+        ],
+        [
+          "N",
+          "/img/N.png",
+          "https://ruffle.kevinhalushack.repl.co/N/",
+          ""
+        ],
+        [
+          "Portal: The Flash Version",
+          "/img/portaltfv.png",
+          "https://ruffle.kevinhalushack.repl.co/Portal/",
+          ""
+        ],
+        [
+          "QWOP",
+          "/img/QWOP.png",
+          "https://ruffle.kevinhalushack.repl.co/QWOP/",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "Emulation",
+      "games": [
+[
+          "Super Mario 64",
+          "/img/sm64.webp",
+          "https://sm64-1.kevinhalushack.repl.co/",
+          ""
+],
+        
+[
+          "Mario Kart 64",
+          "/img/mk64.png",
+          "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/mk64.z64",
+          ""
+],
+[
+        "The Legend of Zelda: Ocarina of Time",
+        "/img/ocarinaoftime.png",
+        "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/ocarinaoftime.z64",
+        ""
+],
+[
+      "The Legend of Zelda: Majoras Mask",
+      "/img/majorasmask.jpg",
+      "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/majorasmask.z64",
+      ""
+],
+[
+    "Starfox 64",
+    "/img/starfox64.png",
+    "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/starfox64.z64",
+    ""
+],
+[
+  "Super Smash Bros.",
+  "/img/supersmashbros.jpg",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/smashbros.z64",
+  ""
+],
+[
+  "Kirby 64: The Crystal Shards",
+  "/img/kirby64.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/kirby64.z64",
+  ""
+],
+[
+  "Super Mario World",
+  "/img/supermarioworld.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/supermarioworld.smc",
+  ""
+],
+[
+  "Super Mario World 2: Yoshis Island",
+  "/img/yoshisisland.jpg",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/supermarioworld2.smc",
+  ""
+],
+[
+  "Donkey Kong Country",
+  "/img/donkeykongcountry.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/donkeykongcountry.smc",
+  ""
+],
+[
+  "F-Zero",
+  "/img/fzero.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/fzero.sfc",
+  ""
+],
+[
+  "Super Mario Kart",
+  "/img/supermariokart.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/supermariokart.sfc",
+  ""
+],
+[
+  "Super Metroid",
+  "/img/supermetroid.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/supermetroid.sfc",
+  ""
+],
+[
+  "Star Fox",
+  "/img/starfox.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/starfox.smc",
+  ""
+],
+[
+  "Super Mario Bros.",
+  "/img/smb1.jpg",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/supermariobros.nes",
+  ""
+],
+[
+  "Super Mario Bros. 2",
+  "/img/smb2.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/supermariobros2.nes",
+  ""
+],
+[
+  "Super Mario Bros. 3",
+  "/img/smb3.jpg",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/supermariobros3.nes",
+  ""
+],
+[
+  "Metroid",
+  "/img/metroid.ico",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/Metroid.nes",
+  ""
+],
+[
+  "Dr. Mario",
+  "/img/drmario.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/drmario.nes",
+  ""
+],
+[
+  "Sonic the Hedgehog",
+  "/img/sonicthehedgehog.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/genesis/sonic.md",
+  ""
+],
+[
+  "Sonic the Hedgehog 2",
+  "/img/sonicthehedgehog2.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/genesis/sonic2.md",
+  ""
+],
+[
+  "Sonic the Hedgehog 3 & Knuckles",
+  "/img/sonicthehedgehog3.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/genesis/sonic3.md",
+  ""
+],
+[
+  "Pokemon Red Version (Gen I)",
+  "/img/pokered.avif",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gb/pokemonred.gb",
+  ""
+],
+[
+  "Pokemon Blue Version (Gen I)",
+  "/img/pokeblue.jpg",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gb/pokemonblue.gb",
+  ""
+],
+[
+  "Pokemon Yellow Version (Gen I)",
+  "/img/pokeyellow.jpg",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gb/pokemonyellow.gb",
+  ""
+],
+[
+  "Pokemon Gold Version (Gen II)",
+  "/img/pokegold.avif",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gbc/pokemongold.gbc",
+  ""
+],
+[
+  "Pokemon Silver Version (Gen II)",
+  "/img/pokesilver.jpg",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gbc/pokemonsilver.gbc",
+  ""
+],
+[
+  "Pokemon Crystal Version (Gen II)",
+  "/img/pokecrystal.avif",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gbc/pokemoncrystal.gbc",
+  ""
+],
+[
+  "Pokemon Ruby Version (Gen III)",
+  "/img/pokeruby.png",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gba/pokemonruby.gba",
+  ""
+],
+[
+  "Pokemon Sapphire Version (Gen III)",
+  "/img/pokesapphire.jpg",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gba/pokemonsapphire.gba",
+  ""
+],
+[
+  "Pokemon Emerald Version (Gen III)",
+  "/img/pokeemeraldversion.jpg",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gba/pokemonemerald.gba",
+  "<q>my favorite pokemon game<q> - kevin h 9/5/23"
+]
+
+
+      ]
+    },
+
+      {
+        "title": "Other Games",
+        "games": [
+          [
+            "Sandboxels",
+            "/img/sandboxels.png",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/sandboxels/index.html",
+            ""
+          ],
+          [
+            "Burrito Bison",
+            "/img/burritobison.png",
+            "https://raw.githack.com/Corruptify/luma-assets/main/burritobison/index.html",
+            ""
+          ],
+          [
+            "There is no game.",
+            "/img/thereisnogame.jpg",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/there-is-no-game/index.html",
+            ""
+          ],
+          [
+            "We become what we behold",
+            "/img/webecomewhatwebehold.png",
+            "https://v6p9d9t4.ssl.hwcdn.net/html/300364/index.html?v=1542781840",
+            ""
+          ],
+          [
+            "Retro Bowl",
+            "/img/retrobowl.jpg",
+            "https://retro-bowl.kevinhalushack.repl.co",
+            ""
+          ],
+          [
+            "Temple Run 2",
+            "/img/templerun2.jpg",
+            "https://temple-run-2.kevinhalushack.repl.co",
+            ""
+          ],
+          [
+            "Friday Night Funkin",
+            "/img/fnf.png",
+            "https://fnf.kevinhalushack.repl.co",
+            ""
+          ],
+          [
+            "Game inside of a game inside of a game inside of a game...",
+            "/img/gameinsideofagame.png",
+            "https://v6p9d9t4.ssl.hwcdn.net/html/2962883/index.html",
+            ""
+          ]
+      
+        ]
+      },
+    {
+      "title": "Browser Proxies",
+      "games": [
+        [
+          "LioProxy",
+          "/img/lioprox.png",
+          "https://5e4r06.sse.codesandbox.io/index.html",
+          ""
+        ]
+      ]
+    }
+  ]
+}
