@@ -144,7 +144,7 @@ a {
   transition: all 0.3s ease-in-out;
   color: var(--text-secondary);
   transition: all 0.3s ease-in-out;
-  border-radius: 30px;
+  border-radius: 10px;
 }
 
 #mySearch:focus {
