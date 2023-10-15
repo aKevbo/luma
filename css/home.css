@@ -7,7 +7,7 @@ body {
 }
 .bg video,
 .bg img {
-	filter: brightness(35%);
+	filter: brightness(90%);
 	object-fit: cover;
 	width: max(120vw, 120vh);
 	height: max(120vw, 120vh);
