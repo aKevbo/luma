@@ -1,17 +1,1 @@
-const count = document.getElementById("count");
-
-incrementVisitsCount();
-
-function incrementVisitsCount() {
-    let visits;
-
-    if (!localStorage.getItem("visits")) localStorage.setItem("visits", 1);
-    else {
-        visits = +localStorage.getItem("visits");
-        const incrementedCount = visits + 1;
-
-        localStorage.setItem("visits", incrementedCount);
-    }
-
-    count.innerText = localStorage.getItem("visits");
-}
+document.write('<img src="//counter.websiteout.net/compte.php?S='+encodeURI(window.location.hostname)+'&C=36&D=8&N=4937&M=0" alt="" border="0" />');

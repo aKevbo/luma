@@ -36,7 +36,12 @@
           "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/4-winter/index.html",
           ""
         ],
-
+        [
+          "Vex 3",
+          "/img/v3.jpg",
+          "https://raw.githack.com/Corruptify/luma-assets/main/vex/3/index.html",
+          ""
+        ],
         [
           "Vex 4",
           "/img/vex4.jpg",
@@ -470,17 +475,7 @@
           ]
       
         ]
-      },
-    {
-      "title": "Browser Proxies",
-      "games": [
-        [
-          "LioProxy",
-          "/img/lioprox.png",
-          "https://5e4r06.sse.codesandbox.io/index.html",
-          ""
-        ]
-      ]
-    }
+      }
+
   ]
 }

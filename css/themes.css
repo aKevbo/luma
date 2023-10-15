@@ -10,8 +10,8 @@
     --background: #ffffff;
     --theme: #c7c7c7;
     --theme-ts: #b5b5b560;
-    --text: #000000;
-    --text-secondary: #000000;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
   }
   
   body[data-theme="dark"] {
@@ -42,14 +42,30 @@
     --background: #D9F0FF;
     --theme: #83C9F4;
     --theme-ts: #A3D5FF;
-    --text: #000000;
-    --text-secondary: #7681B3;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
   }
 
   body[data-theme="beige"] {
     --background: #C6AC8F;
     --theme: #EAE0D5;
     --theme-ts: #F6C28B;
-    --text: #242424;
-    --text-secondary: #1d1d1d;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
+  }
+  
+  body[data-theme="earth"] {
+    --background: #659B5E;
+    --theme: #95BF74;
+    --theme-ts: #556F44;
+    --text: #dadada;
+    --text-secondary: #ffffff;
+  }
+
+  body[data-theme="beach"] {
+    --background: #F2E2D2;
+    --theme: #84C0C6;
+    --theme-ts: #46B1C9;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
   }

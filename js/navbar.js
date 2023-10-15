@@ -121,7 +121,7 @@ window.addEventListener('DOMContentLoaded', function() {
     <div id="top-bar">
       <nav>
         <ul>
-          <li><img src="/img/lumalogo.png" class="navlogo" draggable="false"></li>
+          <li><img src="/img/lumacircle.png" class="navlogo" draggable="false"></li>
           <li class="hvuncen"><a href="/">Home</a></li>
           <li class="hvuncen"><a href="/html/games/">Games</a></li>
           <li class="hvuncen"><a href="/html/xtra.html">Extras</a></li>
