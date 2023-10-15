@@ -121,10 +121,10 @@ window.addEventListener('DOMContentLoaded', function() {
     <div id="top-bar">
       <nav>
         <ul>
-          <li><img src="/img/LumaCircle.png" class="navlogo" draggable="false"></li>
+          <a href="https://youtu.be/3YHM768tt0c"><img src="/img/LumaCircle.png" class="navlogo" draggable="false"></a>&nbsp;&nbsp;&nbsp;&nbsp;
           <li class="hvuncen"><a href="/">Home</a></li>
           <li class="hvuncen"><a href="/html/games/">Games</a></li>
-          <li class="hvuncen"><a href="/html/xtra.html">Extras</a></li>
+          <li class="hvuncen"><a href="/html/xtra.html">Extas</a></li>
           <li class="hvuncen"><a href="/html/socials.html">About</a></li>
           <li><a href="/html/settings/">
           <svg class="settings" xmlns="http://www.w3.org/2000/svg" class="ionicon s-ion-icon" viewBox="0 0 512 512">

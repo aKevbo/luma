@@ -438,6 +438,12 @@
         "title": "Other Games",
         "games": [
           [
+            "Happy Wheels",
+            "/img/hw.jpg",
+            "https://justfall-lol.com/games/happy-wheels/index.min.html",
+            ""
+          ],
+          [
             "Sandboxels",
             "/img/sandboxels.png",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/sandboxels/index.html",
