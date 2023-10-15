@@ -24,6 +24,15 @@ const say = [
   "Uncultured Swine!",
   "Among Us VR?",
   "<img src='/img/goofyahhpic1.jpg'/>",
+  "<img src='/img/goofyapple.avif'/>",
+  "<img src='/img/goofyspongebob.gif'/>",
+  "<img src='/img/goofynerd.gif'/>",
+  "<img src='/img/goofyconnect.png'/>",
+  "<img src='/img/goofydog.gif'/>",
+  "<img src='/img/goofyshirt.jpg'/>",
+  "<img src='/img/goofykid.gif'/>",
+  "<img src='/img/goofywomen.gif'/>",
+  "<img src='/img/goofysharpener.jpg'/>",
   "i lost my v card two days ago thanks to this site",
   "error = ran out of subtitles",
   "Welcome to your final test, I’m Mr. Beast",
@@ -36,7 +45,7 @@ const say = [
   "the last one to leave this website wins $100,000 - mr beast",
   "Jesse, we need to game Jesse.",
   "what rhymes with digger",
-  "4 big guys:)",
+  "4 big guys :)",
   "it's really your own fault if you get caught",
   "We are Number One",
   "Click Me!",
@@ -53,6 +62,11 @@ const say = [
   "1, 2 buckle my shoe",
   "Warning: Goofy chat can cause cancer",
   "Oh yeah, Luma is cooking 🧑‍🍳🧑‍🍳🧑‍🍳",
+  "<q>yes, mom im doing my homework</q>",
+  "what starts with n and ends with r? neighbor!",
+  "Luma wont fall off.",
+  "why we using linewize? unblocking is too easy lmao",
+  "i only changed the logo cause it was all messed up in light mode, now its all messed up in dark mode :("
 ];
 
 var seCode = ['KeyA', 'KeyX', 'KeyE', 'KeyL'];
