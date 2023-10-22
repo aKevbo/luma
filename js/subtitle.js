@@ -33,6 +33,8 @@ const say = [
   "<img src='/img/goofykid.gif'/>",
   "<img src='/img/goofywomen.gif'/>",
   "<img src='/img/goofysharpener.jpg'/>",
+  "<img src='/img/goofysharpener.jpg'/>",
+  "<img src='/img/goofytacos.jpg'/>",
   "i lost my v card two days ago thanks to this site",
   "error = ran out of subtitles",
   "Welcome to your final test, I’m Mr. Beast",
@@ -64,20 +66,20 @@ const say = [
   "Oh yeah, Luma is cooking 🧑‍🍳🧑‍🍳🧑‍🍳",
   "<q>yes, mom im doing my homework</q>",
   "what starts with n and ends with r? neighbor!",
-  "Luma wont fall off.",
+  "Luma won't fall off.",
   "why we using linewize? unblocking is too easy lmao",
   "i only changed the logo cause it was all messed up in light mode, now its all messed up in dark mode :("
 ];
 
-var seCode = ['KeyA', 'KeyX', 'KeyE', 'KeyL'];
+var seCode = ['KeyK', 'KeyE', 'KeyV', 'KeyB','KeyO'];
 var seCodePosition = 0;
-var vid = 'video/content.mp4';
+var vid = 'img/kevbosad.gif';
 
 document.addEventListener('keydown', function(event) {
   if (event.code === seCode[seCodePosition]) {
     seCodePosition++;
     if (seCodePosition === seCode.length) {
-      document.getElementById('subtitle').innerHTML = '<video  src="' + vid + '" width="77" height="43" autoplay loop></video>';
+      document.getElementById('subtitle').innerHTML = '<img  src="' + vid + '" width="400" height="200" autoplay loop></img>';
       seCodePosition = 0;
     }
   } else {

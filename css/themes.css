@@ -69,3 +69,12 @@
     --text: #2c2c2c;
     --text-secondary: #414141;
   }
+
+  body[data-theme="red"] {
+    --background: #c70000;
+    --theme: #eb0000;
+    --theme-ts: #a10000;
+    --text: #dadada;
+    --text-secondary: #ffffff;
+  }
+  

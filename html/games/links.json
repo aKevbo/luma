@@ -139,7 +139,7 @@
           "Run 3",
           "/img/run3.jpg",
           "https://ruffle.kevinhalushack.repl.co/run3/",
-          ""
+          "My personal favorite flash game :) - Kevin H 2022"
         ],
         [
           "Bloons Tower Defense",
@@ -438,10 +438,58 @@
         "title": "Other Games",
         "games": [
           [
+            "Shell Shockers",
+            "/img/shellshock.jpg",
+            "https://algebra.best",
+            "It's back baby! Linewize aint got nothing on Goguardian."
+          ],
+          [
+            "Minecraft 1.8.8",
+            "/img/mc188.png",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/minecraft-18/index.html",
+            ""
+          ],
+          [
+            "Minecraft 1.5.2",
+            "/img/mc152.png",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/minecraft-15/index.html",
+            ""
+          ],
+          [
+            "Monster Tracks",
+            "/img/monstertracks.avif",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/monster-tracks/index.html",
+            ""
+          ],
+          [
+            "Swordbattle.io",
+            "/img/sb.png",
+            "https://swordbattleio.codergautamyt.repl.co/",
+            ""
+          ],
+          [
+            "Crossy Road",
+            "/img/crossyroad.png",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/crossyroad/index.html",
+            ""
+          ],
+          [
+            "Paper.io 2",
+            "/img/paperio2.jpg",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/paperio2/index.html",
+            ""
+          ],
+          [
+            "Tunnel Rush",
+            "/img/tunnelrush.jpg",
+            "https://tunnel-rush.kevinhalushack.repl.co/",
+            ""
+          ],
+          [
             "Happy Wheels",
             "/img/hw.jpg",
-            "https://justfall-lol.com/games/happy-wheels/index.min.html",
-            "Wait up to 3 minutes for the featured levels to load in. Very bloody game!"
+            "https://happy-wheels-fan-remake.kevinhalushack.repl.co",
+            "Very bloody game!"
           ],
           [
             "Sandboxels",
@@ -452,7 +500,7 @@
           [
             "Burrito Bison",
             "/img/burritobison.png",
-            "https://raw.githack.com/Corruptify/luma-assets/main/burritobison/index.html",
+            "https://v6p9d9t4.ssl.hwcdn.net/html/7437859/index.html",
             ""
           ],
           [
@@ -465,6 +513,18 @@
             "We become what we behold",
             "/img/webecomewhatwebehold.png",
             "https://v6p9d9t4.ssl.hwcdn.net/html/300364/index.html?v=1542781840",
+            ""
+          ],
+          [
+            "Bitlife",
+            "/img/bitlife.webp",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/bitlife/index.html",
+            ""
+          ],
+          [
+            "Cookie Clicker",
+            "/img/cc.png",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/cookie-clicker/index.html",
             ""
           ],
           [
@@ -490,7 +550,33 @@
             "/img/gameinsideofagame.png",
             "https://v6p9d9t4.ssl.hwcdn.net/html/2962883/index.html",
             ""
+          ],
+          [
+            "Cubefield",
+            "/img/cf.png",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/cubefield/index.html",
+            ""
+          ],
+          [
+            "EXO",
+            "/img/EXO.png",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/exo/index.html",
+            ""
+          ],
+          [
+            "Frying Nemo",
+            "/img/fryingnemo.jpg",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/frying-nemo/index.html",
+            ""
+          ],
+          [
+            "Google Feud",
+            "/img/gf.png",
+            "https://raw.githack.com/3kh0/3kh0-Assets/main/google-feud/index.html",
+            ""
           ]
+         
+          
       
         ]
       }
