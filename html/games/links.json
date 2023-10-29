@@ -131,7 +131,7 @@
         ],
         [
           "Smash Karts",
-          "/img/driftboss.png",
+          "/img/smashkarts.png",
           "https://skunblocked.com/",
           ""
         ],
@@ -143,7 +143,7 @@
         ],
         [
           "Basket Bros",
-          "/img/driftboss.png",
+          "/img/basketbros.jpg",
           "https://basket-bros-1--kevinhalushack.repl.co/__replco/devtools_wrapper.html",
           ""
         ]
@@ -595,15 +595,15 @@
           ],
           [
             "Getting Over It: Scratch Edition",
-            "/img/crossyroad.png",
+            "/img/goiscratch.jpg",
             "https://scratch.mit.edu/projects/389464290/embed",
-            "Might take a few minutes to load."
+            ""
           ],
           [
             "Idle Breakout",
-            "/img/crossyroad.png",
+            "/img/idlebreakout.png",
             "https://v6p9d9t4.ssl.hwcdn.net/html/1317921/index.html?v=1574335907",
-            "Might take a few minutes to load."
+            ""
           ]
           
       
