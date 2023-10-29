@@ -45,7 +45,7 @@ function createGames(data) {
         event.preventDefault();
         const url = link.href;
 
-        if (url.startsWith("http://") || url.startsWith("https://")) {
+        if (url.startsWith("http://") || url.startsWith("https://") || url.startsWith("about:blank")) {
           // Check if there is an existing iframe and remove it along with the overlay
           const existingIframe = document.querySelector("iframe");
 

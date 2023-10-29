@@ -36,6 +36,15 @@ a {
   border-radius: 3px;
 }
 
+.special-game-tile {
+  background-color: var(--theme);
+  position: relative;
+  width: 110%;
+  height: 110%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 3px;
+}
+
 
 .game-icon {
   display: block;

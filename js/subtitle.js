@@ -33,7 +33,6 @@ const say = [
   "<img src='/img/goofykid.gif'/>",
   "<img src='/img/goofywomen.gif'/>",
   "<img src='/img/goofysharpener.jpg'/>",
-  "<img src='/img/goofysharpener.jpg'/>",
   "<img src='/img/goofytacos.jpg'/>",
   "i lost my v card two days ago thanks to this site",
   "error = ran out of subtitles",
@@ -68,7 +67,8 @@ const say = [
   "what starts with n and ends with r? neighbor!",
   "Luma won't fall off.",
   "why we using linewize? unblocking is too easy lmao",
-  "i only changed the logo cause it was all messed up in light mode, now its all messed up in dark mode :("
+  "i only changed the logo cause it was all messed up in light mode, now its all messed up in dark mode :(",
+  "respect to the legends that play luma on a fieldtrip"
 ];
 
 var seCode = ['KeyK', 'KeyE', 'KeyV', 'KeyB','KeyO'];

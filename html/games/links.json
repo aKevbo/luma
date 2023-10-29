@@ -1,17 +1,20 @@
 {
-
- 
-  
   "links": [
+    {
+      "title": "Spooky Event 2023",
+      "games": [
+        [ 
+          "Dreader",
+          "/img/dreader.png",
+          "https://v6p9d9t4.ssl.hwcdn.net/html/3704931/index.html",
+          ""
+        ]
+      ]
+    },
+
     {
       "title": "Platformers",
       "games": [
-        [
-          "Roblox",
-          "/img/roblox.webp",
-          "https://rblx.kevinhalushack.repl.co/",
-          ""
-        ],
         [
           "MotoX3M",
           "/img/motox3m.avif",
@@ -85,12 +88,6 @@
           ""
         ],
         [
-          "Vex 8",
-          "/img/v8.png",
-          "https://html5.gamedistribution.com/949009d40a2846f89f887de2285d6c28/?gd_sdk_referrer_url=https://www.gamerazi.com/action/vex-8-play.html",
-          ""
-        ],
-        [
           "Slope",
           "/img/slope.jpg",
           "https://slope.kevinhalushack.repl.co",
@@ -123,7 +120,7 @@
         [
           "Snow Rider 3D",
           "/img/snowrider.png",
-          "https://html5.gamedistribution.com/3b79a8537ebc414fb4f9672a9b8c68c8/",
+          "https://snow-rider-3d.kevinhalushack.repl.co/",
           ""
         ],
         [
@@ -133,19 +130,27 @@
           ""
         ],
         [
+          "Smash Karts",
+          "/img/driftboss.png",
+          "https://skunblocked.com/",
+          ""
+        ],
+        [
           "Drift Hunters",
           "/img/drifthunters.jpg",
           "https://v6p9d9t4.ssl.hwcdn.net/html/1792221/ItchIO/index.html",
           ""
+        ],
+        [
+          "Basket Bros",
+          "/img/driftboss.png",
+          "https://basket-bros-1--kevinhalushack.repl.co/__replco/devtools_wrapper.html",
+          ""
         ]
         
-       
-
-       
-
-    
       ]
     },
+
     {
       "title": "Flash Games",
       "games": [
@@ -265,6 +270,7 @@
         ]
       ]
     },
+
     {
       "title": "Emulation",
       "games": [
@@ -455,8 +461,6 @@
   "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gba/pokemonemerald.gba",
   "<q>my favorite pokemon game<q> - kevin h 9/5/23"
 ]
-
-
       ]
     },
 
@@ -464,27 +468,9 @@
         "title": "Other Games",
         "games": [
           [
-            "Shell Shockers",
-            "/img/shellshock.jpg",
-            "https://algebra.best",
-            "It's back baby! Linewize aint got nothing on Goguardian."
-          ],
-          [
             "1v1.lol",
             "/img/1v1lol.png",
-            "https://d1tm91r4ytbt54.cloudfront.net/4a2bd50a-0f2f-45be-9e66-a2adf5849945/1680626121644/1v1-lol/index.html",
-            ""
-          ],
-          [
-            "Minecraft 1.8.8",
-            "/img/mc188.png",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/minecraft-18/index.html",
-            ""
-          ],
-          [
-            "Minecraft 1.5.2",
-            "/img/mc152.png",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/minecraft-15/index.html",
+            "https://1v1lol-2.kevinhalushack.repl.co/",
             ""
           ],
           [
@@ -496,14 +482,14 @@
           [
             "Swordbattle.io",
             "/img/sb.png",
-            "https://swordbattleio.codergautamyt.repl.co/",
+            "https://sword-io-game.herokuapp.com/",
             ""
           ],
           [
             "Crossy Road",
             "/img/crossyroad.png",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/crossyroad/index.html",
-            ""
+            "Might take a few minutes to load."
           ],
           [
             "Paper.io 2",
@@ -606,8 +592,19 @@
             "/img/gf.png",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/google-feud/index.html",
             ""
+          ],
+          [
+            "Getting Over It: Scratch Edition",
+            "/img/crossyroad.png",
+            "https://scratch.mit.edu/projects/389464290/embed",
+            "Might take a few minutes to load."
+          ],
+          [
+            "Idle Breakout",
+            "/img/crossyroad.png",
+            "https://v6p9d9t4.ssl.hwcdn.net/html/1317921/index.html?v=1574335907",
+            "Might take a few minutes to load."
           ]
-         
           
       
         ]
