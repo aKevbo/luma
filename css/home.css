@@ -9,8 +9,8 @@ body {
 .bg img {
 	filter: brightness(90%);
 	object-fit: contain;
-	width: max(120vw, 120vh);
-	height: max(120vw, 120vh);
+	width: max(90vw, 90vh);
+	height: max(90vw, 90vh);
 	position: fixed;
 	top: 50%;
 	left: 50%;

@@ -1,13 +1,13 @@
 {
   "links": [
     {
-      "title": "Spooky Event 2023",
+      "title": "Proxy",
       "games": [
         [ 
-          "Dreader",
-          "/img/dreader.png",
-          "https://v6p9d9t4.ssl.hwcdn.net/html/3704931/index.html",
-          ""
+          "Nebula",
+          "/img/nebula.png",
+          "https://google.sharifelmas1.repl.co/",
+          "UNBLOCK ANYTHING!!!"
         ]
       ]
     },
@@ -604,9 +604,15 @@
             "/img/idlebreakout.png",
             "https://v6p9d9t4.ssl.hwcdn.net/html/1317921/index.html?v=1574335907",
             ""
+          ],
+          [
+            "Dreader",
+            "/img/dreader.png",
+            "https://v6p9d9t4.ssl.hwcdn.net/html/3704931/index.html",
+            ""
           ]
           
-      
+       
         ]
       }
 
