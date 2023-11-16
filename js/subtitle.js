@@ -50,6 +50,10 @@ const say = [
   "it's really your own fault if you get caught",
   "We are Number One",
   "Click Me!",
+  "Click Me!",
+  "Click Me!",
+  "Click Me!",
+  "Click Me!",
   "Kanye did nothing wrong",
   "Hey you, shut up",
   "Hey, it says gullible on the ceiling.",
@@ -68,7 +72,20 @@ const say = [
   "Luma won't fall off.",
   "why we using linewize? unblocking is too easy lmao",
   "i only changed the logo cause it was all messed up in light mode, now its all messed up in dark mode :(",
-  "respect to the legends that play luma on a fieldtrip"
+  "respect to the legends that play luma on a fieldtrip",
+  "mellow is sigma frfr",
+  "jake is sigma frfr",
+  "aint no way nebula is copying my links bruh 💀💀 lookin at u chance...",
+  "<q>add doom eternal to the next update please</q>",
+  "can u add some ps5 games next update?",
+  "DONT TYPE KEVBO ON THE HOMEPAGE PLEASE I BEG U!!!",
+  "DONT TYPE KEVBO ON THE HOMEPAGE PLEASE I BEG U!!!",
+  "DONT TYPE KEVBO ON THE HOMEPAGE PLEASE I BEG U!!!",
+  "i wanna go home :(",
+  "i mean i added nintendo ds games is that enough?",
+  "i wanna work for mcdonalds one day",
+  "my dad own roblox, you better watch out bro",
+  "thx for da visits"
 ];
 
 var seCode = ['KeyK', 'KeyE', 'KeyV', 'KeyB','KeyO'];

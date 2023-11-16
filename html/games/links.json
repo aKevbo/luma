@@ -1,19 +1,7 @@
 {
   "links": [
     {
-      "title": "Proxy",
-      "games": [
-        [ 
-          "Nebula",
-          "/img/nebula.png",
-          "https://google.sharifelmas1.repl.co/",
-          "UNBLOCK ANYTHING!!!"
-        ]
-      ]
-    },
-
-    {
-      "title": "Platformers",
+      "title": "Games",
       "games": [
         [
           "MotoX3M",
@@ -146,14 +134,10 @@
           "/img/basketbros.jpg",
           "https://basket-bros-1--kevinhalushack.repl.co/__replco/devtools_wrapper.html",
           ""
-        ]
+        ],
         
-      ]
-    },
+      
 
-    {
-      "title": "Flash Games",
-      "games": [
         [
           "IndestructoTank",
           "/img/indestructo.png",
@@ -267,13 +251,663 @@
           "/img/QWOP.png",
           "https://ruffle.kevinhalushack.repl.co/QWOP/",
           ""
-        ]
-      ]
-    },
-
-    {
-      "title": "Emulation",
-      "games": [
+        ],
+        [
+          "Alien Homonid",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ah.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=alien_hominid.swf",
+          "Alien Hominid is a side-scrolling shooter in a similar vein to games such as Metal Slug, where one hit instantly kills and has a two-player simultaneous play. Players take over as the titular hominid, who has to fend off waves of secret agents."
+        ],
+        [
+          "Age Of War",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/aow.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=age_of_war.swf",
+          "Age of War is an epic base defense strategy game where you fight a continuous war. Keep creating units to protect your base and destroy the enemy. When you earn enough XP, your civilization will evolve through the ages, offering new technologies to utilize in combat.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=age_f_war.swf"
+        ],
+        [
+          "Apple Shooter",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/as.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=weebly_apple_shooter.swf",
+          "Shoot the apple off your friend's head using a bow and arrow in Apple Shooter, a classic game! The game consists of multiple archery rounds. You're trying to shoot an apple off your friend's head. Every time you succeed, the distance increases. But be careful: if you shoot your friend, the game is over!"
+        ],
+        [
+          "Asteroids",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ar.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=asteroids.swf",
+          "Asteroids is an iconic arcade game where players pilot a spaceship through an asteroid field, shooting the rocks while dodging collisions. The game features progressively difficult levels with faster and more numerous asteroids, testing players' reflexes and strategy. Successful players must be quick-thinking and precise in their movements."
+        ],
+        [
+          "Abobos Big Adventure",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/aba.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=abobbos-big-adventure.swf",
+          "In Abobo's Big Adventure, players control the muscular character Abobo from the Double Dragon series, who embarks on a quest to save his son. The game features levels and bosses inspired by classic video games such as Super Mario Bros. and The Legend of Zelda, with retro graphics and humorous elements that pay homage to the golden age of gaming."
+        ],
+        [
+          "Avalanche",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/avalanche.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=avalanche.swf",
+          "Avalanche is a free platform puzzle game. Are you a towelette, or maybe a marshmallow? Whatever the case, there are huge, square bolts to dodge. Can you avoid this avalanche?"
+        ],
+        [
+          "Axis Football League",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/afl.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=afl.swf",
+          "Axis Football League is a fun and fast-paced American Football game in which you can compete in various football matches and leagues."
+        ],
+        [
+          "Bloxorz",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/bx.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloxorz.swf",
+          "Bloxorz is a simple yet addictive game – move a block around a floating platform using the arrows, dropping it through the square hole to complete the level. That's it! Simple as it sounds, the levels get more and more taxing, though we can assure you that they are all actually solveable!"
+        ],
+        [
+          "Bloons Tower Defence",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/btd.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd.swf",
+          "Bloons Tower Defense is a game where players have to defend against colored bloons with monkeys, dart throwers, and other towers positioned around the map."
+        ],
+        [
+          "Bloons Tower Defence 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/btd2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd2.swf",
+          "Bloons Tower Defense 2 is a popular tower defense game where the objective in this game is to stop the balloons from reaching the exit. When a balloon reaches the end successfully, you lose a life."
+        ],
+        [
+          "Bloons Tower Defence 3",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/btd3.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd3.swf",
+          "Bloons Tower Defense 3 is a tower defense game in which you deploy monkeys with darts to pop balloons. The game is a spin-off from the Bloons game series and the sequel to Bloons Tower Defense 2."
+        ],
+        [
+          "BoxHead 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/b2p.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=boxhead2.swf",
+          "Boxhead: 2Play Rooms is a zombie shooter that has multiplayer functionality. The game is the fourth in the Boxhead series, but the first one with multiplayer."
+        ],
+        [
+          "Bubble Shooter",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/bs.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bubble-shooter.swf",
+          "Bubble Shooter is a game where the goal is to clear the playing field by forming groups of three or more marbles of the same color. The game ends when the balls reach the bottom line of the screen. The more balls destroyed in one shot, the more points scored. A player wins when there are no balls remaining on the playing field."
+        ],
+        [
+          "Cat Ninja",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/cn.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=catninja.swf",
+          "Cat Ninja is one of our incredible Adventure Games in which you will be defeating other ninjas. Your character is a little blue cat who needs to avoid from deadly lasers and sharp objects as they might be dangerous. You can change the gravity in this game and it makes jumping and climbing the walls easier for you."
+        ],
+        [
+          "Color Combat",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/cc.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=color_combat.swf",
+          "It's a combat of colors! This one-of-a-kind game tests players' speed as they try to hit moving lights that correspond with their color. Whoever correctly hits the most lights the fastest becomes the Color Combat winner!"
+        ],
+        [
+          "Commando",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/com.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=commando2_1.swf",
+          "Commando is a man-to-man tactical combat game that simulates commando operations from World War II to the present. Although it was marketed as a role-playing game, reviewers called it primarily a board wargame with a set of role-playing rules grafted onto it."
+        ],
+        [
+          "Cubefield",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/cf.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=cubefield.swf",
+          "Cubefield is a simple but addictive game, there are only two controls – left and right. Tap either the left or right side of your screen to guide your ship through an endless field of ominous looking colored cubes – if you hit one, it's game over. Beware – after a gentle introduction, the speed goes up and up!"
+        ],
+        [
+          "Dad n' Me",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/dnm.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dadnme.swf",
+          "In Dad 'N Me, the player controls a small, purple, gorilla like creature who starts the game in a neighbourhood of humans. The main objective of the game is to beat up anyone who stands in your way, whether they be innocent children, bullies or adults."
+        ],
+        [
+          "Don't Whack Your Teacher",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/dwyt.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dwyt.swf",
+          "Don't Whack Your Teacher (usually known as Whack Your Teacher) is a game where you do exactly that. In this one, you have 13 unique ways to kill your teacher."
+        ],
+        [
+          "Defend Your Castle",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/dyc.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=102209_castle202c.swf",
+          "Defend Your Castle is a series of video games developed by XGen Studios. The original version of Defend Your Castle is a Macromedia Flash-based browser game. It requires the player to kill all enemy units before they destroy the player's castle.Dragon Ball: Devolution is an unofficial fighting game in the Dragon Ball Series released for browsers. The game contains a massive roster of characters from all corners of the franchise, in an artstyle resembling Dragon Ball Z: Goku's Fierce Battle Story."
+        ],
+        [
+          "Dragon Ball Z Devolution",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/dbzd.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dbzd.swf",
+          "Dragon Ball: Devolution is an unofficial fighting game in the Dragon Ball Series released for browsers. The game contains a massive roster of characters from all corners of the franchise, in an artstyle resembling Dragon Ball Z: Goku's Fierce Battle Story."
+        ],
+        [
+          "Dragon Ball Z",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/dbz.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dragonballz.swf",
+          ""
+        ],
+        [
+          "Duck Hunt",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/dh.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=duckhunt.swf",
+          "Duck Hunt is a fantastic arcade game that takes inspiration from the original classic available on Nintendo game systems. You must shoot the moving ducks down with your mouse and see how many points you can score. The hunting is fun and the controls to aim and fire your weapon are simple to master."
+        ],
+        [
+          "Duck Life",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/dl.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife1.swf",
+          "A tornado has struck your farm and destroyed everything. All that remains is a single duck egg. Train this duckling to peak athletic form so you can earn money to rebuild the farm."
+        ],
+        [
+          "Duck Life 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/dl2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife2.swf",
+          "Duck Life 2 is an adventure game where you train your duck to race in various disciplines such as running, flying, swimming and climbing to be the best duck adventurer in the world. Earn coins by training or racing fellow ducks. There are five locations for races: Scotland, England, Egypt, Hawaii and Japan."
+        ],
+        [
+          "Duck Life 3",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/dl3.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife3.swf",
+          "Duck Life 3 is a duck racing game featuring genetically modified ducks that evolve as you progress. Choose from one of four duck breeds and evolve as you complete each league. Like the previous game, training is essential to level up and improve your abilities."
+        ],
+        [
+          "Duck Life 4",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/dl4.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife4.swf",
+          "Train your duck in 15 mini-games featuring running, swimming, flying, climbing and jumping. Watch proudly as it competes in tournaments against rival ducks, discovering exciting worlds and learning new skills."
+        ],
+        [
+          "Earn to Die",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/etd.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=earntodie.swf",
+          ""
+        ],
+        [
+          "Earn to Die 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/etd2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=earntodie2.swf",
+          ""
+        ],
+        [
+          "Electricman 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/em2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=electricman2.swf",
+          "You're in a tournament against other stickmen who are trying to beat you for the grand prize. Beat out every one of these stickmen using your electrifying power moves. There are no rules and several rounds with a varying of opponents that you need to defeat."
+        ],
+        [
+          "The Fancy Pants Adventures",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/fpa.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=fancypantsadventure.swf",
+          "It is a platforming game that is focused on speed and momentum. World 1 also introduces various trophies, side goals (squiggles and stars), and a variety of colors and styles of pants for the player to try on."
+        ],
+        [
+          "Escaping the Prison",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/etp.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=etp.swf",
+          "Escaping The Prison is a fantastically fun stick figure game where you... Well, escape the prison! After being thrown in a prison cell, you must use anything and everything at your disposal to escape!"
+        ],
+        [
+          "Stealing the Diamond",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/std.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=std.swf",
+          "Stealing the Diamond is the third game in the Henry Stickmin series. It takes place after Escaping the Prison and before Infiltrating The Airship, and is considered Episode 2 of the Henry Stickmin Collection."
+        ],
+        [
+          "Breaking the Bank",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/btb.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=breakingthebank.swf",
+          "Henry Stickmin attempts to break into a bank, built in the middle of a desert. He stands next to a wall and wonders how to break inside."
+        ],
+        [
+          "Infiltrating the Airship",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ita.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=infiltratingtheairship.swf",
+          "Infiltrating the Airship is the fourth game in the Henry Stickmin series. It is the sequel to Stealing the Diamond and takes place before Fleeing the Complex and is named as Episode 3 of the Henry Stickmin story. The game has four different endings and one fake ending."
+        ],
+        [
+          "Fleeing the Complex",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ftc.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=fleeingthecomplex.swf",
+          "You are trapped inside a small prison cell, and you have to escape not just your cell, but the whole prison! If you fail, death is awaiting you... Fleeing the Complex is an amazing stick figure escape game. The highly secured prison is guarded by some strong stick soldiers."
+        ],
+        [
+          "Freeway Fury",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/freezeria.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=freewayfury.swf",
+          "In Freeway Fury the player is a daredevil jumping from car to car at high speed, striving to get as many stunt points as possible. The game plays as a vertical, top-down racer reminiscent of Spy Hunter: if the player's car gets badly damaged, they can jump onto another one and proceed."
+        ],
+        [
+          "Gunblood",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/gb.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=1gunblood.swf",
+          "This town isn't big enough for the two of us, so draw! If you have ever wanted to be a part of a western duel, then look no further than Gunblood! Choose from one of ten wild west characters and attempt to outshoot your opponents! Nine rounds of intense, reaction based duels await you in this visceral game! After every successful duel, you are met with another, more challenging opponent and your odds of survival greatly decrease!"
+        ],
+        [
+          "Hobo",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/h.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo.swf",
+          "Hobo: Tough Life is an urban survival role-playing game where you play as a homeless person. Play alone or team up in online co-op. Explore the streets of Praslav, scavenge for food and supplies, beg, steal, and do whatever else it takes to survive the forthcoming winter."
+        ],
+        [
+          "Hobo 2: Prison Brawl",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/h2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo2.swf",
+          "Hobo 2 is the fantastic sequel to the popular original title – this time you must fight inside a deadly prison against your cell mates. Our hobo wants to rampage through the prison and escape to freedom – he wants to smash his way to the outside and cause as much damage and mayhem as possible."
+         ],
+        [
+          "Hobo 3: Wanted",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/h3.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo3.swf",
+          "Hobo 3 continues with the story line where Hobo is a wanted fugitive after escaping from prison, and the government wants him dead or alive."
+        ],
+        [
+          "Hobo 4: Total War",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/h4.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo4.swf",
+          ""
+        ],
+        [
+          "Hobo 5: Space Brawls",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/h5.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo5.swf",
+          "Hobo 5 is a game where you play as a hobo who tries to escape from the alien's abduction. Fight with the aliens by kicking and punching them!"
+        ],
+        [
+          "Hobo 6: Hell",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/h6.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo6.swf",
+          "After dying from lack of oxygen, Hobo goes to Hell, where Satan and his minions are angry by his doing-nothing behavior. So he must now fight to defeat Satan. After dying from lack of oxygen, Hobo goes to Hell, where Satan and his minions are angry by his doing-nothing behavior. So he must now fight to defeat Satan."
+        ],
+        [
+          "Hobo 7: Heaven",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/h7.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo7.swf",
+          "After defeating the devil in Hell, Hobo is sent to Heaven, but God and his angel are getting angry by his attitude of life, so he must fight against the holy powers."
+        ],
+        [
+          "Interactive Buddy",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ib.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=interactivebuddy.swf",
+          "Interactive Buddy is an arcade game where you interact with your virtual buddy. For every interaction, you earn money to buy new weapons, skins, and more!"
+        ],
+        [
+          "Interactive Buddy 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ib2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=interactivebuddy2.swf",
+          ""
+        ],
+        [
+          "Johnny Rocketfingers 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/jrf2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=johnny2.swf",
+          "Johnny Rocketfingers 2 is a point-and-click adventure game that lets you play as Johnny Rocketfingers, the toughest, bravest, strongest guy around. This time, you will have to find who's out to get you, and give them a little visit."
+        ],
+        [
+          "Learn to Fly",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ltf.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=learntofly.swf",
+          "Learn to Fly is a launcher game where you play as a penguin attempting to fly using a ramp and various gadgets. In this game, your goal is simple: fly as high, long, and far as possible."
+        ],
+        [
+          "Learn to Fly 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ltf2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=learntofly2.swf",
+          "Learn to Fly 2 is a launcher game where you play as a penguin attempting to fly using a ramp and various gadgets. It is the sequel of the highly-rated game Learn to Fly. In this game, you play a penguin trying to launch himself in the air to fly."
+        ],
+        [
+          "Learn to Fly 3",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ltf3.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=learntofly3.swf",
+          "In Learn to Fly 3, you have to build, customize and upgrade a spaceship to reach space in an arcadey environment. Each playthrough earns you new parts to mess around with and assemble new exciting contraptions."
+        ],
+        [
+          "Mario Combat",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/mc.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=Mario_Combat.swf",
+          "Mario-Combat is an action platformer by D-SuN. It portrays the popular video game character Mario in an attack on Bowser's castle."
+        ],
+        [
+          "Miami Shark",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ms.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=miami-shark.swf",
+          "Miami Shark is an intense action game in which you control a shark that needs to cause havoc in the Miami water."
+        ],
+        [
+          "Meat Boy",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/mb.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dagobah_Meat_Boy.swf",
+          "Super Meat Boy is a tough as nails platformer where you play as an animated cube of meat who's trying to save his girlfriend (who happens to be made of bandages) from an evil fetus in a jar wearing a tux. Our meaty hero will leap from walls, over seas of buzz saws, through crumbling caves and pools of old needles."
+        ],
+        [
+          "Mini Putt",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/mp.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=miniputt.swf",
+          "Miniature golf, also known as minigolf, mini-putt, crazy golf, or putt-putt, is an offshoot of the sport of golf focusing solely on the putting aspect of its parent game. The aim of the game is to score the lowest number of points."
+        ],
+        [
+          "Minecraft TD",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/mctd.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=minecrafttd.swf",
+          "In Minecraft TD, you are protecting your home from all the different and dangerous creatures of the Minecraft world, which includes creepers, wolves, and zombies. Your first goal is to get to your destination by making a path towards it."
+        ],
+        [
+          "Mario Kart Flash",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/mcf.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=mariokartflash.swf",
+          "You might know Mario Kart, the most fun racing game series of all time! Mario Kart PC uses the same base as the original games but is playable on your browser, and for free."
+        ],
+        [
+          "Mutilate a Doll",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/mad.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=mad.swf",
+          "Mutilate-a-Doll 2 is a highly customizable virtual stressball and physics sandbox about mutilating ragdolls in various ways using an overwhelming amount of weapons and tools."
+        ],
+        [
+          "New York Shark",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/nys.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=new-york-shark-unblocked.swf",
+          "In this crazy game you control a shark and try to destroy the whole city, maybe even the entire planet. In addition to aircraft, ships and people there will also appear some specials, such as Spider-Man."
+        ],
+        [
+          "This is the Only Level",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/only.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=this_is_the_only_level.swf",
+          "This is the Only Level is a series of puzzle platformer games made by Jmtb02, the majority of which star his blue elephant character. They each involve traversing through many iterations of the same level by solving puzzles of widely varying nature."
+        ],
+        [
+          "Pac-Man",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pm.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pacman.swf",
+          "Pac-Man is an action maze chase video game; the player controls the eponymous character through an enclosed maze. The objective of the game is to eat all of the dots placed in the maze while avoiding four colored ghosts — Blinky (red), Pinky (pink), Inky (cyan), and Clyde (orange) — that pursue Pac-Man."
+        ],
+        [
+          "Papa's Pizzeria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ppiz.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pizzeria.swf",
+          "Papa Louie has left the pizza shop! It is up to you to take over the business. You are playing as Roy, who must take over the pizzeria and make the orders accurately and on time! To start the game, just click on the save slot cards."
+        ],
+        [
+          "Papa's Burgeria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/burguria",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=burgeria.swf",
+          "Papa's Burgeria guides you through the basics of flipping burgers and making a buck. Take your first order and follow the instructions on-screen. You'll start by taking the order and frying up the patty, before finalizing the burger with tomatoes, onions, sauces, seeded buns, and other cherished burger ingredients."
+        ],
+        [
+          "Papa's Hot Doggeria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/papas-hotdog.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papashotdoggeria.swf",
+          "In Papa's Hot Doggeria you'll need to grill up juicy Hot Dogs, top them with a variety of condiments, and serve them to all the rowdy fans. You'll also have your hands full popping up fresh popcorn, and pouring a crazy amount of drinks for your hungry customers.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papashotdoggeria.swf"
+        ],
+        [
+          "Papa's Wingeria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/papas-wing.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papaswingeria.swf",
+          "Papa's Wingeria is a game in the Papa Louie series. It's the sixth cooking simulator game (aka Gameria) in the series, and is the sequel to Papa's Pancakeria. It involves making chicken wings with sides for the various customers that visit the establishment.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papaswingeria.swf"
+        ],
+        [
+          "Papa's Freezeria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/freezeria.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasfreezeria.swf",
+          "Papa's Freezeria is a restaurant management game where you manage a dessert shop while the owner is on a temporary leave. Serve the customers their favorite sweets at several stations by getting their order exactly right.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasfreezeria.swf"
+        ],
+        [
+          "Papa's Pancakeria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pancakeria.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papaspancakeria.swf",
+          "Papa's Pancakeria is a game in the Papa Louie series. It's the fifth cooking simulator game (aka Gameria) in the series, and is the sequel to Papa's Freezeria. It involves making pancakes and drinks for the various customers that visit the establishment.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papaspancakeria.swf"
+        ],
+        [
+          "Papa's Sushiria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/sushiria.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papassushiria.swf",
+          "Papa's Sushiria To Go is available for phones and tablets. When you break Papa Louie's lucky cat statue, he puts you in charge of Papa's Sushiria in Sakura Bay while he goes on a mission to find a replacement! You'll need to roll, slice, and serve sushi along with delicious bubble tea!",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papassushiria.swf"
+        ],
+        [
+          "Papa's Bakeria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pb.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasbakeria.swf",
+          "Papa's Bakeria is a restaurant management game where you manage a bakery. You're tasked with making and serving delicious pies to satisfy your loyal customers. Don't forget to complete all the achievements and serve all the VIP customers to maximize your bakery's success!",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasbakeria.swf"
+        ],
+        [
+          "Papa's Cheeseria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pc.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papascheeseria.swf",
+          "Papa's Cheeseria is a game in the Papa Louie series. It's the eleventh cooking simulator game (aka Gameria) in the series, and is the sequel to Papa's Donuteria. It involves making grilled cheese sandwiches with fries for the various customers that visit the establishment.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papascheeseria.swf"
+        ],
+        [
+          "Papa's Donuteria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pd.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasdonuteria.swf",
+          "Papa's Donuteria is a game in the Papa Louie series. It's the tenth cooking simulator game (aka Gameria) in the seires, and is the sequel to Papa's Pastaria. It involves making donuts for the various customers that visit the establishment.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasdonuteria.swf"
+        ],
+        [
+          "Papa's Pastaria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pp.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papaspastaria.swf",
+          "Papa's Pastaria is a game in the Papa Louie series. It's the ninth cooking simulator game (aka Gameria) in the seires, and is the sequel to Papa's Cupcakeria. It involves making pasta and bread for the various customers that visit the establishment.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papaspastaria.swf"
+        ],
+        [
+          "Papa's Scooperia",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ps.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasscooperia.swf",
+          "Papa Louie comes up with solution to help you get back on your feet: He wants you to stay and run his new ice cream shop in Oniontown! You'll be baking fresh cookies, topping them with scoops of decadent ice cream, and adding delicious toppings and syrups before serving the sundaes to your hungry customers.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasscooperia.swf"
+        ],
+        [
+          "Papa's Taco Mia",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ptm.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papastacomia.swf",
+          "In this game the player makes tacos. You can unlock all the ingredients and upgrade your shop to increase style, speed, and scores. The player must be quick on serving those new, picky Closers (Robby, Kahuna, Quinn, Xandra, Allan, Johnny and Jojo) and show them your wild taco making skills.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papastacomia.swf"
+        ],
+        [
+          "Papa's Cupcakeria",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pcc.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papascupcakeria.swf",
+          "Papa's Cupcakeria is a game in the Papa Louie series. It's the eighth cooking simulator game (aka Gameria) in the series, and is the sequel to Papa's Hot Doggeria. It involves making cupcakes for the various customers that visit the establishment.",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papascupcakeria.swf"
+        ],
+        [
+          "Pong",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pong.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pong.swf",
+          "Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth."
+        ],
+        [
+          "Portal: The Flash Version",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pf.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=Portal_wcs2.swf",
+          "Portal: The Flash Version is a puzzle platformer game. It is based on Valve's Portal and gives you portal puzzles in 2D. The flash game is centered around the use of a portal gun, very similar to the game it is based on"
+        ],
+        [
+          "Potty Racers",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pr.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers.swf",
+          "Potty Racers is a fun racing game in which you must build your very own potty and attempt to fly it as far as possible by hurtling down a hillside and launching off a ramp! As you hurtle down the hill and launch off of the ramp, you must use your arrow keys to maintain balance and try to fly great distances."
+        ],
+        [
+          "Potty Racers 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pr2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers2.swf",
+          "Potty Racers 2 is a free launch game. A new island is now unlocked for your potty racing pleasure! Upgrade to Number 2!"
+        ],
+        [
+          "Potty Racers 3",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pr3.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers3.swf",
+          "In Potty Racers 3 you still aspire to become the greatest racer in the world, and you must improve your potty and racing skills to reach new distances"
+        ],
+        [
+          "Potty Racers 4",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pr4.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers4.swf",
+          "Ready for another crappy flight? Get comfortable in this travelling potty, and cruise around the world, collecting the missing stars. You will need to upgrade your craptacular aircraft repeatedly if you are going to make any progress, so collect all the gold and fuel you can to keep going."
+        ],
+        [
+          "Ragdoll Avalanche 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ra2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ragdollavalanche2.swf",
+          "You control a ragdoll stickman and you move him around the screen using the arrow keys - the focus of the control is in the head. Sharp spikes randomly appear at the top of the screen falling downwards and it is up to you to dodge them. The goal is to dodge as many spikes as you can before dying."
+        ],
+        [
+          "Rage 3",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/r3.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=rage3.swf",
+          "Rage 3 is the 3rd game in the Rage series and follows the same principle, harness your rage to defeat all the enemies in front of you. Go through the Adventure mode to enjoy some platforming challenges while you beat your enemies flat into the ground."
+        ],
+        [
+          "Riddle School",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/rs.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool.swf",
+          "Riddle School focuses upon a lone student, Phil Eggtree, who, after studying Math for the day, decides to escape. The player must find objects and use them to distract teachers and students and prevent them from stopping the escape."
+        ],
+        [
+          "Riddle School 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/rs2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool2.swf",
+          "Riddle Transfer 2 is a Flash Game made by JonBro (Jonochrome). It is the sequel to Riddle Transfer 1. The flash game was released on Newgrounds on the 10th anniversary of the Riddle School Series (May 25th, 2016), and is the last game of the series."
+        ],
+        [
+          "Riddle School 3",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/rs3.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool3.swf",
+          "Riddle School 3 is a point-click game flash game available online through Crazygames.com. You play as a character named Phil Eggtree whose goal is to escape the school. This wikiHow teaches you the fastest way to get beat the game."
+        ],
+        [
+          "Riddle School 4",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/rs4.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool4.swf",
+          "Riddle School 4 is the shortest game in the Riddle School series. After clicking while in the game, Mr. Munch, the protagonist Phil Eggtree's teacher, pushes a button, causing Eggtree to fall into a volcano that the university was built on."
+        ],
+        [
+          "Riddle School 5",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/rs5.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool5.swf",
+          "Take control of Phil once more in his epic quest to escape his captors; a group of aliens who threaten the very existence of Earth! Search the mysterious area where you are being held and use all of the objects you come across to help you put an end to their plans once and for all!"
+        ],
+        [
+          "Riddle Transfer",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/rt.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddletransfer.swf",
+          "Riddle Transfer is another in a long line of fantastic, addicting point and click adventure games where the main goal is to escape! Search for hidden items, combine them and use whatever tools you can find to escape from the strange facility and get Phil to safety!"
+        ],
+        [
+          "Riddle Transfer 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/rt2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddletransfer2.swf",
+          "Following a tale of backstabbing, flying pigs and a chat with the abominable snowman, Riddle Transfer 2 sees us re-join Phil and chums in the sewers of Zone 5.1 where we must use a teleporter to, err, travel back to Riddle School so we can escape to save the world from evil aliens."
+        ],
+        [
+          "Raft Wars",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/rw.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=raftwars.swf",
+          "Raft Wars is a level-based shooting game created by Martijn Kunst, where the player control two characters, Simon and his brother, who will need to defend their treasure from different kinds of enemies."
+        ],
+        [
+          "Raft Wars 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/rw2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=raftwars2.swf",
+          "Raft Wars 2 is an action-packed shooting game created by Martijn Kunst as the sequel to the hit game Raft Wars. Simon and his brother return from a well-deserved holiday only to find a water park on top of where they've hidden their buried treasure."
+        ],
+        [
+          "Run",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/run.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=run.swf",
+          "Run! Avoid the holes in the corridor. Run into the walls to rotate the screen."
+        ],
+        [
+          "Run 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/run2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=run2.swf",
+          "In Run 2, you play as a gray alien running through a series of different levels. You must run across platforms while avoiding obstacles and gaps in the floor."
+        ],
+        [
+          "Stick RPG",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/srpg.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=stickrpg.swf",
+          "Stick RPG is a fun, fiction RPG game where you can survive by drug dealing, bar fights, or bank robberies. When you start the game you are given three choices you can choose from. Those three choices include how long you want your game to last."
+        ],
+        [
+          "Sonic Flash",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/son.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ultimate-flash-sonic.swf",
+          "Ultimate Flash Sonic is an Adobe Flash game by Dennis Gid released in 2004. It is a fan game platformer based on Sonic the Hedgehog, specifically the first two games in the Sonic Advance Trilogy."
+        ],
+        [
+          "Super Mario 63",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/sm63.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=supermario63.swf",
+          "Super Mario 63 is a play on Super Mario 64, but it features enemies, characters, and abilities from several other games of the Mario franchise, as well as a level designer that allows creating custom levels. Logo of Super Mario 63. Players can create and upload additional courses."
+        ],
+        [
+          "Super Smash Flash",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ssf.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ssf.swf",
+          "Super Smash Flash is a series of fighting browser games published by indie company McLeodGaming, led by Gregory McLeod under the alias Cleod9. It is based on the Super Smash Bros series. The original Super Smash Flash is based specifically on Super Smash Bros. Melee."
+        ],
+        [
+          "Super Mario Flash",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/smf.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dagobah_super_mario_flash.swf",
+          "The classic Super Mario games but remade with adobe flash"
+        ],
+        [
+          "Tank Trouble",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/tt.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=tanktrouble.swf",
+          "Tank Trouble is an online tank game where you drive in a maze and shoot missiles at your enemies. Tank Trouble pits you against clever army generals in mazelike battlefields. In Solo mode, you will face Laika, a master of war. You can also challenge a friend or two in multiplayer warfare."
+        ],
+        [
+          "Tetris",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/tet.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=flash-tetris.swf",
+          "Tetris is a tile-matching puzzle game, developed in the Soviet Union in 1984. The game has a simple goal of destroying lines of blocks before it reaches the top. The line is made up of a square block. The Tetrimino is the shape of the 4 connected blocks that fall down."
+        ],
+        [
+          "The Binding of Isaac",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/tboi.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=tboi.swf",
+          "The Binding of Isaac is a top-down dungeon crawler game, presented using two-dimensional sprites, in which the player controls Isaac or other unlockable characters as they explore the dungeons located in Isaac's basement."
+        ],
+        [
+          "The Impossible Quiz",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/impossiblequiz.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=TheImpossibleQuiz.swf",
+          "The Impossible Quiz is an online trivia quiz that features only very hard questions. Many of the questions have double meanings, tricks and puns and requires you to think outside the box. Out of the four answers, only one answer is right. There are in total 110 questions."
+        ],
+        [
+          "The World's Hardest Game",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/whg.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=theworldshardestgame.swf",
+          "The World's Hardest Game is an addictive puzzle game consisting of 30 incredibly challenging levels. The goal is simple: move your red block to the other end of the level whilst collecting any yellow coins scattered along the way. Although it sounds easy, there are many dangerous obstacles to dodge."
+        ],
+        [
+          "The World's Hardest Game 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/whg2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=theworldshardestgame2.swf",
+          "World's Hardest Game 2 is the second episode of the self-proclaimed world's hardest game series! Hone your reflexes and accuracy as you try to move your little block to the end of each stage without touching the obstacles. Doing so will bring you back to the start so you can try again."
+        ],
+        [
+          "Toss the Turtle",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ttt.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=toss_the_turtle.swf",
+          "Toss the Turtle is a launcher game. It is similar to many of the other launcher games. Instead of a cat or a penguin, you launch a turtle out of a cannon. In Toss the Turtle you have some control over the turtle and there are a large variety of objects in your path that may affect your speed or direction."
+        ],
+        [
+          "Unfair Mario",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/um.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=unfairmario.swf",
+          "Unfair Mario is a platform game inspired by Mario and Trap Adventure 2. Can you complete the level without triggering the hidden traps?"
+        ],
+    
 [
           "Super Mario 64",
           "/img/sm64.webp",
@@ -460,13 +1094,212 @@
   "/img/pokeemeraldversion.jpg",
   "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gba/pokemonemerald.gba",
   "<q>my favorite pokemon game<q> - kevin h 9/5/23"
-]
-      ]
-    },
-
-      {
-        "title": "Other Games",
-        "games": [
+],
+[
+  "Batman",
+  "/img/bm.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/example/batman.html",
+  ""
+],
+[
+  "Contra",
+  "/img/cont.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/miscgame/contracool.html",
+  ""
+],
+[
+  "Double Dragon ",
+  "/img/dd.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/miscgame/doubled.html",
+  ""
+],
+[
+  "Duck Tales ",
+  "/img/dt.png",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/example/ducktales.html",
+  ""
+],
+[
+  "Excite Bike ",
+  "/img/eb.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/example/excitebike.html",
+  ""
+],
+[
+  "Friday the 13th ",
+  "/img/ft13.png",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/example/f13.html",
+  ""
+],
+[
+  "Mega Man 2 ",
+  "/img/mm2.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/miscgame/megamandos.html",
+  ""
+],
+[
+  "The Legend Of Zelda - Links Awakening",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/linksawakeningdx.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=LinksAwakeningDX.gbc",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=LinksAwakeningDX.gbc",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=LinksAwakeningDX.gbc"
+],
+[
+  "The Legend of Zelda - The Minish Cap",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/minish-cap.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=minish-cap.gba",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=minish-cap.gba",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=minish-cap.gba"
+],
+[
+  "Mario Kart DS",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/mkds.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mkds.zip",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mkds.zip",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mkds.zip"
+],
+[
+  "Mother 3",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/mother3.png",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.zip",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.zip",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.zip"
+],
+[
+  "New Super Mario Bros",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/nsmb.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=nsmb.zip",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=nsmb.zip",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=nsmb.zip"
+],
+[
+  "Paper Mario 64",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/pm64.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip"
+],
+[
+  "Earthbound",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/earthbound.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=earthbound.sfc",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=earthbound.sfc",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=earthbound.sfc"
+],
+[
+  "Final Fantasy",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/finalfantasy.webp",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=finalfantasy.nes",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=finalfantasy.nes",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=finalfantasy.nes"
+],
+[
+  "Mike Tysons Punch Out",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/mtpo.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mtpo.nes",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mtpo.nes",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mtpo.nes"
+],
+[
+  "The Legend of Zelda - A Link to the Past",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/linktothepast.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=linktothepast.smc",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=linktothepast.smc",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=linktothepast.smc"
+],
+[
+  "Super Metroid",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/supermetroid.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=metroid.sfc",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=metroid.sfc",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=metroid.sfc"
+],
+[
+  "Earthbound Zero",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/mother.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother.nes",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother.nes",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother.nes"
+],
+[
+  "Super Mario RPG",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/smrpg.webp",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=smrpg.smc",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=smrpg.smc",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=smrpg.smc"
+],
+[
+  "Sonic Advance",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/sonic-advance.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=sonic-advance.gba",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=sonic-advance.gba",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=sonic-advance.gba"
+],
+[
+  "Mario &; Luigi - Superstar Saga",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/superstar-saga.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=superstar-saga.gba",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=superstar-saga.gba",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=superstar-saga.gba"
+],
+[
+  "Wario Land 4",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/warioland4.png",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=warioland4.gba",
+  "Wario Land 4 is a 2001 platform game developed by Nintendo and released for the Game Boy Advance. Wario has to gather four treasures to unlock a pyramid and save Princess Shokora from the Golden Diva.",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=warioland4.gba",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=warioland4.gba"
+],
+[
+  "Kirby - Super Star",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/kirbo.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=kirbo.smc",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=kirbo.smc",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=kirbo.smc"
+],
+[
+  "Mother 3",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/mother3.png",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba",
+  "Mother (known as EarthBound outside Japan) is a video game series that consists of three role-playing video games: Mother (1989), known as EarthBound Beginnings outside Japan",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba"
+],
+[
+  "Doom",
+  "/img/Doom.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/dos/doom.html",
+  "Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting their way through hordes of invading demons from hell"
+],
+[
+  "Super Street Fighter II TURBO",
+  "/img/ssf2t.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/dos/ssf2t.html",
+  "Super Street Fighter II Turbo[a] is a fighting game released for the arcades by Capcom in Japan on February 23, 1994, in North America on February 23 and March 26, 1994”."
+],
+[
+  "The Oregon Trail Deluxe",
+  "/img/tot.png",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/dos/tot.html",
+  "Oregon Trail Deluxe is one of the educational/edutainment computer game series produced by MECC. The game was released in 1974 and was inspired by the real-life Oregon Trail. Set in 1848, you will lead a party of settlers from Independence, Missouri, to Willamette Valley, Oregon using a Conestoga wagon."
+],
+  
           [
             "1v1.lol",
             "/img/1v1lol.png",
@@ -611,6 +1444,7 @@
             "https://v6p9d9t4.ssl.hwcdn.net/html/3704931/index.html",
             ""
           ]
+          
           
        
         ]
