@@ -1,3 +1,7 @@
+#navbar #top-bar {
+	background-color: var(--theme);
+  }
+  
   body[data-theme="default"] {
     --background: #090f2c;
     --theme: #182a69;
@@ -84,4 +88,12 @@
     --theme-ts: #ff915e;
     --text: #2c2c2c;
     --text-secondary: #414141;
+  }
+
+  body[data-theme="gamecube"] {
+    --background: #6558A8;
+    --theme: #443870;
+    --theme-ts: #403468;
+    --text: #dadada;
+    --text-secondary: #ffffff;
   }

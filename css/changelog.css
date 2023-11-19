@@ -96,3 +96,7 @@ table.changelog-key td {
 .blocked {
   color: #bdc3c7;
 }
+
+#navbar #top-bar {
+	background-color: var(--theme);
+  }

@@ -1,7 +1,7 @@
 {
   "links": [
     {
-      "title": "Games",
+      "title": "Platformers",
       "games": [
         [
           "MotoX3M",
@@ -76,21 +76,27 @@
           ""
         ],
         [
+          "Vex 8",
+          "/img/v8.png",
+          "https://raw.githack.com/Corruptify/luma-assets/main/vex/8/index.html",
+          ""
+        ],
+        [
           "Slope",
           "/img/slope.jpg",
           "https://slope.kevinhalushack.repl.co",
           ""
         ],
         [
-          "Chrome Dino Runner",
-          "/img/chromedinorunner.png",
-          "https://raw.githack.com/Corruptify/luma-assets/main/trexrunner/index.html",
+          "Slope 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/slope-2/slope-2-logo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html",
           ""
         ],
         [
-          "Cut the Rope",
-          "/img/cuttherope.png",
-          "https://cut-the-rope.kevinhalushack.repl.co",
+          "Chrome Dino Runner",
+          "/img/chromedinorunner.png",
+          "https://raw.githack.com/Corruptify/luma-assets/main/trexrunner/index.html",
           ""
         ],
         [
@@ -112,15 +118,15 @@
           ""
         ],
         [
+          "Smash Karts",
+          "/img/smashkarts.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/smashkarts/index.html",
+          ""
+      ],
+        [
           "Drift Boss",
           "/img/driftboss.png",
           "https://drift-boss.kevinhalushack.repl.co/",
-          ""
-        ],
-        [
-          "Smash Karts",
-          "/img/smashkarts.png",
-          "https://skunblocked.com/",
           ""
         ],
         [
@@ -130,14 +136,24 @@
           ""
         ],
         [
+          "Drift City",
+          "/img/driftc.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/drift-city/index.html",
+          ""
+      ],
+        [
           "Basket Bros",
           "/img/basketbros.jpg",
           "https://basket-bros-1--kevinhalushack.repl.co/__replco/devtools_wrapper.html",
           ""
-        ],
+        ]
         
-      
+      ]
+    },
 
+    {
+      "title": "Flash Games",
+      "games": [
         [
           "IndestructoTank",
           "/img/indestructo.png",
@@ -151,6 +167,12 @@
           ""
         ],
         [
+          "Run 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/run2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=run2.swf",
+          "In Run 2, you play as a gray alien running through a series of different levels. You must run across platforms while avoiding obstacles and gaps in the floor."
+        ],
+        [
           "Run 3",
           "/img/run3.jpg",
           "https://ruffle.kevinhalushack.repl.co/run3/",
@@ -161,6 +183,18 @@
           "/img/bloons1.jpg",
           "https://ruffle.kevinhalushack.repl.co/BloonsTowerDefense/",
           ""
+        ],
+        [
+          "Bloons Tower Defence 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/btd2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd2.swf",
+          "Bloons Tower Defense 2 is a popular tower defense game where the objective in this game is to stop the balloons from reaching the exit. When a balloon reaches the end successfully, you lose a life."
+        ],
+        [
+          "Bloons Tower Defence 3",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/btd3.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd3.swf",
+          "Bloons Tower Defense 3 is a tower defense game in which you deploy monkeys with darts to pop balloons. The game is a spin-off from the Bloons game series and the sequel to Bloons Tower Defense 2."
         ],
         [
           "Bloxorz",
@@ -178,24 +212,6 @@
           "Wasted Sky",
           "/img/wastedsky.webp",
           "https://ruffle.kevinhalushack.repl.co/wastedsky/",
-          ""
-        ],
-        [
-          "Papas Pizzeria",
-          "/img/pizzeria.png",
-          "https://ruffle.kevinhalushack.repl.co/Pizzeria/",
-          ""
-        ],
-        [
-          "Papas Freezeria",
-          "/img/freezeria.png",
-          "https://ruffle.kevinhalushack.repl.co/Pizzeria/",
-          ""
-        ],
-        [
-          "Papas Sushiria",
-          "/img/sushiria.jpg",
-          "https://ruffle.kevinhalushack.repl.co/Sushiria/",
           ""
         ],
         [
@@ -296,30 +312,6 @@
           "Axis Football League is a fun and fast-paced American Football game in which you can compete in various football matches and leagues."
         ],
         [
-          "Bloxorz",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/bx.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloxorz.swf",
-          "Bloxorz is a simple yet addictive game – move a block around a floating platform using the arrows, dropping it through the square hole to complete the level. That's it! Simple as it sounds, the levels get more and more taxing, though we can assure you that they are all actually solveable!"
-        ],
-        [
-          "Bloons Tower Defence",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/btd.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd.swf",
-          "Bloons Tower Defense is a game where players have to defend against colored bloons with monkeys, dart throwers, and other towers positioned around the map."
-        ],
-        [
-          "Bloons Tower Defence 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/btd2.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd2.swf",
-          "Bloons Tower Defense 2 is a popular tower defense game where the objective in this game is to stop the balloons from reaching the exit. When a balloon reaches the end successfully, you lose a life."
-        ],
-        [
-          "Bloons Tower Defence 3",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/btd3.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd3.swf",
-          "Bloons Tower Defense 3 is a tower defense game in which you deploy monkeys with darts to pop balloons. The game is a spin-off from the Bloons game series and the sequel to Bloons Tower Defense 2."
-        ],
-        [
           "BoxHead 2",
           "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/b2p.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=boxhead2.swf",
@@ -350,10 +342,10 @@
           "Commando is a man-to-man tactical combat game that simulates commando operations from World War II to the present. Although it was marketed as a role-playing game, reviewers called it primarily a board wargame with a set of role-playing rules grafted onto it."
         ],
         [
-          "Cubefield",
+          "Cubefield: Flash Version",
           "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/cf.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=cubefield.swf",
-          "Cubefield is a simple but addictive game, there are only two controls – left and right. Tap either the left or right side of your screen to guide your ship through an endless field of ominous looking colored cubes – if you hit one, it's game over. Beware – after a gentle introduction, the speed goes up and up!"
+          ""
         ],
         [
           "Dad n' Me",
@@ -722,12 +714,6 @@
           "Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth."
         ],
         [
-          "Portal: The Flash Version",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pf.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=Portal_wcs2.swf",
-          "Portal: The Flash Version is a puzzle platformer game. It is based on Valve's Portal and gives you portal puzzles in 2D. The flash game is centered around the use of a portal gun, very similar to the game it is based on"
-        ],
-        [
           "Potty Racers",
           "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/pr.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers.swf",
@@ -818,18 +804,6 @@
           "Raft Wars 2 is an action-packed shooting game created by Martijn Kunst as the sequel to the hit game Raft Wars. Simon and his brother return from a well-deserved holiday only to find a water park on top of where they've hidden their buried treasure."
         ],
         [
-          "Run",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/run.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=run.swf",
-          "Run! Avoid the holes in the corridor. Run into the walls to rotate the screen."
-        ],
-        [
-          "Run 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/run2.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=run2.swf",
-          "In Run 2, you play as a gray alien running through a series of different levels. You must run across platforms while avoiding obstacles and gaps in the floor."
-        ],
-        [
           "Stick RPG",
           "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/srpg.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=stickrpg.swf",
@@ -840,12 +814,6 @@
           "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/son.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ultimate-flash-sonic.swf",
           "Ultimate Flash Sonic is an Adobe Flash game by Dennis Gid released in 2004. It is a fan game platformer based on Sonic the Hedgehog, specifically the first two games in the Sonic Advance Trilogy."
-        ],
-        [
-          "Super Mario 63",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/sm63.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=supermario63.swf",
-          "Super Mario 63 is a play on Super Mario 64, but it features enemies, characters, and abilities from several other games of the Mario franchise, as well as a level designer that allows creating custom levels. Logo of Super Mario 63. Players can create and upload additional courses."
         ],
         [
           "Super Smash Flash",
@@ -878,24 +846,6 @@
           "The Binding of Isaac is a top-down dungeon crawler game, presented using two-dimensional sprites, in which the player controls Isaac or other unlockable characters as they explore the dungeons located in Isaac's basement."
         ],
         [
-          "The Impossible Quiz",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/impossiblequiz.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=TheImpossibleQuiz.swf",
-          "The Impossible Quiz is an online trivia quiz that features only very hard questions. Many of the questions have double meanings, tricks and puns and requires you to think outside the box. Out of the four answers, only one answer is right. There are in total 110 questions."
-        ],
-        [
-          "The World's Hardest Game",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/whg.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=theworldshardestgame.swf",
-          "The World's Hardest Game is an addictive puzzle game consisting of 30 incredibly challenging levels. The goal is simple: move your red block to the other end of the level whilst collecting any yellow coins scattered along the way. Although it sounds easy, there are many dangerous obstacles to dodge."
-        ],
-        [
-          "The World's Hardest Game 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/whg2.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=theworldshardestgame2.swf",
-          "World's Hardest Game 2 is the second episode of the self-proclaimed world's hardest game series! Hone your reflexes and accuracy as you try to move your little block to the end of each stage without touching the obstacles. Doing so will bring you back to the start so you can try again."
-        ],
-        [
           "Toss the Turtle",
           "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/ttt.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=toss_the_turtle.swf",
@@ -906,8 +856,13 @@
           "https://raw.githubusercontent.com/lioxryt/lioxryt.github.io/main/img/um.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=unfairmario.swf",
           "Unfair Mario is a platform game inspired by Mario and Trap Adventure 2. Can you complete the level without triggering the hidden traps?"
-        ],
-    
+        ]
+      ]
+    },
+
+    {
+      "title": "Emulation",
+      "games": [
 [
           "Super Mario 64",
           "/img/sm64.webp",
@@ -920,6 +875,14 @@
           "/img/mk64.png",
           "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/mk64.z64",
           ""
+],
+[
+  "Paper Mario 64",
+  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/pm64.jpg",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
+  "",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
+  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip"
 ],
 [
         "The Legend of Zelda: Ocarina of Time",
@@ -1162,28 +1125,12 @@
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mkds.zip"
 ],
 [
-  "Mother 3",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/mother3.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.zip",
-  "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.zip",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.zip"
-],
-[
   "New Super Mario Bros",
   "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/nsmb.jpg",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=nsmb.zip",
   "",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=nsmb.zip",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=nsmb.zip"
-],
-[
-  "Paper Mario 64",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/pm64.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
-  "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip"
 ],
 [
   "Earthbound",
@@ -1298,8 +1245,13 @@
   "/img/tot.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/dos/tot.html",
   "Oregon Trail Deluxe is one of the educational/edutainment computer game series produced by MECC. The game was released in 1974 and was inspired by the real-life Oregon Trail. Set in 1848, you will lead a party of settlers from Independence, Missouri, to Willamette Valley, Oregon using a Conestoga wagon."
-],
-  
+]
+      ]
+    },
+
+      {
+        "title": "Other Games",
+        "games": [
           [
             "1v1.lol",
             "/img/1v1lol.png",
@@ -1307,7 +1259,7 @@
             ""
           ],
           [
-            "Monster Tracks",
+            "Monster Tracks (Drive Mad)",
             "/img/monstertracks.avif",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/monster-tracks/index.html",
             ""
@@ -1443,8 +1395,962 @@
             "/img/dreader.png",
             "https://v6p9d9t4.ssl.hwcdn.net/html/3704931/index.html",
             ""
-          ]
-          
+          ],
+           [
+          "1",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/1/meta/apple-touch-icon.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/1/index.html",
+          ""
+        ],
+        [
+          "10 Minutes Till Dawn",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/10mtd/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/10mtd/index.html",
+          ""
+        ],
+        [
+          "100NG",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/100ng/100ng.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/100ng/index.html",
+          ""
+        ],
+        [
+          "2048",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/2048/thumb.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/2048/index.html",
+          "2048 is a single-player sliding block puzzle game designed by Italian web developer Gabriele Cirulli. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. However, one can continue to play the game after reaching the goal, creating tiles with larger numbers."
+        ],
+        [
+          "2048 Multitask",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/2048-multitask/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/2048-multitask/index.html",
+          ""
+        ],
+        [
+          "3D City",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/3dcity/assets/img/preview02.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/3dcity/index.html",
+          ""
+        ],
+        [
+          "8 Ball",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/8ball/8ball.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/8ball/index.html",
+          ""
+        ],
+        [
+          "Achievement Unlocked",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/achievementunlocked/achievementunlocked.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/achievementunlocked/index.html",
+          ""
+        ],
+        [
+          "A Dance of Fire and Ice",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/adofai/unnamed.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/adofai/index.html",
+          ""
+        ],
+        [
+          "Adrenaline Challenge",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/adrenalinechallenge/adrenalinechallenge.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/adrenalinechallenge/index.html",
+          ""
+        ],
+        [
+          "Adventure Drivers",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/adventure-drivers/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/adventure-drivers/index.html",
+          ""
+        ],
+        [
+          "Agar.io",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/agario/img/agar.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/agario/index.html",
+          ""
+        ],
+        [
+          "Ages of Conflict",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ages-of-conflict/splash.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ages-of-conflict/index.html",
+          ""
+        ],
+        [
+          "Among Us",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/among-us/red.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/among-us/index.html",
+          ""
+        ],
+        [
+          "Angry Birds",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/angrybirds/images/logo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/angrybirds/index.html",
+          ""
+        ],
+        [
+          "Angry Shark",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/angry-sharks/assets/img/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/angry-sharks/index.html",
+          ""
+        ],
+        [
+          "Backrooms",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/backrooms/img/splash.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/backrooms/index.html",
+          ""
+        ],
+        [
+          "Bad Ice Cream",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream/bad-ice-cream.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream/index.html",
+          ""
+        ],
+        [
+          "Bad Ice Cream 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream-2/bad-ice-cream-2.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream-2/index.html",
+          ""
+        ],
+        [
+          "Bad Ice Cream 3",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream-3/bad-ice-cream-3.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream-3/index.html",
+          ""
+        ],
+        [
+          "Baldis Basics",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/baldis-basics/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/baldis-basics/index.html",
+          ""
+        ],
+        [
+          "Ball Hop",
+          "/img/ballhop.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ball-hop/index.html",
+          ""
+        ],
+        [
+          "Big Tower Tiny Square",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/btts/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/btts/index.html",
+          ""
+        ],
+        [
+          "Biters.io",
+          "/img/biters.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/biters-io/index.html",
+          ""
+        ],
+        [
+          "BitLife",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bitlife/logo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bitlife/index.html",
+          ""
+        ],
+        [
+          "Basket n Ball",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/basketnball/images/ball-basket-for-cover.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/basketnball/index.html",
+          "Basket & Ball is a free arcade game set on a basketball court. Control the rebel ball with touches or keyboard and lead it into the basket! Dribble the ball by pressing space or tapping the jump button. Pass through obstacles and perils scattered through the court and solve puzzles to achieve victory! "
+        ],
+        [
+          "Basketball Random",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bball-random/splash.jpeg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bball-random/index.html",
+          ""
+        ],
+        [
+          "Basketball Stars",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bstars/bstars.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bstars/index.html",
+          ""
+        ],
+        [
+          "BUNnGUN",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bunngun/bng.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bunngun/index.html",
+          ""
+        ],
+        [
+          "BlackJack",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/blackjack/bj.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/blackjack/index.html",
+          ""
+        ],
+        [
+          "Bob The Robber 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bobtherobber2/34d6aae0257d4e4c8068cbdfc11a8758-512x512.jpeg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bobtherobber2/index.html",
+          ""
+        ],
+        [
+          "Bouncy Basketball",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bouncybasketball/23c3f1f4e67c91efb96189adcd94f6796968077ca8d638224c5d1ab6a6f87a60.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bouncybasketball/index.html",
+          "",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bouncybasketball/index.html"         
+        ],
+        [
+          "Boxing Physics",
+          "/img/bf.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/boxing-physics/index.html",
+          ""
+      ],
+        [
+          "Boxing Random",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/boxing-random/512x512.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/boxing-random/index.html",
+          ""
+      ],
+        [
+          "Burger and Frights",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/burger-and-frights/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/burger-and-frights/index.html",
+          ""
+      ],
+        [
+          "Cannon Basketball 4",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cannon-basketball-4/img/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cannon-basketball-4/index.html",
+          ""
+      ],
+        [
+          "Cars Simulator",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cars-simulator/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cars-simulator/index.html",
+          ""
+      ],
+        [
+          "Cell Machine",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cell-machine/img/te9nDu.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cell-machine/index.html",
+          ""
+      ],
+        [
+          "Circl0",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/circlo/img/download.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/circlo/index.html",
+          ""
+      ],
+        [
+          "Cluster Rush",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cluster-rush/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cluster-rush/index.html",
+          ""
+      ],
+        [
+          "Cookie Clicker",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cookie/img/cookie.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cookie/index.html",
+          ""
+      ],
+      [
+        "Corru.Observer",
+        "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/corruobserver/img/fav.gif",
+        "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/corruobserver/index.html",
+        ""
+    ],
+        [
+          "Craft Mine",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/craftmine/images/craftmine.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/craftmine/index.html",
+          ""
+      ],
+        [
+          "Creative Kill Chamber",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/creativekillchamber/creativekillchamber.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/creativekillchamber/index.html",
+          ""
+      ],
+        [
+          "Creative Kill Chamber 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/creativekillchamber2/creativekillchamber.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/creativekillchamber2/index.html",
+          ""
+      ],
+        [
+          "Crossyroad",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/crossyroad/crossyroad.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/crossyroad/index.html",
+          ""
+      ],
+        [
+          "CS-GO Clicker",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/csgo-clicker/images/vanguard.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/csgo-clicker/index.html",
+          ""
+      ],
+        [
+          "Cut the Rope",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ctr/logo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ctr/index.html",
+          ""
+      ],
+        [
+          "Cut the Rope Holiday Gift",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ctrholiday/Holiday_Gift.webp",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ctrholiday/index.html",
+          ""
+      ],
+        [
+          "Cut the Rope Time Travel",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ctrtr/logo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ctrtr/index.html",
+          ""
+      ],
+        [
+          "Deal or No Deal",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/deal-or-no-deal/index.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/deal-or-no-deal/index.html",
+          ""
+      ],
+        [
+          "Doctor Acorn 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/doctor-acorn2/icon-256.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/doctor-acorn2/index.html",
+          ""
+      ],
+        [
+          "Doodle Jump",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/doodle-jump/doodle.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/doodle-jump/index.html",
+          ""
+      ],
+    [
+      "Earn to Die",
+      "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/earntodie/loading.png",
+      "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/earntodie/index.html",
+      ""
+  ],
+        [
+          "Eat.io",
+          "/img/eatio.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/eatio/index.html",
+          ""
+      ],
+        [
+          "Evil Glitch",
+          "/img/evil-glitch.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/evil-glitch/index.html",
+          ""
+      ],
+        [
+          "Evolution",
+          "/img/evo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/evo/index.html",
+          ""
+      ],
+        [
+          "Fair Squares",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fairsquares/index.icon.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fairsquares/index.html",
+          ""
+      ],
+        [
+          "Flappy 2048",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/flappy-2048/meta/apple-touch-icon.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/flappy-2048/index.html",
+          ""
+      ],
+        [
+          "Flappy 2048 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/flappy-2048-2/wing.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/flappy-2048-2/index.html",
+          ""
+      ],
+        [
+          "Flappy Bird",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/flappy-bird/assets/thumb.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/flappy-bird/index.html",
+          ""
+      ],
+        [
+          "Fireboy and Watergirl 1",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg1/img.gamedistribution.com/gamedistributionid-512x512.jpeg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fbwg1/index.html",
+          "Fireboy and Watergirl 1 is the first cooperative platformer game in the Fireboy and Watergirl series. In this adventure, you explore 32 levels of the Forest Temple, controlling both the Fireboy and Watergirl characters through various puzzles."
+      ],
+        [
+          "Fireboy and Watergirl 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg2/fb2.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fbwg2/index.html",
+          "Fireboy and Watergirl 2: Light Temple is the second cooperative platformer game in the Fireboy and Watergirl series. In this adventure, use light and reflections to overcome puzzles. There is a total of 40 levels to conquer!"
+      ],
+        [
+          "Fireboy and Watergirl 3",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg3/fb3.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fbwg3/index.html",
+          "Fireboy and Watergirl 3: Ice Temple is the third cooperative platformer game in the Fireboy and Watergirl series. Explore the freezing depths of the ice temple and slide your way through the tricky puzzles. Work together for the best results! There are 36 stages of increasing difficulty to master."
+      ],
+        [
+          "Fireboy and Watergirl 4",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg4/fb4.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fbwg4/index.html",
+          "In this adventure game, Fireboy and Watergirl are exploring a temple full of magical portals powered by crystals. Activate the portals to teleport the heroes through the level. Collect the blue, red, and white gems and try to guide each hero to the matching exit."
+      ],
+        [
+          "Flippy Fish",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/flippy-fish/2022_10_28_0jt_Kleki.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/flippy-fish/index.html",
+          ""
+      ],
+        [
+          "Five Nights at Freddy's",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fnaf/resources/0000.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fnaf/index.html",
+          ""
+      ],
+        [
+          "Five Nights at Freddy's 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fnaf2/resources/0018.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fnaf2/index.html",
+          ""
+      ],
+        [
+          "Five Nights at Winstons",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fnaw/smile.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fnaw/index.html",
+          ""
+      ],
+        [
+          "Fruit Ninja",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fruitninja/FruitNinjaTeaser.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fruitninja/index.html",
+          ""
+        ],
+        [
+          "Frying Nemo",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/frying-nemo/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/frying-nemo/index.html",
+          ""
+      ],
+        [
+          "Friday Night Funkin",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/funkin/favicon.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/funkin/index.html",
+          ""
+      ],
+        [
+          "Ultimate Custom Night",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ucn/resources/0317.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ucn/index.html",
+          ""
+      ],
+        [
+          "Funny Shooter 2",
+          "/img/funnyshooter.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/funnyshooter2/index.html",
+          ""
+      ],
+        [
+          "Game Inside a Game",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/game-inside/img/display.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/game-inside/index.html",
+          ""
+      ],
+        [
+          "Generic Fishing Game",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/generic-fishing-game/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/generic-fishing-game/index.html",
+          ""
+      ],
+        [
+          "George and the Printer",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/georgeandtheprinter/img/SnDTEn.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/georgeandtheprinter/index.html",
+          ""
+      ],
+        [
+          "Getaway Shootout",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other//getawayshootout/images.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/getawayshootout/index.html",
+          ""
+      ],
+        [
+          "Gimme the Airpod",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/gimme-the-airpod/img/logo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/gimme-the-airpod/index.html",
+          ""
+      ],
+        [
+          "Glass City",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/glass-city/image.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/glass-city/index.html",
+          ""
+      ],
+        [
+          "Goodnight",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/goodnight/goodnight.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/goodnight/index.html",
+          ""
+      ],
+        [
+          "Goomy Clicker",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/goomyclicker/favicon.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/goomyclicker/index.html",
+          ""
+      ],
+        [
+          "Goomy Clicker 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/goomyclicker2/img/great_goomy.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/goomyclicker2/index.html",
+          ""
+      ],
+        [
+          "Gravity Soccer",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/gravity-soccer/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/gravity-soccer/index.html",
+          ""
+      ],
+        [
+          "GreyBox",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/greybox/ico.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/greybox/index.html",
+          ""
+      ],
+        [
+          "GrindCraft",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/grindcraft/img/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/grindcraft/index.html",
+          ""
+      ],
+        [
+          "Hack n Slash n Saw",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/hsb/TemplateData/webgl-logo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/hsb/index.html",
+          ""
+      ],
+      [
+        "Horde Killer",
+        "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/hordekiller/logo.png",
+        "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/hordekiller/index.html",
+        ""
+    ],
+        [
+          "Idle Shark",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/idle-shark/img/sharkgame.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/idle-shark/index.html",
+          ""
+      ],
+        [
+          "Jetpack Joyride",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/jetpack-joyride/splash.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/jetpack-joyride/index.html",
+          ""
+      ],
+        [
+          "Just Fall",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/just-fall/splash.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/just-fall/index.html",
+          ""
+      ],
+        [
+          "Just One Boss",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/just-one-boss/pv1Gr5.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/just-one-boss/index.html",
+          ""
+      ],
+        [
+          "Kitchen Gun",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/kitchen-gun-game/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/kitchen-gun-game/index.html",
+          ""
+      ],
+        [
+          "Krunker.io",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/krunker/img/krunker-io.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/krunker/index.html",
+          ""
+      ],
+        [
+          "Little Alchemy",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/littlealchemy/img/144-alpha.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/littlealchemy/index.html",
+          ""
+      ],
+        [
+          "Madalin Stunt Cars 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/madalin-stunt-cars-2/img/logo.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/madalin-stunt-cars-2/index.html",
+          ""
+      ],
+        [
+          "Madalin Stunt Cars 3",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/madalin-stunt-cars-3/img/index.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/madalin-stunt-cars-3/index.html",
+          ""
+      ],
+        [
+          "Mari0",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/mario/m0.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/mario/index.html",
+          ""
+      ],
+        [
+          "Merge Round Racers",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/merge-round-racers/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/merge-round-racers/index.html",
+          ""
+      ],
+        [
+          "Mineblocks",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/mineblocks/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/mineblocks/index.html",
+          ""
+      ],
+        [
+          "Minesweeper",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/minesweeper/assets/clock_icon.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/minesweeper/index.html",
+          ""
+      ],
+        [
+          "My Rusty Submarine",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/my-rusty-submarine/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/my-rusty-submarine/index.html",
+          ""
+      ],
+        [
+          "N Gon",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/n-gon/bot.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/n-gon/index.html",
+          ""
+      ],
+        [
+          "Neon Square Resurgence",
+          "/img/nsr.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/neonsquareres/index.html",
+          ""
+      ],
+        [
+          "Om Nom Bounce",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/om-bounce/assets/icon.jpeg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/om-bounce/index.html",
+          ""
+      ],
+        [
+          "Ovo",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ovo/ovo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ovo/index.html",
+          ""
+      ],
+        [
+          "Papery Planes",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/papery-planes/splash.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/papery-planes/index.html",
+          ""
+      ],
+        [
+          "Picky Package",
+          "/img/ppac.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/picky-package/index.html",
+          ""
+      ],
+        [
+          "PortalGO",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/portalgo/pgo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/portalgo/index.html",
+          ""
+      ],
+        [
+          "Push the Square",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/push-the-square/img/splash.png",
+          "/other/push-the-square/index.html",
+          ""
+      ],
+        [
+          "Rabbit Samurai",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/rabbit-samurai/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/rabbit-samurai/index.html",
+          ""
+      ],
+        [
+          "Rabbit Samurai 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/rabbit-samurai2/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/rabbit-samurai2/index.html",
+          ""
+      ],
+        [
+          "Rooftop Snipers",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/rooftopsnipers/img/thumb.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/rooftopsnipers/index.html",
+          ""
+      ],
+        [
+          "Rooftop Snipers 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/rooftopsnipers/img/thumb.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/rooftopsnipers2/index.html",
+          ""
+      ],
+        [
+          "Sand Game",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/sand-game/sand.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/sand-game/index.html",
+          ""
+      ],
+        [
+          "Sans Fight",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/sansfight/icon-256.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/sansfight/index.html",
+          ""
+      ],
+        [
+          "Scrap Metal",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/scrapmetal/img/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/scrapmetal/index.html",
+          ""
+      ],
+        [
+          "Slime Rush TD",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/slime-rush-td/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slime-rush-td/index.html",
+          ""
+      ],
+        [
+          "Slither.io",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/slitherio/slithr.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slitherio/index.html",
+          ""
+      ],
+        [
+          "SlowRoads.io",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/slowroads/favicon_circle.svg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slowroads/index.html",
+          ""
+      ],
+        [
+          "Smoking Barrels",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/smokingbarrels/smokingbarrels.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/smokingbarrels/index.html",
+          ""
+      ],
+        [
+          "SnowBattle.io",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/snowbattle/img/logo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/snowbattle/index.html",
+          ""
+      ],
+        [
+          "Soccer Random",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/soccer-random/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/soccer-random/index.html",
+          ""
+      ],
+        [
+          "Solitaire",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/solitaire/screen-shot.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/solitaire/index.html",
+          ""
+      ],
+        [
+          "Sort the Court",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/sort-the-court/img/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/sort-the-court/index.html",
+          ""
+      ],
+        [
+          "Space Company",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/space-company/whiteLogo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/space-company/index.html",
+          ""
+      ],
+        [
+          "Stack",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/stack/stack.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/stack/index.html",
+          ""
+      ],
+        [
+          "Starve.io",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/starve/img/favicon.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/starve/index.html",
+          ""
+      ],
+        [
+          "Station 141",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/station-141/75wxYs.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/station-141/index.html",
+          ""
+      ],
+        [
+          "Steal This Election",
+          "/img/ste.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/steal-this-election/index.html",
+          ""
+      ],
+        [
+          "Stickman Boost",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/stickman-boost/icon-256.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/stickman-boost/index.html",
+          ""
+      ],
+        [
+          "Stickman Golf",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/stickman-golf/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/stickman-golf/index.html",
+          ""
+      ],
+        [
+          "Stickman Survival",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/Stickman-Survival/Icon.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/Stickman-Survival/index.html",
+          ""
+      ],
+        [
+          "Stick War",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/stickwar/stickwar.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/stickwar/index.html",
+          ""
+      ],
+        [
+          "Storm the House 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/stormthehouse2/stormthehouse2.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/stormthehouse2/index.html",
+          ""
+      ],
+    [
+      "Suckit League",
+      "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/suckitleague/splash.png",
+      "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/suckitleague/index.html",
+      ""
+  ],
+        [
+          "Superhot",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/superhot/hot.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/superhot/index.html",
+          ""
+      ],
+        [
+          "Super Mario Construct",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/supermarioconstruct/icons/icon-256.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/supermarioconstruct/index.html",
+          ""
+      ],
+        [
+          "Surviv.io",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/surviv/img/favicon.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/surviv/index.html",
+          ""
+      ],
+        [
+          "Sushi Unroll",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/sushi-unroll/favicon.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/sushi-unroll/index.html",
+          ""
+      ],
+        [
+          "Swerve",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/swerve/img/favicon.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/swerve/index.html",
+          ""
+      ],
+        [
+          "Tactical Assasin 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/tacticalassasin2/tacticalassassin2.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tacticalassasin2/index.html",
+          ""
+      ],
+        [
+          "Tactical Weapon Pack 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/tactical-weapon-pack-2/splash.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tactical-weapon-pack-2/index.html",
+          ""
+      ],
+        [
+          "Tank Trouble 2",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/tank-trouble-2/icon-128.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tank-trouble-2/index.html",
+          ""
+      ],
+        [
+          "The Heist",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/theheist/theheist.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/theheist/index.html",
+          ""
+      ],
+        [
+          "TicTacGPT",
+          "/img/ttg.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tictacgpt/index.html",
+          ""
+      ],
+        [
+          "Tiny Fishing",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/tiny-fishing/thumb.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tiny-fishing/index.html",
+          ""
+      ],
+        [
+          "Townscaper",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/townscaper/img/cover.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/townscaper/index.html",
+          ""
+      ],
+        [
+          "Veloce",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/veloce/qN6zkD.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/veloce/index.html",
+          ""
+      ],
+        [
+          "Very Very Plane",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/vvplane/TemplateData/webgl-logo.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/vvplane/index.html",
+          ""
+      ],
+        [
+          "Waterworks",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/waterworks/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/waterworks/index.html",
+          ""
+      ],
+        [
+          "Wordle",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/wordle/img/logo_512x512.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/wordle/index.html",
+          ""
+      ],
+        [
+          "Wolfenstien 3D",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/wolf3d/art/wolf3d.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/wolf3d/index.html",
+          ""
+      ],
+        [
+          "X Trial Racing",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/x-trial-racing/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/x-trial-racing/index.html",
+          ""
+      ],
+        [
+          "YoHoHo.io",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/yohohoio/img/banner1024x512.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/yohohoio/index.html",
+          ""
+      ],
+        [
+          "Yoshi's Fabrication",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/yoshifabrication/icons/icon-512.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/yoshifabrication/index.html",
+          ""
+      ],
+        [
+          "You Are Bezos",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/you-are-bezos/img/banner.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/you-are-bezos/index.html",
+          ""
+      ],
+        [
+          "Zombs Royale",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/zombs-royale/zomb.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/zombs-royale/index.html",
+          ""
+      ],
+        [
+          "Zty.pe",
+          "/img/zt.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/zty.pe/index.html",
+          ""
+      ]
           
        
         ]

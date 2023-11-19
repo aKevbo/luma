@@ -23,17 +23,20 @@ const say = [
   "Nefarious Darius",
   "Uncultured Swine!",
   "Among Us VR?",
-  "<img src='/img/goofyahhpic1.jpg'/>",
-  "<img src='/img/goofyapple.avif'/>",
-  "<img src='/img/goofyspongebob.gif'/>",
-  "<img src='/img/goofynerd.gif'/>",
-  "<img src='/img/goofyconnect.png'/>",
-  "<img src='/img/goofydog.gif'/>",
-  "<img src='/img/goofyshirt.jpg'/>",
-  "<img src='/img/goofykid.gif'/>",
-  "<img src='/img/goofywomen.gif'/>",
-  "<img src='/img/goofysharpener.jpg'/>",
-  "<img src='/img/goofytacos.jpg'/>",
+  "<img style=border-radius:5px; src='/img/goofyahhpic1.jpg'/>",
+  "<img style=border-radius:5px; src='/img/goofyapple.avif'/>",
+  "<img style=border-radius:5px; src='/img/goofyspongebob.gif'/>",
+  "<img style=border-radius:5px; src='/img/goofynerd.gif'/>",
+  "<img style=border-radius:5px; src='/img/goofyconnect.png'/>",
+  "<img style=border-radius:5px; src='/img/goofydog.gif'/>",
+  "<img style=border-radius:5px; src='/img/goofyshirt.jpg'/>",
+  "<img style=border-radius:5px; src='/img/goofykid.gif'/>",
+  "<img style=border-radius:5px; src='/img/goofywomen.gif'/>",
+  "<img style=border-radius:5px; src='/img/goofysharpener.jpg'/>",
+  "<img style=border-radius:5px; src='/img/goofytacos.jpg'/>",
+  "<img style=border-radius:5px; src='/img/goofylaywer.gif'/>",
+  "<img style=border-radius:5px; src='/img/goofychapstick.gif'/>",
+  "<img style=border-radius:5px; src='/img/goofysandcastle.jpg'/>",
   "i lost my v card two days ago thanks to this site",
   "error = ran out of subtitles",
   "Welcome to your final test, I’m Mr. Beast",
@@ -96,7 +99,7 @@ document.addEventListener('keydown', function(event) {
   if (event.code === seCode[seCodePosition]) {
     seCodePosition++;
     if (seCodePosition === seCode.length) {
-      document.getElementById('subtitle').innerHTML = '<img  src="' + vid + '" width="400" height="200" autoplay loop></img>';
+      document.getElementById('subtitle').innerHTML = '<img style=border-radius:5px; src="' + vid + '" width="400" height="200" autoplay loop></img>';
       seCodePosition = 0;
     }
   } else {
