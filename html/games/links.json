@@ -888,7 +888,7 @@
 ],
 [
   "Paper Mario 64",
-  "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/1db3fa8e5bbd04882892f478a301a311/24/1024x1024.png",
+  "/img/papermario.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
   "",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
@@ -1076,25 +1076,25 @@
 ],
 [
   "Contra",
-  "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/aedc756071fdab015aea24980d0d248e.png",
+  "/img/contra.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/miscgame/contracool.html",
   ""
 ],
 [
   "Double Dragon ",
-  "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/424fcbe63a0bbeb3c9e43900cfb7ff55.jpg",
+  "/img/doubledragon.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/miscgame/doubled.html",
   ""
 ],
 [
   "Duck Tales ",
-  "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8c414e0ee5b07785d32d14c171664164.jpg",
+  "/img/ducktales.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/example/ducktales.html",
   ""
 ],
 [
   "Excitebike ",
-  "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/8eb4b4c01bf3375828c5494c2f6e7685/32/256x256.png",
+  "/img/exitebike.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/example/excitebike.html",
   ""
 ],
@@ -1106,7 +1106,7 @@
 ],
 [
   "Mega Man 2 ",
-  "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/67cde20ce5041dbb7caed2480e12ab42.jpg",
+  "/img/megaman2.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/miscgame/megamandos.html",
   ""
 ],
@@ -1160,7 +1160,7 @@
 ],
 [
   "Mike Tysons Punch Out",
-  "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/4233b79a6d56ca256240a08dc66aace7.jpg",
+  "/img/punchout.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mtpo.nes",
   "",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mtpo.nes",
@@ -1184,7 +1184,7 @@
 ],
 [
   "Super Mario RPG",
-  "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/bacadc62d6e67d7897cef027fa2d416c.png",
+  "/img/mariorpg.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=smrpg.smc",
   "",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=smrpg.smc",
@@ -1224,7 +1224,7 @@
 ],
 [
   "Mother 3",
-  "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/57362c74575e8bb32e618ce073f4d8e6.png",
+  "/img/mother3.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba",
   "Mother (known as EarthBound outside Japan) is a video game series that consists of three role-playing video games: Mother (1989), known as EarthBound Beginnings outside Japan",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba",
@@ -1633,12 +1633,6 @@
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cluster-rush/index.html",
           ""
       ],
-        [
-          "Cookie Clicker",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cookie/img/cookie.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cookie/index.html",
-          ""
-      ],
       [
         "Corru.Observer",
         "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/corruobserver/img/fav.gif",
@@ -1905,7 +1899,7 @@
       ],
         [
           "Hack n Slash n Saw",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/hsb/TemplateData/webgl-logo.png",
+          "/img/hackslashsaw.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/hsb/index.html",
           ""
       ],
@@ -2283,7 +2277,7 @@
       ],
         [
           "Very Very Plane",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/vvplane/TemplateData/webgl-logo.png",
+          "/img/veryveryplane.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/vvplane/index.html",
           ""
       ],

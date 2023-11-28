@@ -10,6 +10,7 @@
     --text-secondary: #ffffff;
   }
 
+
    body[data-theme="light"] {
     --background: #ffffff;
     --theme: #c7c7c7;
