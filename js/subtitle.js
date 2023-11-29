@@ -38,6 +38,7 @@ const say = [
   "<img style=border-radius:5px; src='/img/goofylaywer.gif'/>",
   "<img style=border-radius:5px; src='/img/goofychapstick.gif'/>",
   "<img style=border-radius:5px; src='/img/goofysandcastle.jpg'/>",
+  "<img style=border-radius:5px; src='/img/goofynebula.png'/>",
   "i lost my v card two days ago thanks to this site",
   "error = ran out of subtitles",
   "Welcome to your final test, I’m Mr. Beast",

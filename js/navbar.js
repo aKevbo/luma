@@ -131,6 +131,7 @@ window.addEventListener('DOMContentLoaded', function() {
           <a href="https://youtu.be/7e_oxn2iwjo" target="_blank" rel="noopener noreferrer"><img src="/img/GrayLumaLogo.png" class="navlogo" draggable="false"></a>&nbsp;&nbsp;&nbsp;&nbsp;
           <li class="hvuncen"><a href="/">Home</a></li>
           <li class="hvuncen"><a href="/html/games/">Games</a></li>
+          <li class="hvuncen"><a href="/html/chat.html">Chat</a></li>
           <li class="hvuncen"><a href="/html/extra/index.html">Extras</a></li>
           <li class="hvuncen"><a href="/html/socials.html">About</a></li>
           <li class="hvuncen"><a href="/html/update.html">Updates</a></li>
