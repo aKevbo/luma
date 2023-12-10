@@ -83,6 +83,7 @@ const say = [
   "mello is sigma frfr",
   "jake is sigma frfr",
   "yacob b thuggin",
+  "tommy g got drip",
   "aint no way nebula is copying my links bruh 💀💀 lookin at u chance...",
   "<q>add doom eternal to the next update plz?</q>",
   "can u add some ps5 games next update?",
@@ -103,7 +104,7 @@ const say = [
   "Imagine playing during a fieldtrip. Mad Respect",
   "Raiduh Stride? More like Sweaty Stride bruh.",
   "Coding hard brain iz yogurt :(",
-  "botta leak ur ip >:)"
+  "boutta leak ur ip >:)"
 ];
 
 var seCode = ['KeyK', 'KeyE', 'KeyV', 'KeyB','KeyO'];

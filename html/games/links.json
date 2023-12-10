@@ -1,6 +1,35 @@
 {
   "links": [
     {
+      "title": "Christmas Event",
+      "games": [
+        [
+          "Santa's Risky Ride",
+          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/riskyride.png",
+          "https://html-classic.itch.zone/html/7076026/index.html",
+          "Sled down an infinitely generated hill! (as santa :O)"
+        ],
+        [
+          "Snow Rider 3D",
+          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/snowrider.png",
+          "https://snow-rider-3d.kevinhalushack.repl.co/",
+          "Sled down an infinitely generated hill!"
+        ],
+        [
+          "Christmas Dream 64",
+          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/christmasdream.jpg",
+          "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/christmasdream.z64",
+          "Traverse as mario in a snowy wonderland."
+        ],
+        [
+          "Santa goes Digital",
+          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sgd.png",
+          "https://html-classic.itch.zone/html/9135506/santa%20goes%20Digital%202/index.html",
+          "See who is naughty and who is nice. PRESS SPACE FOR SELECTING THE NICE PEOPLE!!!"
+        ]
+      ]
+    },
+    {
       "title": "Proxy (Unblocks any link)",
       "games": [
         [
@@ -134,6 +163,12 @@
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/smashkarts/index.html",
           ""
       ],
+      [
+        "Eggy Car",
+        "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/eggycar.webp",
+        "https://eggycarunblockedgithubio.kevinhalushack.repl.co",
+        ""
+    ],
         [
           "Drift Boss",
           "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/driftboss.png",
@@ -143,7 +178,7 @@
         [
           "Drift Hunters",
           "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/drifthunters.jpg",
-          "https://v6p9d9t4.ssl.hwcdn.net/html/1792221/ItchIO/index.html",
+          "https://html-classic.itch.zone/html/1792221/ItchIO/index.html?v=1574649458",
           ""
         ],
         [
@@ -874,12 +909,18 @@
       "title": "Emulation",
       "games": [
 [
-          "Super Mario 64",
+          "Super Mario 64 PORT",
           "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sm64.webp",
           "https://sm64-1.kevinhalushack.repl.co/",
           ""
 ],
-        
+[
+  "Super Mario 64 Original",
+  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sm64.webp",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/sm64.z64",
+  "Reccomended to play Super Mario 64 PORT as it runs far better than this emulated version."
+],
+
 [
           "Mario Kart 64",
           "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/mk64.png",
@@ -1071,43 +1112,43 @@
 [
   "Batman",
   "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/bm.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/example/batman.html",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/batman.nes",
   ""
 ],
 [
   "Contra",
   "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/contra.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/miscgame/contracool.html",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/contra.nes",
   ""
 ],
 [
   "Double Dragon ",
   "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/doubledragon.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/miscgame/doubled.html",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/doubledragon.nes",
   ""
 ],
 [
   "Duck Tales ",
   "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ducktales.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/example/ducktales.html",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/ducktales.nes",
   ""
 ],
 [
   "Excitebike ",
   "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/exitebike.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/example/excitebike.html",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/excitebike.nes",
   ""
 ],
 [
   "Friday the 13th ",
   "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ft13.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/example/f13.html",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/friday13.nes",
   ""
 ],
 [
   "Mega Man 2 ",
   "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/megaman2.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/miscgame/megamandos.html",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/megaman2.nes",
   ""
 ],
 [
@@ -1231,22 +1272,10 @@
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba"
 ],
 [
-  "Doom",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/Doom.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/dos/doom.html",
-  "Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting their way through hordes of invading demons from hell"
-],
-[
   "Super Street Fighter II TURBO",
   "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ssf2t.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/dos/ssf2t.html",
+  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/streetfighter2turbo.smc",
   "Super Street Fighter II Turbo[a] is a fighting game released for the arcades by Capcom in Japan on February 23, 1994, in North America on February 23 and March 26, 1994”."
-],
-[
-  "The Oregon Trail Deluxe",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/tot.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/dos/tot.html",
-  "Oregon Trail Deluxe is one of the educational/edutainment computer game series produced by MECC. The game was released in 1974 and was inspired by the real-life Oregon Trail. Set in 1848, you will lead a party of settlers from Independence, Missouri, to Willamette Valley, Oregon using a Conestoga wagon."
 ]
       ]
     },
@@ -1305,7 +1334,7 @@
           [
             "Burrito Bison",
             "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/burritobison.png",
-            "https://v6p9d9t4.ssl.hwcdn.net/html/7437859/index.html",
+            "https://html-classic.itch.zone/html/7437859/index.html",
             ""
           ],
           [
@@ -1317,7 +1346,7 @@
           [
             "We become what we behold",
             "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/webecomewhatwebehold.png",
-            "https://v6p9d9t4.ssl.hwcdn.net/html/300364/index.html?v=1542781840",
+            "https://html-classic.itch.zone/html/300364/index.html?v=1542781840",
             ""
           ],
           [
@@ -1353,7 +1382,7 @@
           [
             "Game inside of a game inside of a game inside of a game...",
             "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/gameinsideofagame.png",
-            "https://v6p9d9t4.ssl.hwcdn.net/html/2962883/index.html",
+            "https://html-classic.itch.zone/html/2962883/index.html",
             ""
           ],
           [
@@ -1389,13 +1418,13 @@
           [
             "Idle Breakout",
             "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/idlebreakout.png",
-            "https://v6p9d9t4.ssl.hwcdn.net/html/1317921/index.html?v=1574335907",
+            "https://html-classic.itch.zone/html/9150519/index.html",
             ""
           ],
           [
             "Dreader",
             "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/dreader.png",
-            "https://v6p9d9t4.ssl.hwcdn.net/html/3704931/index.html",
+            "https://html-classic.itch.zone/html/3704931/index.html",
             ""
           ],
            [
