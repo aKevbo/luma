@@ -104,12 +104,13 @@ const say = [
   "Imagine playing during a fieldtrip. Mad Respect",
   "Raiduh Stride? More like Sweaty Stride bruh.",
   "Coding hard brain iz yogurt :(",
-  "boutta leak ur ip >:)"
+  "boutta leak ur ip >:)",
+  "luma chat is unhinged" 
 ];
 
 var seCode = ['KeyK', 'KeyE', 'KeyV', 'KeyB','KeyO'];
 var seCodePosition = 0;
-var vid = 'img/kevbosad.gif';
+var vid = '/img/skibidimydad.png';
 
 document.addEventListener('keydown', function(event) {
   if (event.code === seCode[seCodePosition]) {
