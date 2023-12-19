@@ -196,10 +196,15 @@
         [
           "Basket Random",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bball-random/splash.jpeg",
-          "https://basket-random.kevinhalushack.repl.co/",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bball-random/index.html",
+          ""
+        ],
+        [
+          "Basketball Stars",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bstars/bstars.jpg",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bstars/index.html",
           ""
         ]
-        
         
       ]
     },
@@ -1583,18 +1588,6 @@
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/basketnball/images/ball-basket-for-cover.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/basketnball/index.html",
           "Basket & Ball is a free arcade game set on a basketball court. Control the rebel ball with touches or keyboard and lead it into the basket! Dribble the ball by pressing space or tapping the jump button. Pass through obstacles and perils scattered through the court and solve puzzles to achieve victory! "
-        ],
-        [
-          "Basketball Random",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bball-random/splash.jpeg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bball-random/index.html",
-          ""
-        ],
-        [
-          "Basketball Stars",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bstars/bstars.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bstars/index.html",
-          ""
         ],
         [
           "BUNnGUN",
