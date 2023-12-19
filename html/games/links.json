@@ -204,7 +204,19 @@
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bstars/bstars.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bstars/index.html",
           ""
-        ]
+        ],
+        [
+          "Soccer Random",
+          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/soccer-random/splash.png",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/soccer-random/index.html",
+          ""
+      ],
+      [
+        "Boxing Random",
+        "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/boxing-random/512x512.jpg",
+        "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/boxing-random/index.html",
+        ""
+    ]
         
       ]
     },
@@ -1621,12 +1633,6 @@
           ""
       ],
         [
-          "Boxing Random",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/boxing-random/512x512.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/boxing-random/index.html",
-          ""
-      ],
-        [
           "Burger and Frights",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/burger-and-frights/splash.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/burger-and-frights/index.html",
@@ -2128,12 +2134,6 @@
           "SnowBattle.io",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/snowbattle/img/logo.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/snowbattle/index.html",
-          ""
-      ],
-        [
-          "Soccer Random",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/soccer-random/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/soccer-random/index.html",
           ""
       ],
         [
