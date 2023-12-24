@@ -134,7 +134,7 @@ Games, Games, Games, Games, Games, Games, Games, Games, Games, Games, Games, Gam
 - [ ] More themes
 - [ ] Hopefully, an unblockable website.
 - [ ] Documentation
-- [ ] 
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
