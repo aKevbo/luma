@@ -36,7 +36,6 @@ How to block luma?? - schools probably
     <br />
     <br />
     
-   ![lumacover](https://github.com/Corruptify/luma/assets/88192394/a6f0059c-10ff-43c9-9456-4405e5108337)
 
   </p>
 </div>
@@ -53,6 +52,7 @@ There are many great game websites on the interwebs but I never really saw one t
 
 I do realize that people's purposes may be different, and that's great! there are many great game websites out there like CoolMathGames, Geometry Spot, Lioxyrt, etc.
 
+   ![lumacover](https://github.com/Corruptify/luma/assets/88192394/a6f0059c-10ff-43c9-9456-4405e5108337)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
