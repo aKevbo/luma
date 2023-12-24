@@ -35,20 +35,20 @@ How to block luma?? - schools probably
     <a href="https://lumamain.com"><strong>Go to Luma! »</strong></a>
     <br />
     <br />
-   
+    
+   ![lumacover](https://github.com/Corruptify/luma/assets/88192394/a6f0059c-10ff-43c9-9456-4405e5108337)
+
   </p>
 </div>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## Why make Luma? Coolmathgames is better??
 
 There are many great game websites on the interwebs but I never really saw one that suited my needs.
 
-* Most websites had too many broken games. I couldn't pick one! By the time I did It would either be blocked or my lunch period would be over.
+* Most websites had too many broken games. I couldn't pick a game! By the time I did It would either be blocked or my lunch period would be over.
 * I realized there are many gems on the internet but most game websites are filled with crappy, and unneeded games.
 
 I do realize that people's purposes may be different, and that's great! there are many great game websites out there like CoolMathGames, Geometry Spot, Lioxyrt, etc.
@@ -73,9 +73,9 @@ Built with your average joe languages.
 <!-- GETTING STARTED -->
 ## How to use Luma??? Help?!?
 
-Hosting Luma is really simple since it only uses HTML, CSS, and Javascript.
+Hosting Luma is simple since it only uses HTML, CSS, and Javascript.
 
-Copy the repo onto one of your prefered hosts listed below.
+Copy the repo onto one of your preferred hosts listed below.
 
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/Corruptify/luma)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Corruptify/luma)
@@ -84,24 +84,29 @@ Copy the repo onto one of your prefered hosts listed below.
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Corruptify/luma)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/Corruptify/luma)
 
-#### ...or you can copy the repo and host it somewhere else (like cloudflare!)
+#### ...or you can copy the repo and host it somewhere else (like Cloudflare!)
 
-#### ...or you can fork the repo and host it somewhere else (like github!)
+#### ...or you can fork the repo and host it somewhere else (like GitHub!)
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Features
 
-Themes! Change the color of page to your liking
+Chat! Chat with your friends.
+
+![image](https://github.com/Corruptify/luma/assets/88192394/eb5f5fbf-9a61-4c3a-9c6a-320bcaf4af14)
+
+
+Themes! Change the color of the page to your liking
 
 ![themes](https://github.com/Corruptify/luma/assets/88192394/63d46050-6a17-4089-befc-e033e27c8541)
 
-Panic Button! If you got someone walking up to ur computer and you need to get off what your on (you know who you are) you can simply press ` and abort to a link of your choosing. This option is in settings.
+Panic Button! If you have someone walking up to your computer and you need to get off what you are on (you know who you are) you can simply press ` and abort to a link of your choosing. This option is in settings.
 
 ![Screenshot 2023-12-23 195729](https://github.com/Corruptify/luma/assets/88192394/c7b98776-5c25-47bc-8e38-82580e6db447)
 
-Tab cloak! If your school uses programs like goguardian or linewize you may find this feature useful. Simply click one of the buttons to change the name of the website. This is useful as programs like goguardian and linewize show the icon of the website, alerting teachers if there is a game website they reconize. Using tab cloak they will simply see the icon you chose and think it is just another school releatd tab.
+Tab cloak! If your school uses programs like goguardian or linewize you may find this feature useful. Simply click one of the buttons to change the name of the website. This is useful as programs like GoGuardian and Linewise show the icon of the website, alerting teachers if there is a game website they recognize. Using tab cloak they will simply see the icon you chose and think it is just another school-related tab.
 
 ![Screenshot 2023-12-23 200321](https://github.com/Corruptify/luma/assets/88192394/7d3f3ef8-a2c0-4ae2-825c-b0b826b0fa14)
 
@@ -117,7 +122,7 @@ Games, Games, Games, Games, Games, Games, Games, Games, Games, Games, Games, Gam
 
 
 <!-- ROADMAP -->
-## Stuff I may add in the futrue
+## Stuff I may add in the future
 
 - [ ] Better way to host games
 - [ ] Better search
