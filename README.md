@@ -23,8 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/GrayLumaLogo.png" alt="Logo" width="80" height="80">
+  <a>
+    <img src="img/GrayLumaLogo.png" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">Welcome to Luma!</h3>
