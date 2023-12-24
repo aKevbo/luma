@@ -77,7 +77,7 @@ Hosting Luma is simple since it only uses HTML, CSS, and Javascript.
 
 Copy the repo onto one of your preferred hosts listed below.
 
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/Corruptify/luma)
+[![Run on Repl.it](https://replit.com/badge/github/Corruptify/luma)](https://replit.com/new/github/Corruptify/luma)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Corruptify/luma)
 [![Deploy to IBM Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/Corruptify/luma)
 [![Deploy to Amplify Console](https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/Corruptify/luma)
