@@ -1,130 +1,90 @@
 {
   "links": [
     {
-      "title": "Christmas Event",
-      "games": [
-        [
-          "Santa's Risky Ride",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/riskyride.png",
-          "https://html-classic.itch.zone/html/7076026/index.html",
-          "Sled down an infinitely generated hill! (as santa :O)"
-        ],
-        [
-          "Snow Rider 3D",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/snowrider.png",
-          "https://snow-rider-3d.kevinhalushack.repl.co/",
-          "Sled down an infinitely generated hill!"
-        ],
-        [
-          "Christmas Dream 64",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/christmasdream.jpg",
-          "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/christmasdream.z64",
-          "Traverse as mario in a snowy wonderland."
-        ],
-        [
-          "Santa goes Digital",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sgd.png",
-          "https://html-classic.itch.zone/html/9135506/santa%20goes%20Digital%202/index.html",
-          "See who is naughty and who is nice. PRESS SPACE FOR SELECTING THE NICE PEOPLE!!!"
-        ]
-      ]
-    },
-    {
-      "title": "Proxy (Unblocks any link)",
-      "games": [
-        [
-          "Ultraviolet Proxy",
-          "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
-          "https://ultraviolet-proxy-working.kevinhalushack.repl.co",
-          "UNBLOCK ANYTHING!"
-        ]
-      ]
-    },
-    {
       "title": "Platformers",
       "games": [
         [
           "MotoX3M",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/motox3m.avif",
-          "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/motox3m.avif",
+          "https://raw.githack.com/aKevbo/luma-assets/main/motox3m/index.html",
           ""
         ],
         [
           "MotoX3M 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/motox3m2.jpg",
-          "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/2/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/motox3m2.jpg",
+          "https://raw.githack.com/MotoX3MUnblocked/MotoX3MUnblocked.github.io/main/2/index.html",
           ""
         ],
         [
           "MotoX3M Pool Party",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/motopoolparty.avif",
-          "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/5-pool-party/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/motopoolparty.avif",
+          "https://raw.githack.com/MotoX3MUnblocked/MotoX3MUnblocked.github.io/main/5-pool-party/index.html",
           ""
         ],
         [
           "MotoX3M Spooky Land",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/motospooky.avif",
-          "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/6-spooky-land/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/motospooky.avif",
+          "https://raw.githack.com/aKevbo/luma-assets/main/motox3m/6-spooky-land/index.html",
           ""
         ],
         [
           "MotoX3M Winter",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/motowinter.jpg",
-          "https://raw.githack.com/Corruptify/luma-assets/main/motox3m/4-winter/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/motowinter.jpg",
+          "https://raw.githack.com/aKevbo/luma-assets/main/motox3m/4-winter/index.html",
           ""
         ],
         [
           "Vex",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/v1.jpg",
-          "https://ruffle.kevinhalushack.repl.co/Vex",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/v1.jpg",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/Vex/index.html",
           ""
         ],
         [
           "Vex 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/v2.png",
-          "https://ruffle.kevinhalushack.repl.co/Vex2",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/v2.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/Vex2/index.html",
           ""
         ],
         [
           "Vex 3",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/v3.jpg",
-          "https://raw.githack.com/Corruptify/luma-assets/main/vex/3/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/v3.jpg",
+          "https://raw.githack.com/aKevbo/luma-assets/main/vex/3/index.html",
           ""
         ],
         [
           "Vex 4",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/vex4.jpg",
-          "https://raw.githack.com/Corruptify/luma-assets/main/vex/4/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/vex4.jpg",
+          "https://raw.githack.com/aKevbo/luma-assets/main/vex/4/index.html",
           ""
         ],
         [
           "Vex 5",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/v5.png",
-          "https://raw.githack.com/Corruptify/luma-assets/main/vex/5/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/v5.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/vex/5/index.html",
           ""
         ],
         [
           "Vex 6",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/v6.png",
-          "https://raw.githack.com/Corruptify/luma-assets/main/vex/6/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/v6.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/vex/6/index.html",
           ""
         ],
         [
           "Vex 7",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/v7.jpg",
-          "https://raw.githack.com/Corruptify/luma-assets/main/vex/7/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/v7.jpg",
+          "https://raw.githack.com/aKevbo/luma-assets/main/vex/7/index.html",
           ""
         ],
         [
           "Vex 8",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/v8.png",
-          "https://raw.githack.com/Corruptify/luma-assets/main/vex/8/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/v8.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/vex/8/index.html",
           ""
         ],
         [
           "Slope",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/slope.jpg",
-          "https://slope.kevinhalushack.repl.co",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/slope.jpg",
+          "https://raw.githack.com/aKevbo/luma-assets/main/SlopeGame/index.html",
           ""
         ],
         [
@@ -135,61 +95,55 @@
         ],
         [
           "Chrome Dino Runner",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/chromedinorunner.png",
-          "https://raw.githack.com/Corruptify/luma-assets/main/trexrunner/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/chromedinorunner.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/trexrunner/index.html",
           ""
         ],
         [
           "Stickman Hook",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/stickman.jpg",
-          "https://stickman-hook.kevinhalushack.repl.co",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/stickman.jpg",
+          "https://https://stickman.pro/iframe/index.html",
           ""
         ],
         [
           "Subway Surfers",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/subway.png",
-          "https://raw.githack.com/3kh0/3kh0-Assets/main/subway-surfers/index.html",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/subway.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/SubwaySurfers/index.html",
           ""
         ],
         [
           "Snow Rider 3D",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/snowrider.png",
-          "https://snow-rider-3d.kevinhalushack.repl.co/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/snowrider.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/snowrider3d/index.html",
           ""
         ],
-        [
-          "Smash Karts",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/smashkarts.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/smashkarts/index.html",
-          ""
-      ],
       [
         "Eggy Car",
-        "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/eggycar.webp",
+        "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/eggycar.webp",
         "https://eggycarunblockedgithubio.kevinhalushack.repl.co",
         ""
     ],
         [
           "Drift Boss",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/driftboss.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/driftboss.png",
           "https://drift-boss.kevinhalushack.repl.co/",
           ""
         ],
         [
           "Drift Hunters",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/drifthunters.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/drifthunters.jpg",
           "https://html-classic.itch.zone/html/1792221/ItchIO/index.html?v=1574649458",
           ""
         ],
         [
           "Drift City",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/driftc.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/driftc.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/drift-city/index.html",
           ""
       ],
         [
           "Basket Bros",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/basketbros.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/basketbros.jpg",
           "https://basket-bros-1--kevinhalushack.repl.co/__replco/devtools_wrapper.html",
           ""
         ],
@@ -225,704 +179,697 @@
       "games": [
         [
           "IndestructoTank",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/indestructo.png",
-          "https://ruffle.kevinhalushack.repl.co/IndestructoTank/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/indestructo.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/IndestructoTank/index.html",
           ""
         ],
         [
           "Run",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/run3.png",
-          "https://ruffle.kevinhalushack.repl.co/Run1/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/run3.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/Run1/index.html",
           ""
         ],
         [
           "Run 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/run2.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/run2.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=run2.swf",
           "In Run 2, you play as a gray alien running through a series of different levels. You must run across platforms while avoiding obstacles and gaps in the floor."
         ],
         [
           "Run 3",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/run3.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/run3.jpg",
           "https://ruffle.kevinhalushack.repl.co/run3/",
           "My personal favorite flash game :) - Kevin H 2022"
         ],
         [
           "Bloons Tower Defense",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/bloons1.jpg",
-          "https://ruffle.kevinhalushack.repl.co/BloonsTowerDefense/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/bloons1.jpg",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/BloonsTowerDefense/index.html",
           ""
         ],
         [
           "Bloons Tower Defence 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/Bloons2.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/Bloons2.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd2.swf",
           "Bloons Tower Defense 2 is a popular tower defense game where the objective in this game is to stop the balloons from reaching the exit. When a balloon reaches the end successfully, you lose a life."
         ],
         [
           "Bloons Tower Defence 3",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/bloons3.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/bloons3.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd3.swf",
           "Bloons Tower Defense 3 is a tower defense game in which you deploy monkeys with darts to pop balloons. The game is a spin-off from the Bloons game series and the sequel to Bloons Tower Defense 2."
         ],
         [
           "Bloxorz",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/bloxorz.png",
-          "https://ruffle.kevinhalushack.repl.co/Bloxorz/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/bloxorz.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/Bloxorz/index.html",
           ""
         ],
         [
           "Super Mario 63",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sm63.png",
-          "https://ruffle.kevinhalushack.repl.co/sm63/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/sm63.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/sm63/index.html",
           ""
         ],
         [
           "Wasted Sky",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/wastedsky.webp",
-          "https://ruffle.kevinhalushack.repl.co/wastedsky/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/wastedsky.webp",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/wastedsky/index.html",
           ""
         ],
         [
           "The Worlds Hardest Game",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hardestgame1.png",
-          "https://ruffle.kevinhalushack.repl.co/HardestGame1/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hardestgame1.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/HardestGame1/index.html",
           ""
         ],
         [
           "The Worlds Hardest Game 2.0",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hardestgame2.jpg",
-          "https://ruffle.kevinhalushack.repl.co/HardestGame2/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hardestgame2.jpg",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/HardestGame2/index.html",
           ""
         ],
         [
           "The Impossible Quiz",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/impossiblequiz.png",
-          "https://ruffle.kevinhalushack.repl.co/ImpossibleQuiz/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/impossiblequiz.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/ImpossibleQuiz/index.html",
           ""
         ],
         [
           "The Impossible Quiz 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/impossiblequiz2.png",
-          "https://ruffle.kevinhalushack.repl.co/ImpossibleQuiz2/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/impossiblequiz2.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/ImpossibleQuiz2/index.html",
           ""
         ],
         [
           "The Impossible Quizmas",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/imposiblequizmas.avif",
-          "https://ruffle.kevinhalushack.repl.co/ImpossibleQuizmas/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/imposiblequizmas.avif",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/ImpossibleQuizmas/index.html",
           ""
         ],
         [
           "Interactive Buddy",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/interactivebuddy.png",
-          "https://ruffle.kevinhalushack.repl.co/InteractiveBuddy/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/interactivebuddy.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/InteractiveBuddy/index.html",
           ""
         ],
         [
           "N",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/N.png",
-          "https://ruffle.kevinhalushack.repl.co/N/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/N.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/N/index.html",
           ""
         ],
         [
           "Portal: The Flash Version",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/portaltfv.png",
-          "https://ruffle.kevinhalushack.repl.co/Portal/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/portaltfv.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/Portal/index.html",
           ""
         ],
         [
           "QWOP",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/QWOP.png",
-          "https://ruffle.kevinhalushack.repl.co/QWOP/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/QWOP.png",
+          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/QWOP/index.html",
           ""
         ],
         [
           "Alien Homonid",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/alienhomoid.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/alienhomoid.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=alien_hominid.swf",
           "Alien Hominid is a side-scrolling shooter in a similar vein to games such as Metal Slug, where one hit instantly kills and has a two-player simultaneous play. Players take over as the titular hominid, who has to fend off waves of secret agents."
         ],
         [
           "Age Of War",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ageofwar.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ageofwar.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=age_of_war.swf",
           "Age of War is an epic base defense strategy game where you fight a continuous war. Keep creating units to protect your base and destroy the enemy. When you earn enough XP, your civilization will evolve through the ages, offering new technologies to utilize in combat.",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=age_f_war.swf"
         ],
         [
           "Apple Shooter",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/appleshooter.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/appleshooter.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=weebly_apple_shooter.swf",
           "Shoot the apple off your friend's head using a bow and arrow in Apple Shooter, a classic game! The game consists of multiple archery rounds. You're trying to shoot an apple off your friend's head. Every time you succeed, the distance increases. But be careful: if you shoot your friend, the game is over!"
         ],
         [
           "Asteroids",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/asteroids.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/asteroids.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=asteroids.swf",
           "Asteroids is an iconic arcade game where players pilot a spaceship through an asteroid field, shooting the rocks while dodging collisions. The game features progressively difficult levels with faster and more numerous asteroids, testing players' reflexes and strategy. Successful players must be quick-thinking and precise in their movements."
         ],
         [
           "Abobos Big Adventure",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/abobos.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/abobos.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=abobbos-big-adventure.swf",
           "In Abobo's Big Adventure, players control the muscular character Abobo from the Double Dragon series, who embarks on a quest to save his son. The game features levels and bosses inspired by classic video games such as Super Mario Bros. and The Legend of Zelda, with retro graphics and humorous elements that pay homage to the golden age of gaming."
         ],
         [
           "Avalanche",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/avalanche.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/avalanche.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=avalanche.swf",
           "Avalanche is a free platform puzzle game. Are you a towelette, or maybe a marshmallow? Whatever the case, there are huge, square bolts to dodge. Can you avoid this avalanche?"
         ],
         [
           "Axis Football League",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/axis.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/axis.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=afl.swf",
           "Axis Football League is a fun and fast-paced American Football game in which you can compete in various football matches and leagues."
         ],
         [
           "BoxHead 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/boxhead.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/boxhead.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=boxhead2.swf",
           "Boxhead: 2Play Rooms is a zombie shooter that has multiplayer functionality. The game is the fourth in the Boxhead series, but the first one with multiplayer."
         ],
         [
           "Bubble Shooter",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/bubbleshooter.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/bubbleshooter.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bubble-shooter.swf",
           "Bubble Shooter is a game where the goal is to clear the playing field by forming groups of three or more marbles of the same color. The game ends when the balls reach the bottom line of the screen. The more balls destroyed in one shot, the more points scored. A player wins when there are no balls remaining on the playing field."
         ],
         [
           "Cat Ninja",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/catninja.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/catninja.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=catninja.swf",
           "Cat Ninja is one of our incredible Adventure Games in which you will be defeating other ninjas. Your character is a little blue cat who needs to avoid from deadly lasers and sharp objects as they might be dangerous. You can change the gravity in this game and it makes jumping and climbing the walls easier for you."
         ],
         [
           "Color Combat",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/colorcombat.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/colorcombat.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=color_combat.swf",
           "It's a combat of colors! This one-of-a-kind game tests players' speed as they try to hit moving lights that correspond with their color. Whoever correctly hits the most lights the fastest becomes the Color Combat winner!"
         ],
         [
           "Commando",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/commando.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/commando.webp",
           "https://ruffle.kevinhalushack.repl.co/Commando/",
           "Commando is a man-to-man tactical combat game that simulates commando operations from World War II to the present. Although it was marketed as a role-playing game, reviewers called it primarily a board wargame with a set of role-playing rules grafted onto it."
         ],
         [
           "Cubefield: Flash Version",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/cf.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/cf.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=cubefield.swf",
           ""
         ],
         [
           "Dad n' Me",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/dadnme.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/dadnme.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dadnme.swf",
           "In Dad 'N Me, the player controls a small, purple, gorilla like creature who starts the game in a neighbourhood of humans. The main objective of the game is to beat up anyone who stands in your way, whether they be innocent children, bullies or adults."
         ],
         [
           "Don't Whack Your Teacher",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/whackteacher.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/whackteacher.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dwyt.swf",
           "Don't Whack Your Teacher (usually known as Whack Your Teacher) is a game where you do exactly that. In this one, you have 13 unique ways to kill your teacher."
         ],
         [
           "Defend Your Castle",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/defendcastle.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/defendcastle.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=102209_castle202c.swf",
           "Defend Your Castle is a series of video games developed by XGen Studios. The original version of Defend Your Castle is a Macromedia Flash-based browser game. It requires the player to kill all enemy units before they destroy the player's castle.Dragon Ball: Devolution is an unofficial fighting game in the Dragon Ball Series released for browsers. The game contains a massive roster of characters from all corners of the franchise, in an artstyle resembling Dragon Ball Z: Goku's Fierce Battle Story."
         ],
         [
           "Dragon Ball Z Devolution",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/dragonballzdevolutionwebp.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/dragonballzdevolutionwebp.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dbzd.swf",
           "Dragon Ball: Devolution is an unofficial fighting game in the Dragon Ball Series released for browsers. The game contains a massive roster of characters from all corners of the franchise, in an artstyle resembling Dragon Ball Z: Goku's Fierce Battle Story."
         ],
         [
           "Dragon Ball Z",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/dragonballz.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/dragonballz.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dragonballz.swf",
           ""
         ],
         [
           "Duck Hunt",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/duckhunt.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/duckhunt.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=duckhunt.swf",
           "Duck Hunt is a fantastic arcade game that takes inspiration from the original classic available on Nintendo game systems. You must shoot the moving ducks down with your mouse and see how many points you can score. The hunting is fun and the controls to aim and fire your weapon are simple to master."
         ],
         [
           "Duck Life",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ducklife.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ducklife.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife1.swf",
           "A tornado has struck your farm and destroyed everything. All that remains is a single duck egg. Train this duckling to peak athletic form so you can earn money to rebuild the farm."
         ],
         [
           "Duck Life 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ducklife2.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ducklife2.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife2.swf",
           "Duck Life 2 is an adventure game where you train your duck to race in various disciplines such as running, flying, swimming and climbing to be the best duck adventurer in the world. Earn coins by training or racing fellow ducks. There are five locations for races: Scotland, England, Egypt, Hawaii and Japan."
         ],
         [
           "Duck Life 3",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ducklife3.avif",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ducklife3.avif",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife3.swf",
           "Duck Life 3 is a duck racing game featuring genetically modified ducks that evolve as you progress. Choose from one of four duck breeds and evolve as you complete each league. Like the previous game, training is essential to level up and improve your abilities."
         ],
         [
           "Duck Life 4",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ducklife4.avif",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ducklife4.avif",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife4.swf",
           "Train your duck in 15 mini-games featuring running, swimming, flying, climbing and jumping. Watch proudly as it competes in tournaments against rival ducks, discovering exciting worlds and learning new skills."
         ],
         [
           "Earn to Die",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/earntodie.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/earntodie.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=earntodie.swf",
           ""
         ],
         [
           "Earn to Die 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/earntodie2.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/earntodie2.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=earntodie2.swf",
           ""
         ],
         [
           "Electricman 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/electricman.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/electricman.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=electricman2.swf",
           "You're in a tournament against other stickmen who are trying to beat you for the grand prize. Beat out every one of these stickmen using your electrifying power moves. There are no rules and several rounds with a varying of opponents that you need to defeat."
         ],
         [
           "The Fancy Pants Adventures",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/fancypants.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/fancypants.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=fancypantsadventure.swf",
           "It is a platforming game that is focused on speed and momentum. World 1 also introduces various trophies, side goals (squiggles and stars), and a variety of colors and styles of pants for the player to try on."
         ],
         [
           "Escaping the Prison",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/escapingprison.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/escapingprison.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=etp.swf",
           "Escaping The Prison is a fantastically fun stick figure game where you... Well, escape the prison! After being thrown in a prison cell, you must use anything and everything at your disposal to escape!"
         ],
         [
           "Stealing the Diamond",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/stealingdiamond.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/stealingdiamond.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=std.swf",
           "Stealing the Diamond is the third game in the Henry Stickmin series. It takes place after Escaping the Prison and before Infiltrating The Airship, and is considered Episode 2 of the Henry Stickmin Collection."
         ],
         [
           "Breaking the Bank",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/breakingthebank.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/breakingthebank.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=breakingthebank.swf",
           "Henry Stickmin attempts to break into a bank, built in the middle of a desert. He stands next to a wall and wonders how to break inside."
         ],
         [
           "Infiltrating the Airship",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/airship.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/airship.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=infiltratingtheairship.swf",
           "Infiltrating the Airship is the fourth game in the Henry Stickmin series. It is the sequel to Stealing the Diamond and takes place before Fleeing the Complex and is named as Episode 3 of the Henry Stickmin story. The game has four different endings and one fake ending."
         ],
         [
           "Fleeing the Complex",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/fleeingthecomplex.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/fleeingthecomplex.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=fleeingthecomplex.swf",
           "You are trapped inside a small prison cell, and you have to escape not just your cell, but the whole prison! If you fail, death is awaiting you... Fleeing the Complex is an amazing stick figure escape game. The highly secured prison is guarded by some strong stick soldiers."
         ],
         [
           "Freeway Fury",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/freewayfury.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/freewayfury.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=freewayfury.swf",
           "In Freeway Fury the player is a daredevil jumping from car to car at high speed, striving to get as many stunt points as possible. The game plays as a vertical, top-down racer reminiscent of Spy Hunter: if the player's car gets badly damaged, they can jump onto another one and proceed."
         ],
         [
           "Gunblood",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/gunblood.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/gunblood.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=1gunblood.swf",
           "This town isn't big enough for the two of us, so draw! If you have ever wanted to be a part of a western duel, then look no further than Gunblood! Choose from one of ten wild west characters and attempt to outshoot your opponents! Nine rounds of intense, reaction based duels await you in this visceral game! After every successful duel, you are met with another, more challenging opponent and your odds of survival greatly decrease!"
         ],
         [
           "Hobo",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hobo.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hobo.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo.swf",
           "Hobo: Tough Life is an urban survival role-playing game where you play as a homeless person. Play alone or team up in online co-op. Explore the streets of Praslav, scavenge for food and supplies, beg, steal, and do whatever else it takes to survive the forthcoming winter."
         ],
         [
           "Hobo 2: Prison Brawl",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hobo2.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hobo2.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo2.swf",
           "Hobo 2 is the fantastic sequel to the popular original title – this time you must fight inside a deadly prison against your cell mates. Our hobo wants to rampage through the prison and escape to freedom – he wants to smash his way to the outside and cause as much damage and mayhem as possible."
          ],
         [
           "Hobo 3: Wanted",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hobo3.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hobo3.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo3.swf",
           "Hobo 3 continues with the story line where Hobo is a wanted fugitive after escaping from prison, and the government wants him dead or alive."
         ],
         [
           "Hobo 4: Total War",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hobo4.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hobo4.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo4.swf",
           ""
         ],
         [
           "Hobo 5: Space Brawls",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hobo5.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hobo5.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo5.swf",
           "Hobo 5 is a game where you play as a hobo who tries to escape from the alien's abduction. Fight with the aliens by kicking and punching them!"
         ],
         [
           "Hobo 6: Hell",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hobo6.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hobo6.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo6.swf",
           "After dying from lack of oxygen, Hobo goes to Hell, where Satan and his minions are angry by his doing-nothing behavior. So he must now fight to defeat Satan. After dying from lack of oxygen, Hobo goes to Hell, where Satan and his minions are angry by his doing-nothing behavior. So he must now fight to defeat Satan."
         ],
         [
           "Hobo 7: Heaven",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hobo7.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hobo7.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo7.swf",
           "After defeating the devil in Hell, Hobo is sent to Heaven, but God and his angel are getting angry by his attitude of life, so he must fight against the holy powers."
         ],
         [
           "Interactive Buddy",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/buddy1.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/buddy1.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=interactivebuddy.swf",
           "Interactive Buddy is an arcade game where you interact with your virtual buddy. For every interaction, you earn money to buy new weapons, skins, and more!"
         ],
         [
           "Interactive Buddy 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/buddy2.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/buddy2.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=interactivebuddy2.swf",
           ""
         ],
         [
           "Johnny Rocketfingers 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/rocketfingers2.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/rocketfingers2.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=johnny2.swf",
           "Johnny Rocketfingers 2 is a point-and-click adventure game that lets you play as Johnny Rocketfingers, the toughest, bravest, strongest guy around. This time, you will have to find who's out to get you, and give them a little visit."
         ],
         [
           "Learn to Fly",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/learntofly1.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/learntofly1.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=learntofly.swf",
           "Learn to Fly is a launcher game where you play as a penguin attempting to fly using a ramp and various gadgets. In this game, your goal is simple: fly as high, long, and far as possible."
         ],
         [
           "Learn to Fly 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/learntofly2.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/learntofly2.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=learntofly2.swf",
           "Learn to Fly 2 is a launcher game where you play as a penguin attempting to fly using a ramp and various gadgets. It is the sequel of the highly-rated game Learn to Fly. In this game, you play a penguin trying to launch himself in the air to fly."
         ],
         [
           "Learn to Fly 3",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/learntofly3.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/learntofly3.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=learntofly3.swf",
           "In Learn to Fly 3, you have to build, customize and upgrade a spaceship to reach space in an arcadey environment. Each playthrough earns you new parts to mess around with and assemble new exciting contraptions."
         ],
         [
           "Mario Combat",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/mariocombat.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/mariocombat.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=Mario_Combat.swf",
           "Mario-Combat is an action platformer by D-SuN. It portrays the popular video game character Mario in an attack on Bowser's castle."
         ],
         [
           "Miami Shark",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/miamishark.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/miamishark.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=miami-shark.swf",
           "Miami Shark is an intense action game in which you control a shark that needs to cause havoc in the Miami water."
         ],
         [
           "Meat Boy",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/meatboy.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/meatboy.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dagobah_Meat_Boy.swf",
           "Super Meat Boy is a tough as nails platformer where you play as an animated cube of meat who's trying to save his girlfriend (who happens to be made of bandages) from an evil fetus in a jar wearing a tux. Our meaty hero will leap from walls, over seas of buzz saws, through crumbling caves and pools of old needles."
         ],
         [
           "Mini Putt",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/miniputt.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/miniputt.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=miniputt.swf",
           "Miniature golf, also known as minigolf, mini-putt, crazy golf, or putt-putt, is an offshoot of the sport of golf focusing solely on the putting aspect of its parent game. The aim of the game is to score the lowest number of points."
         ],
         [
           "Minecraft TD",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/minecrafttd.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/minecrafttd.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=minecrafttd.swf",
           "In Minecraft TD, you are protecting your home from all the different and dangerous creatures of the Minecraft world, which includes creepers, wolves, and zombies. Your first goal is to get to your destination by making a path towards it."
         ],
         [
           "Mario Kart Flash",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/mkflash.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/mkflash.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=mariokartflash.swf",
           "You might know Mario Kart, the most fun racing game series of all time! Mario Kart PC uses the same base as the original games but is playable on your browser, and for free."
         ],
         [
           "Mutilate a Doll",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/mutilatedoll.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/mutilatedoll.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=mad.swf",
           "Mutilate-a-Doll 2 is a highly customizable virtual stressball and physics sandbox about mutilating ragdolls in various ways using an overwhelming amount of weapons and tools."
         ],
         [
           "New York Shark",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/nyshark.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/nyshark.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=new-york-shark-unblocked.swf",
           "In this crazy game you control a shark and try to destroy the whole city, maybe even the entire planet. In addition to aircraft, ships and people there will also appear some specials, such as Spider-Man."
         ],
         [
           "This is the Only Level",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/only.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/only.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=this_is_the_only_level.swf",
           "This is the Only Level is a series of puzzle platformer games made by Jmtb02, the majority of which star his blue elephant character. They each involve traversing through many iterations of the same level by solving puzzles of widely varying nature."
         ],
         [
           "Pac-Man",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pacman.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pacman.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pacman.swf",
           "Pac-Man is an action maze chase video game; the player controls the eponymous character through an enclosed maze. The objective of the game is to eat all of the dots placed in the maze while avoiding four colored ghosts — Blinky (red), Pinky (pink), Inky (cyan), and Clyde (orange) — that pursue Pac-Man."
         ],
         [
           "Papa's Pizzeria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pizzeria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pizzeria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pizzeria.swf",
           "Papa Louie has left the pizza shop! It is up to you to take over the business. You are playing as Roy, who must take over the pizzeria and make the orders accurately and on time! To start the game, just click on the save slot cards."
         ],
         [
           "Papa's Burgeria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/burgeria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/burgeria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=burgeria.swf",
           "Papa's Burgeria guides you through the basics of flipping burgers and making a buck. Take your first order and follow the instructions on-screen. You'll start by taking the order and frying up the patty, before finalizing the burger with tomatoes, onions, sauces, seeded buns, and other cherished burger ingredients."
         ],
         [
           "Papa's Hot Doggeria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/doggeria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/doggeria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papashotdoggeria.swf",
           "In Papa's Hot Doggeria you'll need to grill up juicy Hot Dogs, top them with a variety of condiments, and serve them to all the rowdy fans. You'll also have your hands full popping up fresh popcorn, and pouring a crazy amount of drinks for your hungry customers.",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papashotdoggeria.swf"
         ],
         [
           "Papa's Wingeria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/wingeria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/wingeria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papaswingeria.swf",
           "Papa's Wingeria is a game in the Papa Louie series. It's the sixth cooking simulator game (aka Gameria) in the series, and is the sequel to Papa's Pancakeria. It involves making chicken wings with sides for the various customers that visit the establishment.",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papaswingeria.swf"
         ],
         [
           "Papa's Freezeria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/freezeria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/freezeria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasfreezeria.swf",
           "Papa's Freezeria is a restaurant management game where you manage a dessert shop while the owner is on a temporary leave. Serve the customers their favorite sweets at several stations by getting their order exactly right.",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasfreezeria.swf"
         ],
         [
           "Papa's Pancakeria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pancakeria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pancakeria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papaspancakeria.swf",
           "Papa's Pancakeria is a game in the Papa Louie series. It's the fifth cooking simulator game (aka Gameria) in the series, and is the sequel to Papa's Freezeria. It involves making pancakes and drinks for the various customers that visit the establishment.",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papaspancakeria.swf"
         ],
         [
           "Papa's Sushiria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sushiria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/sushiria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papassushiria.swf",
           "Papa's Sushiria To Go is available for phones and tablets. When you break Papa Louie's lucky cat statue, he puts you in charge of Papa's Sushiria in Sakura Bay while he goes on a mission to find a replacement! You'll need to roll, slice, and serve sushi along with delicious bubble tea!",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papassushiria.swf"
         ],
         [
           "Papa's Bakeria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/bakeria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/bakeria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasbakeria.swf",
           "Papa's Bakeria is a restaurant management game where you manage a bakery. You're tasked with making and serving delicious pies to satisfy your loyal customers. Don't forget to complete all the achievements and serve all the VIP customers to maximize your bakery's success!",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasbakeria.swf"
         ],
         [
-          "Papa's Cheeseria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/cheeseria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papascheeseria.swf",
-          "Papa's Cheeseria is a game in the Papa Louie series. It's the eleventh cooking simulator game (aka Gameria) in the series, and is the sequel to Papa's Donuteria. It involves making grilled cheese sandwiches with fries for the various customers that visit the establishment.",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papascheeseria.swf"
-        ],
-        [
           "Papa's Donuteria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/donuteria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/donuteria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasdonuteria.swf",
           "Papa's Donuteria is a game in the Papa Louie series. It's the tenth cooking simulator game (aka Gameria) in the seires, and is the sequel to Papa's Pastaria. It involves making donuts for the various customers that visit the establishment.",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasdonuteria.swf"
         ],
         [
           "Papa's Pastaria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pastaria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pastaria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papaspastaria.swf",
           "Papa's Pastaria is a game in the Papa Louie series. It's the ninth cooking simulator game (aka Gameria) in the seires, and is the sequel to Papa's Cupcakeria. It involves making pasta and bread for the various customers that visit the establishment.",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papaspastaria.swf"
         ],
         [
           "Papa's Scooperia",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/scooperia.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/scooperia.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasscooperia.swf",
           "Papa Louie comes up with solution to help you get back on your feet: He wants you to stay and run his new ice cream shop in Oniontown! You'll be baking fresh cookies, topping them with scoops of decadent ice cream, and adding delicious toppings and syrups before serving the sundaes to your hungry customers.",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasscooperia.swf"
         ],
         [
           "Papa's Taco Mia",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/tacomia.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/tacomia.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papastacomia.swf",
           "In this game the player makes tacos. You can unlock all the ingredients and upgrade your shop to increase style, speed, and scores. The player must be quick on serving those new, picky Closers (Robby, Kahuna, Quinn, Xandra, Allan, Johnny and Jojo) and show them your wild taco making skills.",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papastacomia.swf"
         ],
         [
           "Papa's Cupcakeria",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/cupcakeria.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/cupcakeria.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papascupcakeria.swf",
           "Papa's Cupcakeria is a game in the Papa Louie series. It's the eighth cooking simulator game (aka Gameria) in the series, and is the sequel to Papa's Hot Doggeria. It involves making cupcakes for the various customers that visit the establishment.",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papascupcakeria.swf"
         ],
         [
           "Pong",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pong.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pong.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pong.swf",
           "Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth."
         ],
         [
           "Potty Racers",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pottyracers.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pottyracers.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers.swf",
           "Potty Racers is a fun racing game in which you must build your very own potty and attempt to fly it as far as possible by hurtling down a hillside and launching off a ramp! As you hurtle down the hill and launch off of the ramp, you must use your arrow keys to maintain balance and try to fly great distances."
         ],
         [
           "Potty Racers 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pottyracers2.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pottyracers2.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers2.swf",
           "Potty Racers 2 is a free launch game. A new island is now unlocked for your potty racing pleasure! Upgrade to Number 2!"
         ],
         [
           "Potty Racers 3",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pottyracers3.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pottyracers3.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers3.swf",
           "In Potty Racers 3 you still aspire to become the greatest racer in the world, and you must improve your potty and racing skills to reach new distances"
         ],
         [
           "Potty Racers 4",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pottyracers4.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pottyracers4.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers4.swf",
           "Ready for another crappy flight? Get comfortable in this travelling potty, and cruise around the world, collecting the missing stars. You will need to upgrade your craptacular aircraft repeatedly if you are going to make any progress, so collect all the gold and fuel you can to keep going."
         ],
         [
           "Ragdoll Avalanche 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ragdollavalanche2.webp",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ragdollavalanche2.webp",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ragdollavalanche2.swf",
           "You control a ragdoll stickman and you move him around the screen using the arrow keys - the focus of the control is in the head. Sharp spikes randomly appear at the top of the screen falling downwards and it is up to you to dodge them. The goal is to dodge as many spikes as you can before dying."
         ],
         [
           "Rage 3",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/rage3.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/rage3.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=rage3.swf",
           "Rage 3 is the 3rd game in the Rage series and follows the same principle, harness your rage to defeat all the enemies in front of you. Go through the Adventure mode to enjoy some platforming challenges while you beat your enemies flat into the ground."
         ],
         [
           "Riddle School",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/riddleschool.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/riddleschool.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool.swf",
           "Riddle School focuses upon a lone student, Phil Eggtree, who, after studying Math for the day, decides to escape. The player must find objects and use them to distract teachers and students and prevent them from stopping the escape."
         ],
         [
           "Riddle School 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/riddleschool2.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/riddleschool2.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool2.swf",
           "Riddle Transfer 2 is a Flash Game made by JonBro (Jonochrome). It is the sequel to Riddle Transfer 1. The flash game was released on Newgrounds on the 10th anniversary of the Riddle School Series (May 25th, 2016), and is the last game of the series."
         ],
         [
           "Riddle School 3",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/riddleschool3.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/riddleschool3.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool3.swf",
           "Riddle School 3 is a point-click game flash game available online through Crazygames.com. You play as a character named Phil Eggtree whose goal is to escape the school. This wikiHow teaches you the fastest way to get beat the game."
         ],
         [
           "Riddle School 4",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/riddleschool4.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/riddleschool4.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool4.swf",
           "Riddle School 4 is the shortest game in the Riddle School series. After clicking while in the game, Mr. Munch, the protagonist Phil Eggtree's teacher, pushes a button, causing Eggtree to fall into a volcano that the university was built on."
         ],
         [
           "Riddle School 5",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/riddleschool5.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/riddleschool5.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool5.swf",
           "Take control of Phil once more in his epic quest to escape his captors; a group of aliens who threaten the very existence of Earth! Search the mysterious area where you are being held and use all of the objects you come across to help you put an end to their plans once and for all!"
         ],
         [
           "Riddle Transfer",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/riddletransfer.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/riddletransfer.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddletransfer.swf",
           "Riddle Transfer is another in a long line of fantastic, addicting point and click adventure games where the main goal is to escape! Search for hidden items, combine them and use whatever tools you can find to escape from the strange facility and get Phil to safety!"
         ],
         [
           "Riddle Transfer 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/riddletransfer2.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/riddletransfer2.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddletransfer2.swf",
           "Following a tale of backstabbing, flying pigs and a chat with the abominable snowman, Riddle Transfer 2 sees us re-join Phil and chums in the sewers of Zone 5.1 where we must use a teleporter to, err, travel back to Riddle School so we can escape to save the world from evil aliens."
         ],
         [
           "Raft Wars",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/raftwars.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/raftwars.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=raftwars.swf",
           "Raft Wars is a level-based shooting game created by Martijn Kunst, where the player control two characters, Simon and his brother, who will need to defend their treasure from different kinds of enemies."
         ],
         [
           "Raft Wars 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/raftwars.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/raftwars.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=raftwars2.swf",
           "Raft Wars 2 is an action-packed shooting game created by Martijn Kunst as the sequel to the hit game Raft Wars. Simon and his brother return from a well-deserved holiday only to find a water park on top of where they've hidden their buried treasure."
         ],
         [
           "Stick RPG",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/stickrpg.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/stickrpg.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=stickrpg.swf",
           "Stick RPG is a fun, fiction RPG game where you can survive by drug dealing, bar fights, or bank robberies. When you start the game you are given three choices you can choose from. Those three choices include how long you want your game to last."
         ],
         [
           "Sonic Flash",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sonicflash.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/sonicflash.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ultimate-flash-sonic.swf",
           "Ultimate Flash Sonic is an Adobe Flash game by Dennis Gid released in 2004. It is a fan game platformer based on Sonic the Hedgehog, specifically the first two games in the Sonic Advance Trilogy."
         ],
         [
           "Super Smash Flash",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/supersmashflash.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/supersmashflash.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ssf.swf",
           "Super Smash Flash is a series of fighting browser games published by indie company McLeodGaming, led by Gregory McLeod under the alias Cleod9. It is based on the Super Smash Bros series. The original Super Smash Flash is based specifically on Super Smash Bros. Melee."
         ],
         [
           "Super Mario Flash",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/supermarioflash.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/supermarioflash.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dagobah_super_mario_flash.swf",
           "The classic Super Mario games but remade with adobe flash"
         ],
         [
           "Tank Trouble",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/tanktrouble.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/tanktrouble.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=tanktrouble.swf",
           "Tank Trouble is an online tank game where you drive in a maze and shoot missiles at your enemies. Tank Trouble pits you against clever army generals in mazelike battlefields. In Solo mode, you will face Laika, a master of war. You can also challenge a friend or two in multiplayer warfare."
         ],
         [
           "Tetris",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/tetris.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/tetris.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=flash-tetris.swf",
           "Tetris is a tile-matching puzzle game, developed in the Soviet Union in 1984. The game has a simple goal of destroying lines of blocks before it reaches the top. The line is made up of a square block. The Tetrimino is the shape of the 4 connected blocks that fall down."
         ],
         [
           "The Binding of Isaac",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/thebindingofisaac.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/thebindingofisaac.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=tboi.swf",
           "The Binding of Isaac is a top-down dungeon crawler game, presented using two-dimensional sprites, in which the player controls Isaac or other unlockable characters as they explore the dungeons located in Isaac's basement."
         ],
         [
           "Toss the Turtle",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/tosstheturtle.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/tosstheturtle.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=toss_the_turtle.swf",
           "Toss the Turtle is a launcher game. It is similar to many of the other launcher games. Instead of a cat or a penguin, you launch a turtle out of a cannon. In Toss the Turtle you have some control over the turtle and there are a large variety of objects in your path that may affect your speed or direction."
         ],
         [
           "Unfair Mario",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/unfairmario.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/unfairmario.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=unfairmario.swf",
           "Unfair Mario is a platform game inspired by Mario and Trap Adventure 2. Can you complete the level without triggering the hidden traps?"
         ]
@@ -930,30 +877,30 @@
     },
 
     {
-      "title": "Emulation",
+      "title": "Retro",
       "games": [
 [
           "Super Mario 64 PORT",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sm64.webp",
-          "https://sm64-1.kevinhalushack.repl.co/",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/sm64.webp",
+          "https://raw.githack.com/aKevbo/luma-assets/main/retro/sm64/index.html",
           ""
 ],
 [
   "Super Mario 64 Original",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sm64.webp",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/sm64.z64",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/sm64.webp",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/n64/sm64.z64",
   "Reccomended to play Super Mario 64 PORT as it runs far better than this emulated version."
 ],
 
 [
           "Mario Kart 64",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/mk64.png",
-          "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/mk64.z64",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/mk64.png",
+          "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/n64/mk64.z64",
           ""
 ],
 [
   "Paper Mario 64",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/papermario.png",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/papermario.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
   "",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
@@ -961,218 +908,218 @@
 ],
 [
         "The Legend of Zelda: Ocarina of Time",
-        "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ocarinaoftime.png",
-        "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/ocarinaoftime.z64",
+        "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ocarinaoftime.png",
+        "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/n64/ocarinaoftime.z64",
         ""
 ],
 [
       "The Legend of Zelda: Majoras Mask",
-      "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/majorasmask.jpg",
-      "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/majorasmask.z64",
+      "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/majorasmask.jpg",
+      "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/n64/majorasmask.z64",
       ""
 ],
 [
     "Starfox 64",
-    "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/starfox64.png",
-    "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/starfox64.z64",
+    "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/starfox64.png",
+    "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/n64/starfox64.z64",
     ""
 ],
 [
   "Super Smash Bros.",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/supersmashbros.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/smashbros.z64",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/supersmashbros.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/n64/smashbros.z64",
   ""
 ],
 [
   "Kirby 64: The Crystal Shards",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/kirby64.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/n64/kirby64.z64",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/kirby64.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/n64/kirby64.z64",
   ""
 ],
 [
   "Super Mario World",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/supermarioworld.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/supermarioworld.smc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/supermarioworld.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/snes/supermarioworld.smc",
   ""
 ],
 [
   "Super Mario World 2: Yoshis Island",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/yoshisisland.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/supermarioworld2.smc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/yoshisisland.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/snes/supermarioworld2.smc",
   ""
 ],
 [
   "Donkey Kong Country",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/donkeykongcountry.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/donkeykongcountry.smc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/donkeykongcountry.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/snes/donkeykongcountry.smc",
   ""
 ],
 [
   "F-Zero",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/fzero.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/fzero.sfc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/fzero.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/snes/fzero.sfc",
   ""
 ],
 [
   "Super Mario Kart",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/supermariokart.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/supermariokart.sfc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/supermariokart.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/snes/supermariokart.sfc",
   ""
 ],
 [
   "Super Metroid",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/supermetroid.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/supermetroid.sfc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/supermetroid.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/snes/supermetroid.sfc",
   ""
 ],
 [
   "Star Fox",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/starfox.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/starfox.smc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/starfox.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/snes/starfox.smc",
   ""
 ],
 [
   "Super Mario Bros.",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/smb1.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/supermariobros.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/smb1.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/supermariobros.nes",
   ""
 ],
 [
   "Super Mario Bros. 2",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/smb2.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/supermariobros2.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/smb2.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/supermariobros2.nes",
   ""
 ],
 [
   "Super Mario Bros. 3",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/smb3.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/supermariobros3.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/smb3.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/supermariobros3.nes",
   ""
 ],
 [
   "Metroid",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/metroid.ico",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/Metroid.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/metroid.ico",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/Metroid.nes",
   ""
 ],
 [
   "Dr. Mario",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/drmario.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/drmario.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/drmario.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/drmario.nes",
   ""
 ],
 [
   "Sonic the Hedgehog",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sonicthehedgehog.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/genesis/sonic.md",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/sonicthehedgehog.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/genesis/sonic.md",
   ""
 ],
 [
   "Sonic the Hedgehog 2",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sonicthehedgehog2.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/genesis/sonic2.md",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/sonicthehedgehog2.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/genesis/sonic2.md",
   ""
 ],
 [
   "Sonic the Hedgehog 3 & Knuckles",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sonicthehedgehog3.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/genesis/sonic3.md",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/sonicthehedgehog3.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/genesis/sonic3.md",
   ""
 ],
 [
   "Pokemon Red Version (Gen I)",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pokered.avif",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gb/pokemonred.gb",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pokered.avif",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/gb/pokemonred.gb",
   ""
 ],
 [
   "Pokemon Blue Version (Gen I)",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pokeblue.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gb/pokemonblue.gb",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pokeblue.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/gb/pokemonblue.gb",
   ""
 ],
 [
   "Pokemon Yellow Version (Gen I)",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pokeyellow.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gb/pokemonyellow.gb",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pokeyellow.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/gb/pokemonyellow.gb",
   ""
 ],
 [
   "Pokemon Gold Version (Gen II)",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pokegold.avif",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gbc/pokemongold.gbc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pokegold.avif",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/gbc/pokemongold.gbc",
   ""
 ],
 [
   "Pokemon Silver Version (Gen II)",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pokesilver.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gbc/pokemonsilver.gbc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pokesilver.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/gbc/pokemonsilver.gbc",
   ""
 ],
 [
   "Pokemon Crystal Version (Gen II)",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pokecrystal.avif",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gbc/pokemoncrystal.gbc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pokecrystal.avif",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/gbc/pokemoncrystal.gbc",
   ""
 ],
 [
   "Pokemon Ruby Version (Gen III)",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pokeruby.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gba/pokemonruby.gba",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pokeruby.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/gba/pokemonruby.gba",
   ""
 ],
 [
   "Pokemon Sapphire Version (Gen III)",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pokesapphire.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gba/pokemonsapphire.gba",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pokesapphire.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/gba/pokemonsapphire.gba",
   ""
 ],
 [
   "Pokemon Emerald Version (Gen III)",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/pokeemeraldversion.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/gba/pokemonemerald.gba",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/pokeemeraldversion.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/gba/pokemonemerald.gba",
   "<q>my favorite pokemon game<q> - kevin h 9/5/23"
 ],
 [
   "Batman",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/bm.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/batman.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/bm.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/batman.nes",
   ""
 ],
 [
   "Contra",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/contra.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/contra.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/contra.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/contra.nes",
   ""
 ],
 [
   "Double Dragon ",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/doubledragon.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/doubledragon.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/doubledragon.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/doubledragon.nes",
   ""
 ],
 [
   "Duck Tales ",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ducktales.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/ducktales.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ducktales.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/ducktales.nes",
   ""
 ],
 [
   "Excitebike ",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/exitebike.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/excitebike.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/exitebike.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/excitebike.nes",
   ""
 ],
 [
   "Friday the 13th ",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ft13.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/friday13.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ft13.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/friday13.nes",
   ""
 ],
 [
   "Mega Man 2 ",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/megaman2.png",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/nes/megaman2.nes",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/megaman2.png",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/nes/megaman2.nes",
   ""
 ],
 [
@@ -1225,7 +1172,7 @@
 ],
 [
   "Mike Tysons Punch Out",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/punchout.png",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/punchout.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mtpo.nes",
   "",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mtpo.nes",
@@ -1249,7 +1196,7 @@
 ],
 [
   "Super Mario RPG",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/mariorpg.png",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/mariorpg.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=smrpg.smc",
   "",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=smrpg.smc",
@@ -1289,7 +1236,7 @@
 ],
 [
   "Mother 3",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/mother3.png",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/mother3.png",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba",
   "Mother (known as EarthBound outside Japan) is a video game series that consists of three role-playing video games: Mother (1989), known as EarthBound Beginnings outside Japan",
   "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba",
@@ -1297,9 +1244,15 @@
 ],
 [
   "Super Street Fighter II TURBO",
-  "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ssf2t.jpg",
-  "https://rawcdn.githack.com/Corruptify/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://roms.kevinhalushack.repl.co/snes/streetfighter2turbo.smc",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ssf2t.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/snes/streetfighter2turbo.smc",
   "Super Street Fighter II Turbo[a] is a fighting game released for the arcades by Capcom in Japan on February 23, 1994, in North America on February 23 and March 26, 1994”."
+],
+[
+  "Christmas Dream 64",
+  "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/christmasdream.jpg",
+  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=https://raw.githubusercontent.com/aKevbo/luma-assets/main/retro/n64/christmasdream.z64",
+  "Traverse as mario in a snowy wonderland."
 ]
       ]
     },
@@ -1309,145 +1262,127 @@
         "games": [
           [
             "1v1.lol",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/1v1lol.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/1v1lol.png",
             "https://1v1lol-2.kevinhalushack.repl.co/",
             ""
           ],
           [
             "Monster Tracks (Drive Mad)",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/monstertracks.avif",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/monstertracks.avif",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/monster-tracks/index.html",
             ""
           ],
           [
             "Swordbattle.io",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sb.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/sb.png",
             "https://sword-io-game.herokuapp.com/",
             ""
           ],
           [
             "Crossy Road",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/crossyroad.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/crossyroad.png",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/crossyroad/index.html",
             "Might take a few minutes to load."
           ],
           [
             "Paper.io 2",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/paperio2.jpg",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/paperio2.jpg",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/paperio2/index.html",
             ""
           ],
           [
             "Tunnel Rush",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/tunnelrush.jpg",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/tunnelrush.jpg",
             "https://tunnel-rush.kevinhalushack.repl.co/",
             ""
           ],
           [
             "Happy Wheels",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hw.jpg",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hw.jpg",
             "https://happy-wheels-fan-remake.kevinhalushack.repl.co",
             "Very bloody game!"
           ],
           [
             "Sandboxels",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/sandboxels.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/sandboxels.png",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/sandboxels/index.html",
             ""
           ],
           [
             "Burrito Bison",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/burritobison.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/burritobison.png",
             "https://html-classic.itch.zone/html/7437859/index.html",
             ""
           ],
           [
             "There is no game.",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/thereisnogame.jpg",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/thereisnogame.jpg",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/there-is-no-game/index.html",
             ""
           ],
           [
             "We become what we behold",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/webecomewhatwebehold.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/webecomewhatwebehold.png",
             "https://html-classic.itch.zone/html/300364/index.html?v=1542781840",
             ""
           ],
           [
             "Bitlife",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/bitlife.webp",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/bitlife.webp",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/bitlife/index.html",
             ""
           ],
           [
             "Cookie Clicker",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/cc.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/cc.png",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/cookie-clicker/index.html",
             ""
           ],
           [
             "Retro Bowl",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/retrobowl.jpg",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/retrobowl.jpg",
             "https://retro-bowl.kevinhalushack.repl.co",
             ""
           ],
           [
             "Temple Run 2",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/templerun2.jpg",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/templerun2.jpg",
             "https://temple-run-2.kevinhalushack.repl.co",
             ""
           ],
           [
-            "Friday Night Funkin",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/fnf.png",
-            "https://fnf.kevinhalushack.repl.co",
-            ""
-          ],
-          [
-            "Game inside of a game inside of a game inside of a game...",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/gameinsideofagame.png",
-            "https://html-classic.itch.zone/html/2962883/index.html",
-            ""
-          ],
-          [
             "Cubefield",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/cf.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/cf.png",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/cubefield/index.html",
             ""
           ],
           [
             "EXO",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/EXO.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/EXO.png",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/exo/index.html",
             ""
           ],
           [
-            "Frying Nemo",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/fryingnemo.jpg",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/frying-nemo/index.html",
-            ""
-          ],
-          [
             "Google Feud",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/gf.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/gf.png",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/google-feud/index.html",
             ""
           ],
           [
             "Getting Over It: Scratch Edition",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/goiscratch.jpg",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/goiscratch.jpg",
             "https://scratch.mit.edu/projects/389464290/embed",
             ""
           ],
           [
             "Idle Breakout",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/idlebreakout.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/idlebreakout.png",
             "https://html-classic.itch.zone/html/9150519/index.html",
             ""
           ],
           [
             "Dreader",
-            "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/dreader.png",
+            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/dreader.png",
             "https://html-classic.itch.zone/html/3704931/index.html",
             ""
           ],
@@ -1579,7 +1514,7 @@
         ],
         [
           "Ball Hop",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ballhop.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ballhop.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ball-hop/index.html",
           ""
         ],
@@ -1591,7 +1526,7 @@
         ],
         [
           "Biters.io",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/biters.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/biters.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/biters-io/index.html",
           ""
         ],
@@ -1628,7 +1563,7 @@
         ],
         [
           "Boxing Physics",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/bf.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/bf.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/boxing-physics/index.html",
           ""
       ],
@@ -1742,19 +1677,19 @@
   ],
         [
           "Eat.io",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/eatio.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/eatio.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/eatio/index.html",
           ""
       ],
         [
           "Evil Glitch",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/evil-glitch.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/evil-glitch.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/evil-glitch/index.html",
           ""
       ],
         [
           "Evolution",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/evo.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/evo.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/evo/index.html",
           ""
       ],
@@ -1844,7 +1779,7 @@
       ],
         [
           "Funny Shooter 2",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/funnyshooter.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/funnyshooter.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/funnyshooter2/index.html",
           ""
       ],
@@ -1922,7 +1857,7 @@
       ],
         [
           "Hack n Slash n Saw",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/hackslashsaw.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/hackslashsaw.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/hsb/index.html",
           ""
       ],
@@ -2024,7 +1959,7 @@
       ],
         [
           "Neon Square Resurgence",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/nsr.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/nsr.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/neonsquareres/index.html",
           ""
       ],
@@ -2048,7 +1983,7 @@
       ],
         [
           "Picky Package",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ppac.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ppac.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/picky-package/index.html",
           ""
       ],
@@ -2174,7 +2109,7 @@
       ],
         [
           "Steal This Election",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ste.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ste.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/steal-this-election/index.html",
           ""
       ],
@@ -2270,7 +2205,7 @@
       ],
         [
           "TicTacGPT",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/ttg.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/ttg.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tictacgpt/index.html",
           ""
       ],
@@ -2294,7 +2229,7 @@
       ],
         [
           "Very Very Plane",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/veryveryplane.png",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/veryveryplane.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/vvplane/index.html",
           ""
       ],
@@ -2348,7 +2283,7 @@
       ],
         [
           "Zty.pe",
-          "https://raw.githubusercontent.com/Corruptify/luma-assets/main/img/zt.jpg",
+          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/zt.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/zty.pe/index.html",
           ""
       ]

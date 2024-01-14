@@ -128,11 +128,10 @@ window.addEventListener('DOMContentLoaded', function() {
     <div id="top-bar">
       <nav>
         <ul>
-          <a href="https://youtu.be/4L7u4F4cGY0" target="_blank" rel="noopener noreferrer"><img src="/img/GrayLumaLogoChristmas.png" class="navlogo" draggable="false"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://youtu.be/4L7u4F4cGY0" target="_blank" rel="noopener noreferrer"><img src="/img/GrayLumaLogo.png" class="navlogo" draggable="false"></a>&nbsp;&nbsp;&nbsp;&nbsp;
           <li class="hvuncen"><a href="/">Home</a></li>
           <li class="hvuncen"><a href="/html/games/">Games</a></li>
-          <li class="hvuncen"><a href="/html/chat.html">Chat</a></li>
-          <li class="hvuncen"><a href="/html/extra/index.html">Extras</a></li>
+          <li class="hvuncen"><a href="/html/prox.html">Proxies</a></li>
           <li class="hvuncen"><a href="/html/socials.html">About</a></li>
           <li class="hvuncen"><a href="/html/update.html">Updates</a></li>
           <li><a href="/html/settings/">
