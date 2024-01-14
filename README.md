@@ -93,11 +93,6 @@ Copy the repo onto one of your preferred hosts listed below.
 <!-- USAGE EXAMPLES -->
 ## Features
 
-Chat! Chat with your friends.
-
-![image](https://github.com/Corruptify/luma/assets/88192394/eb5f5fbf-9a61-4c3a-9c6a-320bcaf4af14)
-
-
 Themes! Change the color of the page to your liking
 
 ![themes](https://github.com/Corruptify/luma/assets/88192394/63d46050-6a17-4089-befc-e033e27c8541)
