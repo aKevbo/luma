@@ -1,0 +1,108 @@
+#navbar #top-bar {
+	background-color: var(--theme);
+  }
+
+  body[data-theme="default"] {
+    --background: #090f2c;
+    --theme: #182a69;
+    --theme-ts: #172557;
+    --text: #dadada;
+    --text-secondary: #ffffff;
+  }
+
+
+   body[data-theme="light"] {
+    --background: #ffffff;
+    --theme: #c7c7c7;
+    --theme-ts: #b5b5b560;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
+  }
+  
+  body[data-theme="dark"] {
+    --background: #141414;
+    --theme: #202020;
+    --theme-ts: #44444460;
+    --text:#dadada;
+    --text-secondary: #ffffff;
+  }
+
+  body[data-theme="echo"] {
+    --background: #1c1c1c;
+    --theme: #4caf50;
+    --theme-ts: #4caf5060;
+    --text: #dadada;
+    --text-secondary: rgb(245, 245, 245);
+  }
+
+  body[data-theme="cosmic"] {
+    --background: #050049;
+    --theme: #1b005a;
+    --theme-ts: #11005a;
+    --text: #dadada;
+    --text-secondary: rgb(245, 245, 245);
+  }
+
+  body[data-theme="skyblue"] {
+    --background: #D9F0FF;
+    --theme: #83C9F4;
+    --theme-ts: #A3D5FF;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
+  }
+
+  body[data-theme="beige"] {
+    --background: #C6AC8F;
+    --theme: #EAE0D5;
+    --theme-ts: #F6C28B;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
+  }
+  
+  body[data-theme="earth"] {
+    --background: #659B5E;
+    --theme: #95BF74;
+    --theme-ts: #556F44;
+    --text: #dadada;
+    --text-secondary: #ffffff;
+  }
+
+  body[data-theme="beach"] {
+    --background: #F2E2D2;
+    --theme: #84C0C6;
+    --theme-ts: #46B1C9;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
+  }
+
+  body[data-theme="red"] {
+    --background: #c70000;
+    --theme: #eb0000;
+    --theme-ts: #a10000;
+    --text: #dadada;
+    --text-secondary: #ffffff;
+  }
+  
+  body[data-theme="spooky"] {
+    --background: #ffb169;
+    --theme: #ff9253;
+    --theme-ts: #ff915e;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
+  }
+
+  body[data-theme="gamecube"] {
+    --background: #6558A8;
+    --theme: #443870;
+    --theme-ts: #403468;
+    --text: #dadada;
+    --text-secondary: #ffffff;
+  }
+
+  body[data-theme="christmas"] {
+    --background: #289944;
+    --theme: #1d6e30;
+    --theme-ts: #17571f;
+    --text: #dadada;
+    --text-secondary: #ffffff;
+  }
