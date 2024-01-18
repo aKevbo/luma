@@ -31,6 +31,7 @@ a {
   -moz-user-select: none;
   -webkit-user-select: none;
   -ms-user-select: none;
+  border-radius: 15px;
 }
 
 .game-tile {
@@ -52,6 +53,10 @@ a {
   border-radius: 10px;
 }
 
+.game-icon:hover {
+  transform: scale(1.2);
+  filter: brightness(30%);
+}
 
 .game-icon {
   display: block;
@@ -62,7 +67,9 @@ a {
   top: 0;
   left: 0;
   border-radius: 10px;
+  transition: all .2s;
 }
+
 
 .game-title {
   position: absolute;
