@@ -80,7 +80,7 @@ const say = [
   "why we using linewize? unblocking is too easy lmao",
   "i only changed the logo cause it was all messed up in light mode, now its all messed up in dark mode :(",
   "respect to the legends that play luma on a fieldtrip",
-  "mello is sigma frfr",
+  "MELLO IS TOP SIGMA",
   "jake is sigma frfr",
   "yacob b thuggin",
   "tommy g got drip",

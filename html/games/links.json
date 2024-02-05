@@ -28,9 +28,9 @@
           ""
         ],
         [
-          "MotoX3M Winter",
+          "MotoX3M Winterland",
           "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/motowinter.jpg",
-          "https://educationgg-23704.firebaseapp.com/games/motox3m-spooky/index.html",
+          "https://educationgg-23704.firebaseapp.com/games/motox3m-winter/index.html",
           ""
         ],
         [
@@ -102,7 +102,7 @@
         [
           "Stickman Hook",
           "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/stickman.jpg",
-          "https://https://stickman.pro/iframe/index.html",
+          "https://stickman.pro/iframe/index.html",
           ""
         ],
         [
@@ -132,7 +132,7 @@
         [
           "Drift Hunters",
           "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/drifthunters.jpg",
-          "https://html-classic.itch.zone/html/1792221/ItchIO/index.html?v=1574649458",
+          "https://educationgg-23704.firebaseapp.com/games/drifthunters/index.html",
           ""
         ],
         [
@@ -1263,13 +1263,13 @@
           [
             "1v1.lol",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/1v1lol.png",
-            "https://1v1lol-2.kevinhalushack.repl.co/",
+            "https://educationgg-23704.firebaseapp.com/games/1v1lol/index.html",
             ""
           ],
           [
             "Monster Tracks (Drive Mad)",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/monstertracks.avif",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/monster-tracks/index.html",
+            "https://raw.githack.com/aKevbo/luma-assets/main/drive-mad-main/index.html",
             ""
           ],
           [
@@ -1281,19 +1281,19 @@
           [
             "Crossy Road",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/crossyroad.png",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/crossyroad/index.html",
-            "Might take a few minutes to load."
+            "https://raw.githack.com/aKevbo/luma-assets/main/crossy/index.html",
+            ""
           ],
           [
             "Paper.io 2",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/paperio2.jpg",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/paperio2/index.html",
+            "https://raw.githack.com/yexex/yexex.github.io/main/paperio2/index.html",
             ""
           ],
           [
             "Tunnel Rush",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/tunnelrush.jpg",
-            "https://tunnel-rush.kevinhalushack.repl.co/",
+            "https://raw.githack.com/aKevbo/luma-assets/main/tunnelrush/index.html",
             ""
           ],
           [
@@ -1317,7 +1317,7 @@
           [
             "There is no game.",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/thereisnogame.jpg",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/there-is-no-game/index.html",
+            "https://raw.githack.com/unblocked76/there-is-no-game/main/index.html",
             ""
           ],
           [
@@ -1335,31 +1335,25 @@
           [
             "Cookie Clicker",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/cc.png",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/cookie-clicker/index.html",
+            "https://educationgg-23704.firebaseapp.com/games/cookieclicker-gh-pages/index.html",
             ""
           ],
           [
             "Retro Bowl",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/retrobowl.jpg",
-            "https://retro-bowl.kevinhalushack.repl.co",
+            "https://educationgg-23704.firebaseapp.com/games/retrobowl/index.html",
             ""
           ],
           [
             "Temple Run 2",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/templerun2.jpg",
-            "https://temple-run-2.kevinhalushack.repl.co",
+            "https://raw.githack.com/tyler6974/TempleRun2/main/index.html",
             ""
           ],
           [
             "Cubefield",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/cf.png",
             "https://raw.githack.com/3kh0/3kh0-Assets/main/cubefield/index.html",
-            ""
-          ],
-          [
-            "EXO",
-            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/EXO.png",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/exo/index.html",
             ""
           ],
           [
@@ -1378,12 +1372,6 @@
             "Idle Breakout",
             "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/idlebreakout.png",
             "https://html-classic.itch.zone/html/9150519/index.html",
-            ""
-          ],
-          [
-            "Dreader",
-            "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/dreader.png",
-            "https://html-classic.itch.zone/html/3704931/index.html",
             ""
           ],
            [
@@ -1423,12 +1411,6 @@
           ""
         ],
         [
-          "8 Ball",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/8ball/8ball.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/8ball/index.html",
-          ""
-        ],
-        [
           "Achievement Unlocked",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/achievementunlocked/achievementunlocked.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/achievementunlocked/index.html",
@@ -1444,18 +1426,6 @@
           "Adrenaline Challenge",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/adrenalinechallenge/adrenalinechallenge.jpg",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/adrenalinechallenge/index.html",
-          ""
-        ],
-        [
-          "Adventure Drivers",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/adventure-drivers/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/adventure-drivers/index.html",
-          ""
-        ],
-        [
-          "Agar.io",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/agario/img/agar.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/agario/index.html",
           ""
         ],
         [
@@ -1527,7 +1497,7 @@
         [
           "Biters.io",
           "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/biters.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/biters-io/index.html",
+          "https://educationgg-23704.firebaseapp.com/games/biters-io/index.html",
           ""
         ],
         [
@@ -1601,18 +1571,6 @@
           "Cluster Rush",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cluster-rush/splash.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cluster-rush/index.html",
-          ""
-      ],
-      [
-        "Corru.Observer",
-        "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/corruobserver/img/fav.gif",
-        "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/corruobserver/index.html",
-        ""
-    ],
-        [
-          "Craft Mine",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/craftmine/images/craftmine.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/craftmine/index.html",
           ""
       ],
         [
@@ -1720,25 +1678,25 @@
         [
           "Fireboy and Watergirl 1",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg1/img.gamedistribution.com/gamedistributionid-512x512.jpeg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fbwg1/index.html",
+          "https://educationgg-23704.firebaseapp.com/games/FBWG1-main/index.html",
           ""
       ],
         [
           "Fireboy and Watergirl 2",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg2/fb2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fbwg2/index.html",
+          "https://educationgg-23704.firebaseapp.com/games/FBWG2-main/index.html",
           ""
       ],
         [
           "Fireboy and Watergirl 3",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg3/fb3.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fbwg3/index.html",
+          "https://educationgg-23704.firebaseapp.com/games/FBWG3-main/index.html",
           ""
       ],
         [
           "Fireboy and Watergirl 4",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg4/fb4.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fbwg4/index.html",
+          "https://educationgg-23704.firebaseapp.com/games/FBWG4-main/index.html",
           ""
       ],
         [
@@ -1898,12 +1856,6 @@
           ""
       ],
         [
-          "Krunker.io",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/krunker/img/krunker-io.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/krunker/index.html",
-          ""
-      ],
-        [
           "Little Alchemy",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/littlealchemy/img/144-alpha.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/littlealchemy/index.html",
@@ -2014,7 +1966,7 @@
         [
           "Rooftop Snipers",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/rooftopsnipers/img/thumb.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/rooftopsnipers/index.html",
+          "https://educationgg-23704.firebaseapp.com/games/rooftop/index.html",
           ""
       ],
         [
@@ -2045,12 +1997,6 @@
           "Slime Rush TD",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/slime-rush-td/splash.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slime-rush-td/index.html",
-          ""
-      ],
-        [
-          "Slither.io",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/slitherio/slithr.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slitherio/index.html",
           ""
       ],
         [
@@ -2188,7 +2134,7 @@
         [
           "Tactical Weapon Pack 2",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/tactical-weapon-pack-2/splash.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tactical-weapon-pack-2/index.html",
+          "https://educationgg-23704.firebaseapp.com/games/tactical-weapon-pack-2/index.html",
           ""
       ],
         [
@@ -2222,12 +2168,6 @@
           ""
       ],
         [
-          "Veloce",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/veloce/qN6zkD.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/veloce/index.html",
-          ""
-      ],
-        [
           "Very Very Plane",
           "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/veryveryplane.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/vvplane/index.html",
@@ -2257,12 +2197,7 @@
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/x-trial-racing/index.html",
           ""
       ],
-        [
-          "YoHoHo.io",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/yohohoio/img/banner1024x512.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/yohohoio/index.html",
-          ""
-      ],
+
         [
           "Yoshi's Fabrication",
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/yoshifabrication/icons/icon-512.png",
@@ -2274,20 +2209,7 @@
           "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/you-are-bezos/img/banner.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/you-are-bezos/index.html",
           ""
-      ],
-        [
-          "Zombs Royale",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/zombs-royale/zomb.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/zombs-royale/index.html",
-          ""
-      ],
-        [
-          "Zty.pe",
-          "https://raw.githubusercontent.com/aKevbo/luma-assets/main/img/zt.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/zty.pe/index.html",
-          ""
-      ]
-          
+        ]
        
         ]
       }

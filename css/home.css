@@ -30,6 +30,14 @@ body {
 	margin-top: 2%;
 	margin-bottom: 6%;	
 }
+.searchcolor {
+	color: var(--searchcolor);
+	font-size: 3em;
+	text-align: center;
+	font-weight: bold;
+	text-align:center;
+
+  }
 h1 {
 	color: var(--text);
 	font-size: 3em;

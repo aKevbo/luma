@@ -78,7 +78,7 @@ a {
   margin: 0 auto;
   padding: 5px;
   text-align: center;
-	color: var(--text);
+	color: var(--icon-color);
   border-radius: 5px;
   font-size: 20px;
   font-weight: bold;
@@ -166,7 +166,7 @@ a {
   border: 3px solid var(--background);
   background-color: var(--theme);
   transition: all 0.3s ease-in-out;
-  color: var(--text-secondary);
+  color: var(--search-color);
   transition: all 0.3s ease-in-out;
   border-radius: 10px;
 }

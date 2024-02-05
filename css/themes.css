@@ -3,11 +3,23 @@
   }
 
   body[data-theme="default"] {
+    --background: #ff748d;
+    --theme: #ff8fa3;
+    --theme-ts: #eb526e;
+    --text: #ffffff;
+    --text-secondary: #ffffff;
+    --search-color: #000000;
+    --icon-color: #ffffff;
+  }
+
+  body[data-theme="default1"] {
     --background: #090f2c;
     --theme: #182a69;
     --theme-ts: #172557;
-    --text: #dadada;
+    --text: #ffffff;
     --text-secondary: #ffffff;
+    --search-color: #000000;
+    --icon-color: #ffffff;
   }
 
 
@@ -17,6 +29,8 @@
     --theme-ts: #b5b5b560;
     --text: #2c2c2c;
     --text-secondary: #414141;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
   }
   
   body[data-theme="dark"] {
@@ -25,6 +39,8 @@
     --theme-ts: #44444460;
     --text:#dadada;
     --text-secondary: #ffffff;
+    --search-color: #000000;
+    --icon-color: #ffffff;
   }
 
   body[data-theme="echo"] {
@@ -33,6 +49,8 @@
     --theme-ts: #4caf5060;
     --text: #dadada;
     --text-secondary: rgb(245, 245, 245);
+    --search-color: #000000;
+    --icon-color: #ffffff;
   }
 
   body[data-theme="cosmic"] {
@@ -41,6 +59,8 @@
     --theme-ts: #11005a;
     --text: #dadada;
     --text-secondary: rgb(245, 245, 245);
+    --search-color: #000000;
+    --icon-color: #ffffff;
   }
 
   body[data-theme="skyblue"] {
@@ -49,6 +69,8 @@
     --theme-ts: #A3D5FF;
     --text: #2c2c2c;
     --text-secondary: #414141;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
   }
 
   body[data-theme="beige"] {
@@ -57,6 +79,8 @@
     --theme-ts: #F6C28B;
     --text: #2c2c2c;
     --text-secondary: #414141;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
   }
   
   body[data-theme="earth"] {
@@ -65,6 +89,8 @@
     --theme-ts: #556F44;
     --text: #dadada;
     --text-secondary: #ffffff;
+    --search-color: #000000;
+    --icon-color: #ffffff;
   }
 
   body[data-theme="beach"] {
@@ -73,6 +99,8 @@
     --theme-ts: #46B1C9;
     --text: #2c2c2c;
     --text-secondary: #414141;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
   }
 
   body[data-theme="red"] {
@@ -81,6 +109,8 @@
     --theme-ts: #a10000;
     --text: #dadada;
     --text-secondary: #ffffff;
+    --search-color: #000000;
+    --icon-color: #ffffff;
   }
   
   body[data-theme="spooky"] {
@@ -89,6 +119,8 @@
     --theme-ts: #ff915e;
     --text: #2c2c2c;
     --text-secondary: #414141;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
   }
 
   body[data-theme="gamecube"] {
@@ -97,6 +129,8 @@
     --theme-ts: #403468;
     --text: #dadada;
     --text-secondary: #ffffff;
+    --search-color: #000000;
+    --icon-color: #ffffff;
   }
 
   body[data-theme="christmas"] {
@@ -105,4 +139,6 @@
     --theme-ts: #17571f;
     --text: #dadada;
     --text-secondary: #ffffff;
+    --search-color: #000000;
+    --icon-color: #ffffff;
   }
