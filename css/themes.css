@@ -2,17 +2,7 @@
 	background-color: var(--theme);
   }
 
-  body[data-theme="default"] {
-    --background: #ff748d;
-    --theme: #ff8fa3;
-    --theme-ts: #eb526e;
-    --text: #ffffff;
-    --text-secondary: #ffffff;
-    --search-color: #000000;
-    --icon-color: #ffffff;
-  }
-
-  body[data-theme="default1"] {
+    body[data-theme="default"] {
     --background: #0a102b;
     --theme: #182a69;
     --theme-ts: #172557;
@@ -138,6 +128,16 @@
     --theme: #1d6e30;
     --theme-ts: #17571f;
     --text: #dadada;
+    --text-secondary: #ffffff;
+    --search-color: #000000;
+    --icon-color: #ffffff;
+  }
+
+  body[data-theme="valentine"] {
+    --background: #ff748d;
+    --theme: #ff8fa3;
+    --theme-ts: #eb526e;
+    --text: #ffffff;
     --text-secondary: #ffffff;
     --search-color: #000000;
     --icon-color: #ffffff;

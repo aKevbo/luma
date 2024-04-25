@@ -6,31 +6,31 @@
         [
           "MotoX3M",
           "/img/motox3m.avif",
-          "https://raw.githack.com/aKevbo/luma-assets/main/motox3m/index.html",
+          "/assets/MotoX1",
           ""
         ],
         [
           "MotoX3M 2",
           "/img/motox3m2.jpg",
-          "https://raw.githack.com/MotoX3MUnblocked/MotoX3MUnblocked.github.io/main/2/index.html",
+          "/assets/MotoX2",
           ""
         ],
         [
           "MotoX3M Pool Party",
           "/img/motopoolparty.avif",
-          "https://educationgg-23704.firebaseapp.com/games/motox3m-pool/index.html",
+          "/assets/MotoXpool",
           ""
         ],
         [
           "MotoX3M Spooky Land",
           "/img/motospooky.avif",
-          "https://educationgg-23704.firebaseapp.com/games/motox3m-spooky/index.html",
+          "/assets/MotoXspooky",
           ""
         ],
         [
           "MotoX3M Winterland",
           "/img/motowinter.jpg",
-          "https://educationgg-23704.firebaseapp.com/games/motox3m-winter/index.html",
+          "/assets/MotoXwinter",
           ""
         ],
         [
@@ -48,73 +48,73 @@
         [
           "Vex 3",
           "/img/v3.jpg",
-          "https://raw.githack.com/aKevbo/luma-assets/main/vex/3/index.html",
+          "/assets/Vex3",
           ""
         ],
         [
           "Vex 4",
           "/img/vex4.jpg",
-          "https://raw.githack.com/aKevbo/luma-assets/main/vex/4/index.html",
+          "/assets/Vex4",
           ""
         ],
         [
           "Vex 5",
           "/img/v5.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/vex/5/index.html",
+          "/assets/Vex5",
           ""
         ],
         [
           "Vex 6",
           "/img/v6.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/vex/6/index.html",
+          "/assets/Vex6",
           ""
         ],
         [
           "Vex 7",
           "/img/v7.jpg",
-          "https://raw.githack.com/aKevbo/luma-assets/main/vex/7/index.html",
+          "/assets/Vex7",
           ""
         ],
         [
           "Vex 8",
           "/img/v8.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/vex/8/index.html",
+          "/assets/Vex8",
           ""
         ],
         [
           "Slope",
           "/img/slope.jpg",
-          "https://raw.githack.com/aKevbo/luma-assets/main/SlopeGame/index.html",
+          "/assets/Slope",
           ""
         ],
         [
           "Slope 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/slope-2/slope-2-logo.png",
+          "/img/slope2.png",
           "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html",
           ""
         ],
         [
           "Chrome Dino Runner",
           "/img/chromedinorunner.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/trexrunner/index.html",
+          "/assets/trexrunner",
           ""
         ],
         [
           "Stickman Hook",
           "/img/stickman.jpg",
-          "https://educationgg-23704.firebaseapp.com/games/stickman-hook/index.html",
+          "/assets/StickmanHook",
           ""
         ],
         [
           "Subway Surfers",
           "/img/subway.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/SubwaySurfers/index.html",
+          "/assets/SubwaySurfers",
           ""
         ],
         [
           "Snow Rider 3D",
           "/img/snowrider.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/snowrider3d/index.html",
+          "/assets/snowrider3d",
           ""
         ],
       [
