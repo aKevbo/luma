@@ -36,13 +36,13 @@
         [
           "Vex",
           "/img/v1.jpg",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/Vex/index.html",
+          "/assets/FLASH/Vex/index.html",
           ""
         ],
         [
           "Vex 2",
           "/img/v2.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/Vex2/index.html",
+          "/assets/FLASH/Vex2/index.html",
           ""
         ],
         [
@@ -90,7 +90,7 @@
         [
           "Slope 2",
           "/img/slope2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slope-2/index.html",
+          "/assets/slope-2/index.html",
           ""
         ],
         [
@@ -120,13 +120,13 @@
       [
         "Eggy Car",
         "/img/eggycar.webp",
-        "https://eggycarunblockedgithubio.kevinhalushack.repl.co",
+        "/assets/EggyCar",
         ""
     ],
         [
           "Drift Boss",
           "/img/driftboss.png",
-          "https://drift-boss.kevinhalushack.repl.co/",
+          "/assets/DriftBoss",
           ""
         ],
         [
@@ -138,7 +138,7 @@
         [
           "Drift City",
           "/img/driftc.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/drift-city/index.html",
+          "/assets/drift-city/index.html",
           ""
       ],
         [
@@ -149,26 +149,26 @@
         ],
         [
           "Basket Random",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bball-random/splash.jpeg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bball-random/index.html",
+          "/assets/bball-random/splash.jpeg",
+          "/assets/bball-random/index.html",
           ""
         ],
         [
           "Basketball Stars",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bstars/bstars.jpg",
+          "/assets/bstars/bstars.jpg",
           "https://educationgg-23704.firebaseapp.com/games/basketball-stars-main/index.html",
           ""
         ],
         [
           "Soccer Random",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/soccer-random/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/soccer-random/index.html",
+          "/assets/soccer-random/splash.png",
+          "/assets/soccer-random/index.html",
           ""
       ],
       [
         "Boxing Random",
-        "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/boxing-random/512x512.jpg",
-        "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/boxing-random/index.html",
+        "/assets/boxing-random/512x512.jpg",
+        "/assets/boxing-random/index.html",
         ""
     ]
         
@@ -180,13 +180,13 @@
         [
           "IndestructoTank",
           "/img/indestructo.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/IndestructoTank/index.html",
+          "/assets/FLASH/IndestructoTank/index.html",
           ""
         ],
         [
           "Run",
           "/img/run3.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/Run1/index.html",
+          "/assets/FLASH/Run1/index.html",
           ""
         ],
         [
@@ -204,7 +204,7 @@
         [
           "Bloons Tower Defense",
           "/img/bloons1.jpg",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/BloonsTowerDefense/index.html",
+          "/assets/FLASH/BloonsTowerDefense/index.html",
           ""
         ],
         [
@@ -222,73 +222,73 @@
         [
           "Bloxorz",
           "/img/bloxorz.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/Bloxorz/index.html",
+          "/assets/FLASH/Bloxorz/index.html",
           ""
         ],
         [
           "Super Mario 63",
           "/img/sm63.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/sm63/index.html",
+          "/assets/FLASH/sm63/index.html",
           ""
         ],
         [
           "Wasted Sky",
           "/img/wastedsky.webp",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/wastedsky/index.html",
+          "/assets/FLASH/wastedsky/index.html",
           ""
         ],
         [
           "The Worlds Hardest Game",
           "/img/hardestgame1.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/HardestGame1/index.html",
+          "/assets/FLASH/HardestGame1/index.html",
           ""
         ],
         [
           "The Worlds Hardest Game 2.0",
           "/img/hardestgame2.jpg",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/HardestGame2/index.html",
+          "/assets/FLASH/HardestGame2/index.html",
           ""
         ],
         [
           "The Impossible Quiz",
           "/img/impossiblequiz.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/ImpossibleQuiz/index.html",
+          "/assets/FLASH/ImpossibleQuiz/index.html",
           ""
         ],
         [
           "The Impossible Quiz 2",
           "/img/impossiblequiz2.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/ImpossibleQuiz2/index.html",
+          "/assets/FLASH/ImpossibleQuiz2/index.html",
           ""
         ],
         [
           "The Impossible Quizmas",
           "/img/imposiblequizmas.avif",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/ImpossibleQuizmas/index.html",
+          "/assets/FLASH/ImpossibleQuizmas/index.html",
           ""
         ],
         [
           "Interactive Buddy",
           "/img/interactivebuddy.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/InteractiveBuddy/index.html",
+          "/assets/FLASH/InteractiveBuddy/index.html",
           ""
         ],
         [
           "N",
           "/img/N.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/N/index.html",
+          "/assets/FLASH/N/index.html",
           ""
         ],
         [
           "Portal: The Flash Version",
           "/img/portaltfv.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/Portal/index.html",
+          "/assets/FLASH/Portal/index.html",
           ""
         ],
         [
           "QWOP",
           "/img/QWOP.png",
-          "https://raw.githack.com/aKevbo/luma-assets/main/ruffle/QWOP/index.html",
+          "/assets/FLASH/QWOP/index.html",
           ""
         ],
         [
@@ -901,10 +901,10 @@
 [
   "Paper Mario 64",
   "/img/papermario.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=pm64.zip",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=pm64.zip"
+  "/assets/webretro/index.html?core=autodetect&rom=pm64.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=pm64.zip"
 ],
 [
         "The Legend of Zelda: Ocarina of Time",
@@ -1124,123 +1124,123 @@
 ],
 [
   "The Legend Of Zelda - Links Awakening",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/linksawakeningdx.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=LinksAwakeningDX.gbc",
+  "/assets/webretro/thumb/linksawakeningdx.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=LinksAwakeningDX.gbc",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=LinksAwakeningDX.gbc",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=LinksAwakeningDX.gbc"
+  "/assets/webretro/index.html?core=autodetect&rom=LinksAwakeningDX.gbc",
+  "/assets/webretro/index.html?core=autodetect&rom=LinksAwakeningDX.gbc"
 ],
 [
   "The Legend of Zelda - The Minish Cap",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/minish-cap.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=minish-cap.gba",
+  "/assets/webretro/thumb/minish-cap.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=minish-cap.gba",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=minish-cap.gba",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=minish-cap.gba"
+  "/assets/webretro/index.html?core=autodetect&rom=minish-cap.gba",
+  "/assets/webretro/index.html?core=autodetect&rom=minish-cap.gba"
 ],
 [
   "Mario Kart DS",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/mkds.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mkds.zip",
+  "/assets/webretro/thumb/mkds.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=mkds.zip",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mkds.zip",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mkds.zip"
+  "/assets/webretro/index.html?core=autodetect&rom=mkds.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=mkds.zip"
 ],
 [
   "New Super Mario Bros",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/nsmb.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=nsmb.zip",
+  "/assets/webretro/thumb/nsmb.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=nsmb.zip",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=nsmb.zip",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=nsmb.zip"
+  "/assets/webretro/index.html?core=autodetect&rom=nsmb.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=nsmb.zip"
 ],
 [
   "Earthbound",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/earthbound.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=earthbound.sfc",
+  "/assets/webretro/thumb/earthbound.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=earthbound.sfc",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=earthbound.sfc",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=earthbound.sfc"
+  "/assets/webretro/index.html?core=autodetect&rom=earthbound.sfc",
+  "/assets/webretro/index.html?core=autodetect&rom=earthbound.sfc"
 ],
 [
   "Final Fantasy",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/finalfantasy.webp",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=finalfantasy.nes",
+  "/assets/webretro/thumb/finalfantasy.webp",
+  "/assets/webretro/index.html?core=autodetect&rom=finalfantasy.nes",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=finalfantasy.nes",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=finalfantasy.nes"
+  "/assets/webretro/index.html?core=autodetect&rom=finalfantasy.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=finalfantasy.nes"
 ],
 [
   "Mike Tysons Punch Out",
   "/img/punchout.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mtpo.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=mtpo.nes",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mtpo.nes",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mtpo.nes"
+  "/assets/webretro/index.html?core=autodetect&rom=mtpo.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=mtpo.nes"
 ],
 [
   "The Legend of Zelda - A Link to the Past",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/linktothepast.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=linktothepast.smc",
+  "/assets/webretro/thumb/linktothepast.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=linktothepast.smc",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=linktothepast.smc",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=linktothepast.smc"
+  "/assets/webretro/index.html?core=autodetect&rom=linktothepast.smc",
+  "/assets/webretro/index.html?core=autodetect&rom=linktothepast.smc"
 ],
 [
   "Earthbound Zero",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/mother.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother.nes",
+  "/assets/webretro/thumb/mother.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=mother.nes",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother.nes",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother.nes"
+  "/assets/webretro/index.html?core=autodetect&rom=mother.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=mother.nes"
 ],
 [
   "Super Mario RPG",
   "/img/mariorpg.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=smrpg.smc",
+  "/assets/webretro/index.html?core=autodetect&rom=smrpg.smc",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=smrpg.smc",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=smrpg.smc"
+  "/assets/webretro/index.html?core=autodetect&rom=smrpg.smc",
+  "/assets/webretro/index.html?core=autodetect&rom=smrpg.smc"
 ],
 [
   "Sonic Advance",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/sonic-advance.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=sonic-advance.gba",
+  "/assets/webretro/thumb/sonic-advance.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=sonic-advance.gba",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=sonic-advance.gba",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=sonic-advance.gba"
+  "/assets/webretro/index.html?core=autodetect&rom=sonic-advance.gba",
+  "/assets/webretro/index.html?core=autodetect&rom=sonic-advance.gba"
 ],
 [
   "Mario &; Luigi - Superstar Saga",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/superstar-saga.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=superstar-saga.gba",
+  "/assets/webretro/thumb/superstar-saga.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=superstar-saga.gba",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=superstar-saga.gba",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=superstar-saga.gba"
+  "/assets/webretro/index.html?core=autodetect&rom=superstar-saga.gba",
+  "/assets/webretro/index.html?core=autodetect&rom=superstar-saga.gba"
 ],
 [
   "Wario Land 4",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/warioland4.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=warioland4.gba",
+  "/assets/webretro/thumb/warioland4.png",
+  "/assets/webretro/index.html?core=autodetect&rom=warioland4.gba",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=warioland4.gba",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=warioland4.gba"
+  "/assets/webretro/index.html?core=autodetect&rom=warioland4.gba",
+  "/assets/webretro/index.html?core=autodetect&rom=warioland4.gba"
 ],
 [
   "Kirby - Super Star",
-  "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/webretro/thumb/kirbo.jpg",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=kirbo.smc",
+  "/assets/webretro/thumb/kirbo.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=kirbo.smc",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=kirbo.smc",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=kirbo.smc"
+  "/assets/webretro/index.html?core=autodetect&rom=kirbo.smc",
+  "/assets/webretro/index.html?core=autodetect&rom=kirbo.smc"
 ],
 [
   "Mother 3",
   "/img/mother3.png",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba",
+  "/assets/webretro/index.html?core=autodetect&rom=mother3.gba",
   "",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba",
-  "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/webretro/index.html?core=autodetect&rom=mother3.gba"
+  "/assets/webretro/index.html?core=autodetect&rom=mother3.gba",
+  "/assets/webretro/index.html?core=autodetect&rom=mother3.gba"
 ],
 [
   "Super Street Fighter II TURBO",
@@ -1376,122 +1376,122 @@
           ],
            [
           "1",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/1/meta/apple-touch-icon.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/1/index.html",
+          "/assets/1/meta/apple-touch-icon.png",
+          "/assets/1/index.html",
           ""
         ],
         [
           "10 Minutes Till Dawn",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/10mtd/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/10mtd/index.html",
+          "/assets/10mtd/splash.png",
+          "/assets/10mtd/index.html",
           ""
         ],
         [
           "100NG",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/100ng/100ng.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/100ng/index.html",
+          "/assets/100ng/100ng.jpg",
+          "/assets/100ng/index.html",
           ""
         ],
         [
           "2048",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/2048/thumb.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/2048/index.html",
+          "/assets/2048/thumb.png",
+          "/assets/2048/index.html",
           ""
         ],
         [
           "2048 Multitask",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/2048-multitask/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/2048-multitask/index.html",
+          "/assets/2048-multitask/splash.png",
+          "/assets/2048-multitask/index.html",
           ""
         ],
         [
           "3D City",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/3dcity/assets/img/preview02.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/3dcity/index.html",
+          "/assets/3dcity/assets/img/preview02.jpg",
+          "/assets/3dcity/index.html",
           ""
         ],
         [
           "Achievement Unlocked",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/achievementunlocked/achievementunlocked.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/achievementunlocked/index.html",
+          "/assets/achievementunlocked/achievementunlocked.png",
+          "/assets/achievementunlocked/index.html",
           ""
         ],
         [
           "A Dance of Fire and Ice",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/adofai/unnamed.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/adofai/index.html",
+          "/assets/adofai/unnamed.png",
+          "/assets/adofai/index.html",
           ""
         ],
         [
           "Adrenaline Challenge",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/adrenalinechallenge/adrenalinechallenge.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/adrenalinechallenge/index.html",
+          "/assets/adrenalinechallenge/adrenalinechallenge.jpg",
+          "/assets/adrenalinechallenge/index.html",
           ""
         ],
         [
           "Ages of Conflict",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ages-of-conflict/splash.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ages-of-conflict/index.html",
+          "/assets/ages-of-conflict/splash.jpg",
+          "/assets/ages-of-conflict/index.html",
           ""
         ],
         [
           "Among Us",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/among-us/red.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/among-us/index.html",
+          "/assets/among-us/red.png",
+          "/assets/among-us/index.html",
           ""
         ],
         [
           "Angry Birds",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/angrybirds/images/logo.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/angrybirds/index.html",
+          "/assets/angrybirds/images/logo.png",
+          "/assets/angrybirds/index.html",
           ""
         ],
         [
           "Angry Shark",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/angry-sharks/assets/img/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/angry-sharks/index.html",
+          "/assets/angry-sharks/assets/img/splash.png",
+          "/assets/angry-sharks/index.html",
           ""
         ],
         [
           "Backrooms",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/backrooms/img/splash.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/backrooms/index.html",
+          "/assets/backrooms/img/splash.jpg",
+          "/assets/backrooms/index.html",
           ""
         ],
         [
           "Bad Ice Cream",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream/bad-ice-cream.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream/index.html",
+          "/assets/bad-ice-cream/bad-ice-cream.png",
+          "/assets/bad-ice-cream/index.html",
           ""
         ],
         [
           "Bad Ice Cream 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream-2/bad-ice-cream-2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream-2/index.html",
+          "/assets/bad-ice-cream-2/bad-ice-cream-2.png",
+          "/assets/bad-ice-cream-2/index.html",
           ""
         ],
         [
           "Bad Ice Cream 3",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream-3/bad-ice-cream-3.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bad-ice-cream-3/index.html",
+          "/assets/bad-ice-cream-3/bad-ice-cream-3.png",
+          "/assets/bad-ice-cream-3/index.html",
           ""
         ],
         [
           "Baldis Basics",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/baldis-basics/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/baldis-basics/index.html",
+          "/assets/baldis-basics/splash.png",
+          "/assets/baldis-basics/index.html",
           ""
         ],
         [
           "Ball Hop",
           "/img/ballhop.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ball-hop/index.html",
+          "/assets/ball-hop/index.html",
           ""
         ],
         [
           "Big Tower Tiny Square",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/btts/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/btts/index.html",
+          "/assets/btts/splash.png",
+          "/assets/btts/index.html",
           ""
         ],
         [
@@ -1502,712 +1502,712 @@
         ],
         [
           "Basket n Ball",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/basketnball/images/ball-basket-for-cover.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/basketnball/index.html",
+          "/assets/basketnball/images/ball-basket-for-cover.png",
+          "/assets/basketnball/index.html",
           ""
         ],
         [
           "BUNnGUN",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bunngun/bng.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bunngun/index.html",
+          "/assets/bunngun/bng.jpg",
+          "/assets/bunngun/index.html",
           ""
         ],
         [
           "BlackJack",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/blackjack/bj.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/blackjack/index.html",
+          "/assets/blackjack/bj.jpg",
+          "/assets/blackjack/index.html",
           ""
         ],
         [
           "Bob The Robber 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/bobtherobber2/34d6aae0257d4e4c8068cbdfc11a8758-512x512.jpeg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bobtherobber2/index.html",
+          "/assets/bobtherobber2/34d6aae0257d4e4c8068cbdfc11a8758-512x512.jpeg",
+          "/assets/bobtherobber2/index.html",
           ""
         ],
         [
           "Bouncy Basketball",
           "https://play-lh.googleusercontent.com/EPZmezQTx453RJ1bBjh46zjzyYe-tynNwGhyiVlEriYr6qGhdquDYwt8tuxUGXaBBg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bouncybasketball/index.html",
+          "/assets/bouncybasketball/index.html",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/bouncybasketball/index.html"         
+          "/assets/bouncybasketball/index.html"         
         ],
         [
           "Boxing Physics",
           "/img/bf.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/boxing-physics/index.html",
+          "/assets/boxing-physics/index.html",
           ""
       ],
         [
           "Burger and Frights",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/burger-and-frights/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/burger-and-frights/index.html",
+          "/assets/burger-and-frights/splash.png",
+          "/assets/burger-and-frights/index.html",
           ""
       ],
         [
           "Cannon Basketball 4",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cannon-basketball-4/img/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cannon-basketball-4/index.html",
+          "/assets/cannon-basketball-4/img/splash.png",
+          "/assets/cannon-basketball-4/index.html",
           ""
       ],
         [
           "Cars Simulator",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cars-simulator/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cars-simulator/index.html",
+          "/assets/cars-simulator/splash.png",
+          "/assets/cars-simulator/index.html",
           ""
       ],
         [
           "Cell Machine",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cell-machine/img/te9nDu.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cell-machine/index.html",
+          "/assets/cell-machine/img/te9nDu.png",
+          "/assets/cell-machine/index.html",
           ""
       ],
         [
           "Circl0",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/circlo/img/download.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/circlo/index.html",
+          "/assets/circlo/img/download.png",
+          "/assets/circlo/index.html",
           ""
       ],
         [
           "Cluster Rush",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/cluster-rush/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/cluster-rush/index.html",
+          "/assets/cluster-rush/splash.png",
+          "/assets/cluster-rush/index.html",
           ""
       ],
         [
           "Creative Kill Chamber",
           "https://a.silvergames.com/j/b/creative-kill-chamber.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/creativekillchamber/index.html",
+          "/assets/creativekillchamber/index.html",
           ""
       ],
         [
           "Creative Kill Chamber 2",
           "https://img.kbhgames.com/2012/07/Creative-Kill-Chamber-2.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/creativekillchamber2/index.html",
+          "/assets/creativekillchamber2/index.html",
           ""
       ],
         [
           "CS-GO Clicker",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/csgo-clicker/images/vanguard.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/csgo-clicker/index.html",
+          "/assets/csgo-clicker/images/vanguard.png",
+          "/assets/csgo-clicker/index.html",
           ""
       ],
         [
           "Cut the Rope",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ctr/logo.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ctr/index.html",
+          "/assets/ctr/logo.png",
+          "/assets/ctr/index.html",
           ""
       ],
         [
           "Cut the Rope Holiday Gift",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ctrholiday/Holiday_Gift.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ctrholiday/index.html",
+          "/assets/ctrholiday/Holiday_Gift.webp",
+          "/assets/ctrholiday/index.html",
           ""
       ],
         [
           "Cut the Rope Time Travel",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ctrtr/logo.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ctrtr/index.html",
+          "/assets/ctrtr/logo.png",
+          "/assets/ctrtr/index.html",
           ""
       ],
         [
           "Deal or No Deal",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/deal-or-no-deal/index.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/deal-or-no-deal/index.html",
+          "/assets/deal-or-no-deal/index.jpg",
+          "/assets/deal-or-no-deal/index.html",
           ""
       ],
         [
           "Doctor Acorn 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/doctor-acorn2/icon-256.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/doctor-acorn2/index.html",
+          "/assets/doctor-acorn2/icon-256.png",
+          "/assets/doctor-acorn2/index.html",
           ""
       ],
         [
           "Doodle Jump",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/doodle-jump/doodle.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/doodle-jump/index.html",
+          "/assets/doodle-jump/doodle.png",
+          "/assets/doodle-jump/index.html",
           ""
       ],
     [
       "Earn to Die",
-      "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/earntodie/loading.png",
-      "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/earntodie/index.html",
+      "/assets/earntodie/loading.png",
+      "/assets/earntodie/index.html",
       ""
   ],
         [
           "Eat.io",
           "/img/eatio.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/eatio/index.html",
+          "/assets/eatio/index.html",
           ""
       ],
         [
           "Evil Glitch",
           "/img/evil-glitch.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/evil-glitch/index.html",
+          "/assets/evil-glitch/index.html",
           ""
       ],
         [
           "Evolution",
           "/img/evo.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/evo/index.html",
+          "/assets/evo/index.html",
           ""
       ],
         [
           "Fair Squares",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fairsquares/index.icon.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fairsquares/index.html",
+          "/assets/fairsquares/index.icon.png",
+          "/assets/fairsquares/index.html",
           ""
       ],
         [
           "Flappy 2048",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/flappy-2048/meta/apple-touch-icon.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/flappy-2048/index.html",
+          "/assets/flappy-2048/meta/apple-touch-icon.png",
+          "/assets/flappy-2048/index.html",
           ""
       ],
         [
           "Flappy 2048 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/flappy-2048-2/wing.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/flappy-2048-2/index.html",
+          "/assets/flappy-2048-2/wing.png",
+          "/assets/flappy-2048-2/index.html",
           ""
       ],
         [
           "Flappy Bird",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/flappy-bird/assets/thumb.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/flappy-bird/index.html",
+          "/assets/flappy-bird/assets/thumb.png",
+          "/assets/flappy-bird/index.html",
           ""
       ],
         [
           "Fireboy and Watergirl 1",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg1/img.gamedistribution.com/gamedistributionid-512x512.jpeg",
+          "/assets/fbwg1/img.gamedistribution.com/gamedistributionid-512x512.jpeg",
           "https://educationgg-23704.firebaseapp.com/games/FBWG1-main/index.html",
           ""
       ],
         [
           "Fireboy and Watergirl 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg2/fb2.png",
+          "/assets/fbwg2/fb2.png",
           "https://educationgg-23704.firebaseapp.com/games/FBWG2-main/index.html",
           ""
       ],
         [
           "Fireboy and Watergirl 3",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg3/fb3.png",
+          "/assets/fbwg3/fb3.png",
           "https://educationgg-23704.firebaseapp.com/games/FBWG3-main/index.html",
           ""
       ],
         [
           "Fireboy and Watergirl 4",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fbwg4/fb4.png",
+          "/assets/fbwg4/fb4.png",
           "https://educationgg-23704.firebaseapp.com/games/FBWG4-main/index.html",
           ""
       ],
         [
           "Flippy Fish",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/flippy-fish/2022_10_28_0jt_Kleki.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/flippy-fish/index.html",
+          "/assets/flippy-fish/2022_10_28_0jt_Kleki.png",
+          "/assets/flippy-fish/index.html",
           ""
       ],
         [
           "Five Nights at Winstons",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fnaw/smile.jpg",
+          "/assets/fnaw/smile.jpg",
           "https://g.lax1dude.net/fnaw/",
           ""
       ],
         [
           "Fruit Ninja",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/fruitninja/FruitNinjaTeaser.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/fruitninja/index.html",
+          "/assets/fruitninja/FruitNinjaTeaser.jpg",
+          "/assets/fruitninja/index.html",
           ""
         ],
         [
           "Frying Nemo",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/frying-nemo/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/frying-nemo/index.html",
+          "/assets/frying-nemo/splash.png",
+          "/assets/frying-nemo/index.html",
           ""
       ],
         [
           "Friday Night Funkin",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/funkin/favicon.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/funkin/index.html",
+          "/assets/funkin/favicon.png",
+          "/assets/funkin/index.html",
           ""
       ],
         [
           "Ultimate Custom Night",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ucn/resources/0317.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ucn/index.html",
+          "/assets/ucn/resources/0317.png",
+          "/assets/ucn/index.html",
           ""
       ],
         [
           "Funny Shooter 2",
           "/img/funnyshooter.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/funnyshooter2/index.html",
+          "/assets/funnyshooter2/index.html",
           ""
       ],
         [
           "Game Inside a Game",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/game-inside/img/display.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/game-inside/index.html",
+          "/assets/game-inside/img/display.png",
+          "/assets/game-inside/index.html",
           ""
       ],
         [
           "Generic Fishing Game",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/generic-fishing-game/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/generic-fishing-game/index.html",
+          "/assets/generic-fishing-game/splash.png",
+          "/assets/generic-fishing-game/index.html",
           ""
       ],
         [
           "George and the Printer",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/georgeandtheprinter/img/SnDTEn.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/georgeandtheprinter/index.html",
+          "/assets/georgeandtheprinter/img/SnDTEn.png",
+          "/assets/georgeandtheprinter/index.html",
           ""
       ],
         [
           "Getaway Shootout",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other//getawayshootout/images.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/getawayshootout/index.html",
+          "/assets//getawayshootout/images.jpg",
+          "/assets/getawayshootout/index.html",
           ""
       ],
         [
           "Gimme the Airpod",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/gimme-the-airpod/img/logo.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/gimme-the-airpod/index.html",
+          "/assets/gimme-the-airpod/img/logo.png",
+          "/assets/gimme-the-airpod/index.html",
           ""
       ],
         [
           "Glass City",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/glass-city/image.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/glass-city/index.html",
+          "/assets/glass-city/image.png",
+          "/assets/glass-city/index.html",
           ""
       ],
         [
           "Goodnight",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/goodnight/goodnight.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/goodnight/index.html",
+          "/assets/goodnight/goodnight.jpg",
+          "/assets/goodnight/index.html",
           ""
       ],
         [
           "Goomy Clicker",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/goomyclicker/favicon.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/goomyclicker/index.html",
+          "/assets/goomyclicker/favicon.png",
+          "/assets/goomyclicker/index.html",
           ""
       ],
         [
           "Goomy Clicker 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/goomyclicker2/img/great_goomy.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/goomyclicker2/index.html",
+          "/assets/goomyclicker2/img/great_goomy.png",
+          "/assets/goomyclicker2/index.html",
           ""
       ],
         [
           "Gravity Soccer",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/gravity-soccer/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/gravity-soccer/index.html",
+          "/assets/gravity-soccer/splash.png",
+          "/assets/gravity-soccer/index.html",
           ""
       ],
         [
           "GreyBox",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/greybox/ico.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/greybox/index.html",
+          "/assets/greybox/ico.png",
+          "/assets/greybox/index.html",
           ""
       ],
         [
           "GrindCraft",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/grindcraft/img/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/grindcraft/index.html",
+          "/assets/grindcraft/img/splash.png",
+          "/assets/grindcraft/index.html",
           ""
       ],
         [
           "Hack n Slash n Saw",
           "/img/hackslashsaw.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/hsb/index.html",
+          "/assets/hsb/index.html",
           ""
       ],
       [
         "Horde Killer",
-        "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/hordekiller/logo.png",
-        "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/hordekiller/index.html",
+        "/assets/hordekiller/logo.png",
+        "/assets/hordekiller/index.html",
         ""
     ],
         [
           "Idle Shark",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/idle-shark/img/sharkgame.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/idle-shark/index.html",
+          "/assets/idle-shark/img/sharkgame.png",
+          "/assets/idle-shark/index.html",
           ""
       ],
         [
           "Jetpack Joyride",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/jetpack-joyride/splash.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/jetpack-joyride/index.html",
+          "/assets/jetpack-joyride/splash.jpg",
+          "/assets/jetpack-joyride/index.html",
           ""
       ],
         [
           "Just Fall",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/just-fall/splash.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/just-fall/index.html",
+          "/assets/just-fall/splash.jpg",
+          "/assets/just-fall/index.html",
           ""
       ],
         [
           "Just One Boss",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/just-one-boss/pv1Gr5.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/just-one-boss/index.html",
+          "/assets/just-one-boss/pv1Gr5.png",
+          "/assets/just-one-boss/index.html",
           ""
       ],
         [
           "Kitchen Gun",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/kitchen-gun-game/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/kitchen-gun-game/index.html",
+          "/assets/kitchen-gun-game/splash.png",
+          "/assets/kitchen-gun-game/index.html",
           ""
       ],
         [
           "Little Alchemy",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/littlealchemy/img/144-alpha.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/littlealchemy/index.html",
+          "/assets/littlealchemy/img/144-alpha.png",
+          "/assets/littlealchemy/index.html",
           ""
       ],
         [
           "Madalin Stunt Cars 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/madalin-stunt-cars-2/img/logo.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/madalin-stunt-cars-2/index.html",
+          "/assets/madalin-stunt-cars-2/img/logo.jpg",
+          "/assets/madalin-stunt-cars-2/index.html",
           ""
       ],
         [
           "Madalin Stunt Cars 3",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/madalin-stunt-cars-3/img/index.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/madalin-stunt-cars-3/index.html",
+          "/assets/madalin-stunt-cars-3/img/index.jpg",
+          "/assets/madalin-stunt-cars-3/index.html",
           ""
       ],
         [
           "Mari0",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/mario/m0.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/mario/index.html",
+          "/assets/mario/m0.png",
+          "/assets/mario/index.html",
           ""
       ],
         [
           "Merge Round Racers",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/merge-round-racers/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/merge-round-racers/index.html",
+          "/assets/merge-round-racers/splash.png",
+          "/assets/merge-round-racers/index.html",
           ""
       ],
         [
           "Mineblocks",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/mineblocks/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/mineblocks/index.html",
+          "/assets/mineblocks/splash.png",
+          "/assets/mineblocks/index.html",
           ""
       ],
         [
           "Minesweeper",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/minesweeper/assets/clock_icon.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/minesweeper/index.html",
+          "/assets/minesweeper/assets/clock_icon.png",
+          "/assets/minesweeper/index.html",
           ""
       ],
         [
           "My Rusty Submarine",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/my-rusty-submarine/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/my-rusty-submarine/index.html",
+          "/assets/my-rusty-submarine/splash.png",
+          "/assets/my-rusty-submarine/index.html",
           ""
       ],
         [
           "N Gon",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/n-gon/bot.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/n-gon/index.html",
+          "/assets/n-gon/bot.png",
+          "/assets/n-gon/index.html",
           ""
       ],
         [
           "Neon Square Resurgence",
           "/img/nsr.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/neonsquareres/index.html",
+          "/assets/neonsquareres/index.html",
           ""
       ],
         [
           "Om Nom Bounce",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/om-bounce/assets/icon.jpeg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/om-bounce/index.html",
+          "/assets/om-bounce/assets/icon.jpeg",
+          "/assets/om-bounce/index.html",
           ""
       ],
         [
           "Ovo",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/ovo/ovo.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/ovo/index.html",
+          "/assets/ovo/ovo.png",
+          "/assets/ovo/index.html",
           ""
       ],
         [
           "Papery Planes",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/papery-planes/splash.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/papery-planes/index.html",
+          "/assets/papery-planes/splash.jpg",
+          "/assets/papery-planes/index.html",
           ""
       ],
         [
           "Picky Package",
           "/img/ppac.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/picky-package/index.html",
+          "/assets/picky-package/index.html",
           ""
       ],
         [
           "PortalGO",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/portalgo/pgo.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/portalgo/index.html",
+          "/assets/portalgo/pgo.png",
+          "/assets/portalgo/index.html",
           ""
       ],
         [
           "Push the Square",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/push-the-square/img/splash.png",
+          "/assets/push-the-square/img/splash.png",
           "/other/push-the-square/index.html",
           ""
       ],
         [
           "Rabbit Samurai",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/rabbit-samurai/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/rabbit-samurai/index.html",
+          "/assets/rabbit-samurai/splash.png",
+          "/assets/rabbit-samurai/index.html",
           ""
       ],
         [
           "Rabbit Samurai 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/rabbit-samurai2/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/rabbit-samurai2/index.html",
+          "/assets/rabbit-samurai2/splash.png",
+          "/assets/rabbit-samurai2/index.html",
           ""
       ],
         [
           "Rooftop Snipers",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/rooftopsnipers/img/thumb.png",
+          "/assets/rooftopsnipers/img/thumb.png",
           "https://educationgg-23704.firebaseapp.com/games/rooftop/index.html",
           ""
       ],
         [
           "Rooftop Snipers 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/rooftopsnipers/img/thumb.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/rooftopsnipers2/index.html",
+          "/assets/rooftopsnipers/img/thumb.png",
+          "/assets/rooftopsnipers2/index.html",
           ""
       ],
         [
           "Sand Game",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/sand-game/sand.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/sand-game/index.html",
+          "/assets/sand-game/sand.png",
+          "/assets/sand-game/index.html",
           ""
       ],
         [
           "Sans Fight",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/sansfight/icon-256.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/sansfight/index.html",
+          "/assets/sansfight/icon-256.png",
+          "/assets/sansfight/index.html",
           ""
       ],
         [
           "Scrap Metal",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/scrapmetal/img/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/scrapmetal/index.html",
+          "/assets/scrapmetal/img/splash.png",
+          "/assets/scrapmetal/index.html",
           ""
       ],
         [
           "Slime Rush TD",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/slime-rush-td/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slime-rush-td/index.html",
+          "/assets/slime-rush-td/splash.png",
+          "/assets/slime-rush-td/index.html",
           ""
       ],
         [
           "SlowRoads.io",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/slowroads/favicon_circle.svg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/slowroads/index.html",
+          "/assets/slowroads/favicon_circle.svg",
+          "/assets/slowroads/index.html",
           ""
       ],
         [
           "Smoking Barrels",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/smokingbarrels/smokingbarrels.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/smokingbarrels/index.html",
+          "/assets/smokingbarrels/smokingbarrels.jpg",
+          "/assets/smokingbarrels/index.html",
           ""
       ],
         [
           "SnowBattle.io",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/snowbattle/img/logo.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/snowbattle/index.html",
+          "/assets/snowbattle/img/logo.png",
+          "/assets/snowbattle/index.html",
           ""
       ],
         [
           "Solitaire",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/solitaire/screen-shot.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/solitaire/index.html",
+          "/assets/solitaire/screen-shot.png",
+          "/assets/solitaire/index.html",
           ""
       ],
         [
           "Sort the Court",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/sort-the-court/img/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/sort-the-court/index.html",
+          "/assets/sort-the-court/img/splash.png",
+          "/assets/sort-the-court/index.html",
           ""
       ],
         [
           "Space Company",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/space-company/whiteLogo.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/space-company/index.html",
+          "/assets/space-company/whiteLogo.png",
+          "/assets/space-company/index.html",
           ""
       ],
         [
           "Stack",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/stack/stack.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/stack/index.html",
+          "/assets/stack/stack.png",
+          "/assets/stack/index.html",
           ""
       ],
         [
           "Starve.io",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/starve/img/favicon.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/starve/index.html",
+          "/assets/starve/img/favicon.png",
+          "/assets/starve/index.html",
           ""
       ],
         [
           "Station 141",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/station-141/75wxYs.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/station-141/index.html",
+          "/assets/station-141/75wxYs.png",
+          "/assets/station-141/index.html",
           ""
       ],
         [
           "Steal This Election",
           "/img/ste.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/steal-this-election/index.html",
+          "/assets/steal-this-election/index.html",
           ""
       ],
         [
           "Stickman Boost",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/stickman-boost/icon-256.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/stickman-boost/index.html",
+          "/assets/stickman-boost/icon-256.png",
+          "/assets/stickman-boost/index.html",
           ""
       ],
         [
           "Stickman Golf",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/stickman-golf/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/stickman-golf/index.html",
+          "/assets/stickman-golf/splash.png",
+          "/assets/stickman-golf/index.html",
           ""
       ],
         [
           "Stickman Survival",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/Stickman-Survival/Icon.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/Stickman-Survival/index.html",
+          "/assets/Stickman-Survival/Icon.png",
+          "/assets/Stickman-Survival/index.html",
           ""
       ],
         [
           "Stick War",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/stickwar/stickwar.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/stickwar/index.html",
+          "/assets/stickwar/stickwar.jpg",
+          "/assets/stickwar/index.html",
           ""
       ],
         [
           "Storm the House 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/stormthehouse2/stormthehouse2.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/stormthehouse2/index.html",
+          "/assets/stormthehouse2/stormthehouse2.jpg",
+          "/assets/stormthehouse2/index.html",
           ""
       ],
     [
       "Suckit League",
-      "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/suckitleague/splash.png",
-      "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/suckitleague/index.html",
+      "/assets/suckitleague/splash.png",
+      "/assets/suckitleague/index.html",
       ""
   ],
         [
           "Superhot",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/superhot/hot.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/superhot/index.html",
+          "/assets/superhot/hot.jpg",
+          "/assets/superhot/index.html",
           ""
       ],
         [
           "Super Mario Construct",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/supermarioconstruct/icons/icon-256.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/supermarioconstruct/index.html",
+          "/assets/supermarioconstruct/icons/icon-256.png",
+          "/assets/supermarioconstruct/index.html",
           ""
       ],
         [
           "Surviv.io",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/surviv/img/favicon.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/surviv/index.html",
+          "/assets/surviv/img/favicon.png",
+          "/assets/surviv/index.html",
           ""
       ],
         [
           "Sushi Unroll",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/sushi-unroll/favicon.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/sushi-unroll/index.html",
+          "/assets/sushi-unroll/favicon.png",
+          "/assets/sushi-unroll/index.html",
           ""
       ],
         [
           "Swerve",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/swerve/img/favicon.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/swerve/index.html",
+          "/assets/swerve/img/favicon.jpg",
+          "/assets/swerve/index.html",
           ""
       ],
         [
           "Tactical Assasin 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/tacticalassasin2/tacticalassassin2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tacticalassasin2/index.html",
+          "/assets/tacticalassasin2/tacticalassassin2.png",
+          "/assets/tacticalassasin2/index.html",
           ""
       ],
         [
           "Tactical Weapon Pack 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/tactical-weapon-pack-2/splash.jpg",
+          "/assets/tactical-weapon-pack-2/splash.jpg",
           "https://educationgg-23704.firebaseapp.com/games/tactical-weapon-pack-2/index.html",
           ""
       ],
         [
           "Tank Trouble 2",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/tank-trouble-2/icon-128.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tank-trouble-2/index.html",
+          "/assets/tank-trouble-2/icon-128.png",
+          "/assets/tank-trouble-2/index.html",
           ""
       ],
         [
           "The Heist",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/theheist/theheist.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/theheist/index.html",
+          "/assets/theheist/theheist.jpg",
+          "/assets/theheist/index.html",
           ""
       ],
         [
           "TicTacGPT",
           "/img/ttg.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tictacgpt/index.html",
+          "/assets/tictacgpt/index.html",
           ""
       ],
         [
           "Tiny Fishing",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/tiny-fishing/thumb.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/tiny-fishing/index.html",
+          "/assets/tiny-fishing/thumb.png",
+          "/assets/tiny-fishing/index.html",
           ""
       ],
         [
           "Townscaper",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/townscaper/img/cover.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/townscaper/index.html",
+          "/assets/townscaper/img/cover.jpg",
+          "/assets/townscaper/index.html",
           ""
       ],
         [
           "Very Very Plane",
           "/img/veryveryplane.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/vvplane/index.html",
+          "/assets/vvplane/index.html",
           ""
       ],
         [
           "Waterworks",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/waterworks/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/waterworks/index.html",
+          "/assets/waterworks/splash.png",
+          "/assets/waterworks/index.html",
           ""
       ],
         [
           "Wordle",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/wordle/img/logo_512x512.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/wordle/index.html",
+          "/assets/wordle/img/logo_512x512.png",
+          "/assets/wordle/index.html",
           ""
       ],
         [
           "Wolfenstien 3D",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/wolf3d/art/wolf3d.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/wolf3d/index.html",
+          "/assets/wolf3d/art/wolf3d.png",
+          "/assets/wolf3d/index.html",
           ""
       ],
         [
           "X Trial Racing",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/x-trial-racing/splash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/x-trial-racing/index.html",
+          "/assets/x-trial-racing/splash.png",
+          "/assets/x-trial-racing/index.html",
           ""
       ],
 
         [
           "Yoshi's Fabrication",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/yoshifabrication/icons/icon-512.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/yoshifabrication/index.html",
+          "/assets/yoshifabrication/icons/icon-512.png",
+          "/assets/yoshifabrication/index.html",
           ""
       ],
         [
           "You Are Bezos",
-          "https://raw.githubusercontent.com/lioxryt/lioxryt-assets/main/other/you-are-bezos/img/banner.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/you-are-bezos/index.html",
+          "/assets/you-are-bezos/img/banner.png",
+          "/assets/you-are-bezos/index.html",
           ""
         ]
        
