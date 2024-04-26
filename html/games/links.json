@@ -90,7 +90,7 @@
         [
           "Slope 2",
           "/img/slope2.png",
-          "/assets/slope-2/index.html",
+          "/assets/Slope2/index.html",
           ""
         ],
         [
@@ -132,11 +132,11 @@
         [
           "Drift Hunters",
           "/img/drifthunters.jpg",
-          "https://educationgg-23704.firebaseapp.com/games/drifthunters/index.html",
+          "/assets/drifthunters",
           ""
         ],
         [
-          "Drift City",
+          "DriftCity.io",
           "/img/driftc.png",
           "/assets/drift-city/index.html",
           ""
@@ -144,19 +144,19 @@
         [
           "Basket Bros",
           "/img/basketbros.jpg",
-          "https://basket-bros-1--kevinhalushack.repl.co/__replco/devtools_wrapper.html",
-          ""
-        ],
-        [
-          "Basket Random",
-          "/assets/bball-random/splash.jpeg",
-          "/assets/bball-random/index.html",
+          "/assets/basketbros",
           ""
         ],
         [
           "Basketball Stars",
           "/assets/bstars/bstars.jpg",
-          "https://educationgg-23704.firebaseapp.com/games/basketball-stars-main/index.html",
+          "/assets/bstars",
+          ""
+        ],
+                [
+          "Basket Random",
+          "/assets/bball-random/splash.jpeg",
+          "/assets/bball-random/index.html",
           ""
         ],
         [
@@ -192,7 +192,7 @@
         [
           "Run 2",
           "/img/run2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=run2.swf",
+          "/assets/flash/index.html?swf=run2.swf",
           ""
         ],
         [
@@ -210,13 +210,13 @@
         [
           "Bloons Tower Defence 2",
           "/img/Bloons2.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd2.swf",
+          "/assets/flash/index.html?swf=bloonstd2.swf",
           ""
         ],
         [
           "Bloons Tower Defence 3",
           "/img/bloons3.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bloonstd3.swf",
+          "/assets/flash/index.html?swf=bloonstd3.swf",
           ""
         ],
         [
@@ -294,68 +294,68 @@
         [
           "Alien Homonid",
           "/img/alienhomoid.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=alien_hominid.swf",
+          "/assets/flash/index.html?swf=alien_hominid.swf",
           ""
         ],
         [
           "Age Of War",
           "/img/ageofwar.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=age_of_war.swf",
+          "/assets/flash/index.html?swf=age_of_war.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=age_f_war.swf"
+          "/assets/flash/index.html?swf=age_f_war.swf"
         ],
         [
           "Apple Shooter",
           "/img/appleshooter.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=weebly_apple_shooter.swf",
+          "/assets/flash/index.html?swf=weebly_apple_shooter.swf",
           ""
         ],
         [
           "Asteroids",
           "/img/asteroids.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=asteroids.swf",
+          "/assets/flash/index.html?swf=asteroids.swf",
           ""
         ],
         [
           "Abobos Big Adventure",
           "/img/abobos.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=abobbos-big-adventure.swf",
+          "/assets/flash/index.html?swf=abobbos-big-adventure.swf",
           ""
         ],
         [
           "Avalanche",
           "/img/avalanche.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=avalanche.swf",
+          "/assets/flash/index.html?swf=avalanche.swf",
           ""
         ],
         [
           "Axis Football League",
           "/img/axis.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=afl.swf",
+          "/assets/flash/index.html?swf=afl.swf",
           ""
         ],
         [
           "BoxHead 2",
           "/img/boxhead.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=boxhead2.swf",
+          "/assets/flash/index.html?swf=boxhead2.swf",
           ""
         ],
         [
           "Bubble Shooter",
           "/img/bubbleshooter.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=bubble-shooter.swf",
+          "/assets/flash/index.html?swf=bubble-shooter.swf",
           ""
         ],
         [
           "Cat Ninja",
           "/img/catninja.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=catninja.swf",
+          "/assets/flash/waflash/index.html?swf=catninja.swf",
           ""
         ],
         [
           "Color Combat",
           "/img/colorcombat.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=color_combat.swf",
+          "/assets/flash/index.html?swf=color_combat.swf",
           ""
         ],
         [
@@ -367,510 +367,510 @@
         [
           "Cubefield: Flash Version",
           "/img/cf.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=cubefield.swf",
+          "/assets/flash/index.html?swf=cubefield.swf",
           ""
         ],
         [
           "Dad n' Me",
           "/img/dadnme.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dadnme.swf",
+          "/assets/flash/index.html?swf=dadnme.swf",
           ""
         ],
         [
           "Don't Whack Your Teacher",
           "/img/whackteacher.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dwyt.swf",
+          "/assets/flash/index.html?swf=dwyt.swf",
           ""
         ],
         [
           "Defend Your Castle",
           "/img/defendcastle.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=102209_castle202c.swf",
+          "/assets/flash/index.html?swf=102209_castle202c.swf",
           ""
         ],
         [
           "Dragon Ball Z Devolution",
           "/img/dragonballzdevolutionwebp.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dbzd.swf",
+          "/assets/flash/index.html?swf=dbzd.swf",
           ""
         ],
         [
           "Dragon Ball Z",
           "/img/dragonballz.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dragonballz.swf",
+          "/assets/flash/index.html?swf=dragonballz.swf",
           ""
         ],
         [
           "Duck Hunt",
           "/img/duckhunt.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=duckhunt.swf",
+          "/assets/flash/index.html?swf=duckhunt.swf",
           ""
         ],
         [
           "Duck Life",
           "/img/ducklife.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife1.swf",
+          "/assets/flash/index.html?swf=ducklife1.swf",
           ""
         ],
         [
           "Duck Life 2",
           "/img/ducklife2.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife2.swf",
+          "/assets/flash/index.html?swf=ducklife2.swf",
           ""
         ],
         [
           "Duck Life 3",
           "/img/ducklife3.avif",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife3.swf",
+          "/assets/flash/index.html?swf=ducklife3.swf",
           ""
         ],
         [
           "Duck Life 4",
           "/img/ducklife4.avif",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ducklife4.swf",
+          "/assets/flash/index.html?swf=ducklife4.swf",
           ""
         ],
         [
           "Earn to Die",
           "/img/earntodie.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=earntodie.swf",
+          "/assets/flash/index.html?swf=earntodie.swf",
           ""
         ],
         [
           "Earn to Die 2",
           "/img/earntodie2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=earntodie2.swf",
+          "/assets/flash/index.html?swf=earntodie2.swf",
           ""
         ],
         [
           "Electricman 2",
           "/img/electricman.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=electricman2.swf",
+          "/assets/flash/index.html?swf=electricman2.swf",
           ""
         ],
         [
           "The Fancy Pants Adventures",
           "/img/fancypants.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=fancypantsadventure.swf",
+          "/assets/flash/index.html?swf=fancypantsadventure.swf",
           ""
         ],
         [
           "Escaping the Prison",
           "/img/escapingprison.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=etp.swf",
+          "/assets/flash/index.html?swf=etp.swf",
           ""
         ],
         [
           "Stealing the Diamond",
           "/img/stealingdiamond.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=std.swf",
+          "/assets/flash/index.html?swf=std.swf",
           ""
         ],
         [
           "Breaking the Bank",
           "/img/breakingthebank.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=breakingthebank.swf",
+          "/assets/flash/index.html?swf=breakingthebank.swf",
           ""
         ],
         [
           "Infiltrating the Airship",
           "/img/airship.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=infiltratingtheairship.swf",
+          "/assets/flash/index.html?swf=infiltratingtheairship.swf",
           ""
         ],
         [
           "Fleeing the Complex",
           "/img/fleeingthecomplex.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=fleeingthecomplex.swf",
+          "/assets/flash/index.html?swf=fleeingthecomplex.swf",
           ""
         ],
         [
           "Freeway Fury",
           "/img/freewayfury.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=freewayfury.swf",
+          "/assets/flash/waflash/index.html?swf=freewayfury.swf",
           ""
         ],
         [
           "Gunblood",
           "/img/gunblood.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=1gunblood.swf",
+          "/assets/flash/index.html?swf=1gunblood.swf",
           ""
         ],
         [
           "Hobo",
           "/img/hobo.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo.swf",
+          "/assets/flash/index.html?swf=hobo.swf",
           ""
         ],
         [
           "Hobo 2: Prison Brawl",
           "/img/hobo2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo2.swf",
+          "/assets/flash/index.html?swf=hobo2.swf",
           ""
          ],
         [
           "Hobo 3: Wanted",
           "/img/hobo3.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo3.swf",
+          "/assets/flash/index.html?swf=hobo3.swf",
           ""
         ],
         [
           "Hobo 4: Total War",
           "/img/hobo4.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo4.swf",
+          "/assets/flash/index.html?swf=hobo4.swf",
           ""
         ],
         [
           "Hobo 5: Space Brawls",
           "/img/hobo5.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo5.swf",
+          "/assets/flash/index.html?swf=hobo5.swf",
           ""
         ],
         [
           "Hobo 6: Hell",
           "/img/hobo6.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo6.swf",
+          "/assets/flash/index.html?swf=hobo6.swf",
           ""
         ],
         [
           "Hobo 7: Heaven",
           "/img/hobo7.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=hobo7.swf",
+          "/assets/flash/index.html?swf=hobo7.swf",
           ""
         ],
         [
           "Interactive Buddy",
           "/img/buddy1.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=interactivebuddy.swf",
+          "/assets/flash/index.html?swf=interactivebuddy.swf",
           ""
         ],
         [
           "Interactive Buddy 2",
           "/img/buddy2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=interactivebuddy2.swf",
+          "/assets/flash/index.html?swf=interactivebuddy2.swf",
           ""
         ],
         [
           "Johnny Rocketfingers 2",
           "/img/rocketfingers2.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=johnny2.swf",
+          "/assets/flash/index.html?swf=johnny2.swf",
           ""
         ],
         [
           "Learn to Fly",
           "/img/learntofly1.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=learntofly.swf",
+          "/assets/flash/index.html?swf=learntofly.swf",
           ""
         ],
         [
           "Learn to Fly 2",
           "/img/learntofly2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=learntofly2.swf",
+          "/assets/flash/index.html?swf=learntofly2.swf",
           ""
         ],
         [
           "Learn to Fly 3",
           "/img/learntofly3.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=learntofly3.swf",
+          "/assets/flash/index.html?swf=learntofly3.swf",
           ""
         ],
         [
           "Mario Combat",
           "/img/mariocombat.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=Mario_Combat.swf",
+          "/assets/flash/index.html?swf=Mario_Combat.swf",
           ""
         ],
         [
           "Miami Shark",
           "/img/miamishark.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=miami-shark.swf",
+          "/assets/flash/index.html?swf=miami-shark.swf",
           ""
         ],
         [
           "Meat Boy",
           "/img/meatboy.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dagobah_Meat_Boy.swf",
+          "/assets/flash/index.html?swf=dagobah_Meat_Boy.swf",
           ""
         ],
         [
           "Mini Putt",
           "/img/miniputt.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=miniputt.swf",
+          "/assets/flash/index.html?swf=miniputt.swf",
           ""
         ],
         [
           "Minecraft TD",
           "/img/minecrafttd.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=minecrafttd.swf",
+          "/assets/flash/index.html?swf=minecrafttd.swf",
           ""
         ],
         [
           "Mario Kart Flash",
           "/img/mkflash.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=mariokartflash.swf",
+          "/assets/flash/index.html?swf=mariokartflash.swf",
           ""
         ],
         [
           "Mutilate a Doll",
           "/img/mutilatedoll.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=mad.swf",
+          "/assets/flash/index.html?swf=mad.swf",
           ""
         ],
         [
           "New York Shark",
           "/img/nyshark.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=new-york-shark-unblocked.swf",
+          "/assets/flash/index.html?swf=new-york-shark-unblocked.swf",
           ""
         ],
         [
           "This is the Only Level",
           "/img/only.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=this_is_the_only_level.swf",
+          "/assets/flash/index.html?swf=this_is_the_only_level.swf",
           ""
         ],
         [
           "Pac-Man",
           "/img/pacman.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pacman.swf",
+          "/assets/flash/index.html?swf=pacman.swf",
           ""
         ],
         [
           "Papa's Pizzeria",
           "/img/pizzeria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pizzeria.swf",
+          "/assets/flash/index.html?swf=pizzeria.swf",
           ""
         ],
         [
           "Papa's Burgeria",
           "/img/burgeria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=burgeria.swf",
+          "/assets/flash/index.html?swf=burgeria.swf",
           ""
         ],
         [
           "Papa's Hot Doggeria",
           "/img/doggeria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papashotdoggeria.swf",
+          "/assets/flash/waflash/index.html?swf=papashotdoggeria.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papashotdoggeria.swf"
+          "/assets/main/flash/waflash/index.html?swf=papashotdoggeria.swf"
         ],
         [
           "Papa's Wingeria",
           "/img/wingeria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papaswingeria.swf",
+          "/assets/flash/waflash/index.html?swf=papaswingeria.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papaswingeria.swf"
+          "/assets/main/flash/waflash/index.html?swf=papaswingeria.swf"
         ],
         [
           "Papa's Freezeria",
           "/img/freezeria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasfreezeria.swf",
+          "/assets/flash/waflash/index.html?swf=papasfreezeria.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasfreezeria.swf"
+          "/assets/main/flash/waflash/index.html?swf=papasfreezeria.swf"
         ],
         [
           "Papa's Pancakeria",
           "/img/pancakeria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papaspancakeria.swf",
+          "/assets/flash/waflash/index.html?swf=papaspancakeria.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papaspancakeria.swf"
+          "/assets/main/flash/waflash/index.html?swf=papaspancakeria.swf"
         ],
         [
           "Papa's Sushiria",
           "/img/sushiria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papassushiria.swf",
+          "/assets/flash/waflash/index.html?swf=papassushiria.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papassushiria.swf"
+          "/assets/main/flash/waflash/index.html?swf=papassushiria.swf"
         ],
         [
           "Papa's Bakeria",
           "/img/bakeria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasbakeria.swf",
+          "/assets/flash/waflash/index.html?swf=papasbakeria.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasbakeria.swf"
+          "/assets/main/flash/waflash/index.html?swf=papasbakeria.swf"
         ],
         [
           "Papa's Donuteria",
           "/img/donuteria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasdonuteria.swf",
+          "/assets/flash/waflash/index.html?swf=papasdonuteria.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasdonuteria.swf"
+          "/assets/main/flash/waflash/index.html?swf=papasdonuteria.swf"
         ],
         [
           "Papa's Pastaria",
           "/img/pastaria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papaspastaria.swf",
+          "/assets/flash/waflash/index.html?swf=papaspastaria.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papaspastaria.swf"
+          "/assets/main/flash/waflash/index.html?swf=papaspastaria.swf"
         ],
         [
           "Papa's Scooperia",
           "/img/scooperia.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papasscooperia.swf",
+          "/assets/flash/waflash/index.html?swf=papasscooperia.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papasscooperia.swf"
+          "/assets/main/flash/waflash/index.html?swf=papasscooperia.swf"
         ],
         [
           "Papa's Taco Mia",
           "/img/tacomia.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papastacomia.swf",
+          "/assets/flash/waflash/index.html?swf=papastacomia.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papastacomia.swf"
+          "/assets/main/flash/waflash/index.html?swf=papastacomia.swf"
         ],
         [
           "Papa's Cupcakeria",
           "/img/cupcakeria.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/waflash/index.html?swf=papascupcakeria.swf",
+          "/assets/flash/waflash/index.html?swf=papascupcakeria.swf",
           "",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/main/flash/waflash/index.html?swf=papascupcakeria.swf"
+          "/assets/main/flash/waflash/index.html?swf=papascupcakeria.swf"
         ],
         [
           "Pong",
           "/img/pong.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pong.swf",
+          "/assets/flash/index.html?swf=pong.swf",
           ""
         ],
         [
           "Potty Racers",
           "/img/pottyracers.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers.swf",
+          "/assets/flash/index.html?swf=pottyracers.swf",
           ""
         ],
         [
           "Potty Racers 2",
           "/img/pottyracers2.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers2.swf",
+          "/assets/flash/index.html?swf=pottyracers2.swf",
           ""
         ],
         [
           "Potty Racers 3",
           "/img/pottyracers3.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers3.swf",
+          "/assets/flash/index.html?swf=pottyracers3.swf",
           ""
         ],
         [
           "Potty Racers 4",
           "/img/pottyracers4.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=pottyracers4.swf",
+          "/assets/flash/index.html?swf=pottyracers4.swf",
           ""
         ],
         [
           "Ragdoll Avalanche 2",
           "/img/ragdollavalanche2.webp",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ragdollavalanche2.swf",
+          "/assets/flash/index.html?swf=ragdollavalanche2.swf",
           ""
         ],
         [
           "Rage 3",
           "/img/rage3.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=rage3.swf",
+          "/assets/flash/index.html?swf=rage3.swf",
           ""
         ],
         [
           "Riddle School",
           "/img/riddleschool.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool.swf",
+          "/assets/flash/index.html?swf=riddleschool.swf",
           ""
         ],
         [
           "Riddle School 2",
           "/img/riddleschool2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool2.swf",
+          "/assets/flash/index.html?swf=riddleschool2.swf",
           ""
         ],
         [
           "Riddle School 3",
           "/img/riddleschool3.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool3.swf",
+          "/assets/flash/index.html?swf=riddleschool3.swf",
           ""
         ],
         [
           "Riddle School 4",
           "/img/riddleschool4.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool4.swf",
+          "/assets/flash/index.html?swf=riddleschool4.swf",
           ""
         ],
         [
           "Riddle School 5",
           "/img/riddleschool5.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddleschool5.swf",
+          "/assets/flash/index.html?swf=riddleschool5.swf",
           ""
         ],
         [
           "Riddle Transfer",
           "/img/riddletransfer.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddletransfer.swf",
+          "/assets/flash/index.html?swf=riddletransfer.swf",
           ""
         ],
         [
           "Riddle Transfer 2",
           "/img/riddletransfer2.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=riddletransfer2.swf",
+          "/assets/flash/index.html?swf=riddletransfer2.swf",
           ""
         ],
         [
           "Raft Wars",
           "/img/raftwars.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=raftwars.swf",
+          "/assets/flash/index.html?swf=raftwars.swf",
           ""
         ],
         [
           "Raft Wars 2",
           "/img/raftwars.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=raftwars2.swf",
+          "/assets/flash/index.html?swf=raftwars2.swf",
           ""
         ],
         [
           "Stick RPG",
           "/img/stickrpg.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=stickrpg.swf",
+          "/assets/flash/index.html?swf=stickrpg.swf",
           ""
         ],
         [
           "Sonic Flash",
           "/img/sonicflash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ultimate-flash-sonic.swf",
+          "/assets/flash/index.html?swf=ultimate-flash-sonic.swf",
           ""
         ],
         [
           "Super Smash Flash",
           "/img/supersmashflash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=ssf.swf",
+          "/assets/flash/index.html?swf=ssf.swf",
           ""
         ],
         [
           "Super Mario Flash",
           "/img/supermarioflash.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=dagobah_super_mario_flash.swf",
+          "/assets/flash/index.html?swf=dagobah_super_mario_flash.swf",
           ""
         ],
         [
           "Tank Trouble",
           "/img/tanktrouble.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=tanktrouble.swf",
+          "/assets/flash/index.html?swf=tanktrouble.swf",
           ""
         ],
         [
           "Tetris",
           "/img/tetris.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=flash-tetris.swf",
+          "/assets/flash/index.html?swf=flash-tetris.swf",
           ""
         ],
         [
           "The Binding of Isaac",
           "/img/thebindingofisaac.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=tboi.swf",
+          "/assets/flash/index.html?swf=tboi.swf",
           ""
         ],
         [
           "Toss the Turtle",
           "/img/tosstheturtle.png",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=toss_the_turtle.swf",
+          "/assets/flash/index.html?swf=toss_the_turtle.swf",
           ""
         ],
         [
           "Unfair Mario",
           "/img/unfairmario.jpg",
-          "https://raw.githack.com/lioxryt/lioxryt-assets/main/flash/index.html?swf=unfairmario.swf",
+          "/assets/flash/index.html?swf=unfairmario.swf",
           ""
         ]
       ]
