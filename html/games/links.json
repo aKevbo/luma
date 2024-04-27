@@ -198,7 +198,7 @@
         [
           "Run 3",
           "/img/run3.jpg",
-          "https://educationgg-23704.firebaseapp.com/games/run3/index.html",
+          "/assets/run3",
           "My personal favorite flash game :) - Kevin H 2022"
         ],
         [
@@ -1269,7 +1269,7 @@
           [
             "Monster Tracks (Drive Mad)",
             "/img/monstertracks.avif",
-            "https://raw.githack.com/aKevbo/luma-assets/main/drive-mad-main/index.html",
+            "/assets/drive-mad-main/index.html",
             ""
           ],
           [
@@ -1281,19 +1281,19 @@
           [
             "Crossy Road",
             "/img/crossyroad.png",
-            "https://raw.githack.com/aKevbo/luma-assets/main/crossy/index.html",
+            "/assets/crossy/index.html",
             ""
           ],
           [
             "Paper.io 2",
             "/img/paperio2.jpg",
-            "https://raw.githack.com/yexex/yexex.github.io/main/paperio2/index.html",
+            "/assets/paperio2",
             ""
           ],
           [
             "Tunnel Rush",
             "/img/tunnelrush.jpg",
-            "https://raw.githack.com/aKevbo/luma-assets/main/tunnelrush/index.html",
+            "/assets/tunnelrush/index.html",
             ""
           ],
           [
@@ -1305,7 +1305,7 @@
           [
             "Sandboxels",
             "/img/sandboxels.png",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/sandboxels/index.html",
+            "/assets/sandboxels",
             ""
           ],
           [
@@ -1317,13 +1317,13 @@
           [
             "There is no game.",
             "/img/thereisnogame.jpg",
-            "https://raw.githack.com/unblocked76/there-is-no-game/main/index.html",
+            "/assets/thereisnogame",
             ""
           ],
           [
             "We become what we behold",
             "/img/webecomewhatwebehold.png",
-            "https://html-classic.itch.zone/html/300364/index.html?v=1542781840",
+            "/assets/wbwwb-master",
             ""
           ],
           [
@@ -1347,13 +1347,7 @@
           [
             "Temple Run 2",
             "/img/templerun2.jpg",
-            "https://raw.githack.com/tyler6974/TempleRun2/main/index.html",
-            ""
-          ],
-          [
-            "Cubefield",
-            "/img/cf.png",
-            "https://raw.githack.com/3kh0/3kh0-Assets/main/cubefield/index.html",
+            "/assets/templerun2",
             ""
           ],
           [
@@ -1371,7 +1365,7 @@
           [
             "Idle Breakout",
             "/img/idlebreakout.png",
-            "https://html-classic.itch.zone/html/9150519/index.html",
+            "/assets/idlebreakout",
             ""
           ],
            [
