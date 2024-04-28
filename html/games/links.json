@@ -1610,7 +1610,7 @@
       ""
   ],
         [
-          "Eat.io",
+          "Black Hole.io",
           "/img/eatio.png",
           "/assets/eatio/index.html",
           ""
@@ -1654,25 +1654,25 @@
         [
           "Fireboy and Watergirl 1",
           "/assets/fbwg1/img.gamedistribution.com/gamedistributionid-512x512.jpeg",
-          "https://educationgg-23704.firebaseapp.com/games/FBWG1-main/index.html",
+          "/assets/fbwg1",
           ""
       ],
         [
           "Fireboy and Watergirl 2",
           "/assets/fbwg2/fb2.png",
-          "https://educationgg-23704.firebaseapp.com/games/FBWG2-main/index.html",
+          "/assets/fbwg2",
           ""
       ],
         [
           "Fireboy and Watergirl 3",
           "/assets/fbwg3/fb3.png",
-          "https://educationgg-23704.firebaseapp.com/games/FBWG3-main/index.html",
+          "/assets/fbwg3",
           ""
       ],
         [
           "Fireboy and Watergirl 4",
           "/assets/fbwg4/fb4.png",
-          "https://educationgg-23704.firebaseapp.com/games/FBWG4-main/index.html",
+          "/assets/fbwg4",
           ""
       ],
         [
@@ -1681,10 +1681,22 @@
           "/assets/flippy-fish/index.html",
           ""
       ],
+      [
+        "Five Nights at Freddy's",
+        "/img/fnaf.png",
+        "/assets/fnaf",
+        ""
+    ],
+    [
+      "Five Nights at Freddy's 2",
+      "/img/fnaf2.png",
+      "/assets/fnaf2",
+      ""
+  ],
         [
           "Five Nights at Winstons",
           "/assets/fnaw/smile.jpg",
-          "https://g.lax1dude.net/fnaw/",
+          "/assets/fnaw",
           ""
       ],
         [
