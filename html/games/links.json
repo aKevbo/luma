@@ -1723,9 +1723,15 @@
           "/assets/ucn/index.html",
           ""
       ],
+      [
+        "Funny Shooter",
+        "/img/fs.jpg",
+        "/assets/funnyshooter/index.html",
+        ""
+    ],
         [
           "Funny Shooter 2",
-          "/img/funnyshooter.png",
+          "/img/fs2.jpg",
           "/assets/funnyshooter2/index.html",
           ""
       ],
