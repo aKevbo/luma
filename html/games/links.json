@@ -108,7 +108,7 @@
         [
           "Subway Surfers",
           "/img/subway.png",
-          "/assets/SubwaySurfers",
+          "/assets/subwaysurfers",
           ""
         ],
         [
@@ -865,7 +865,7 @@
     },
 
     {
-      "title": "Retro",
+      "title": "Retro [BROKEN]",
       "games": [
 [
           "Super Mario 64 Remaster",
@@ -2012,12 +2012,6 @@
           ""
       ],
         [
-          "Solitaire",
-          "/assets/solitaire/screen-shot.png",
-          "/assets/solitaire/index.html",
-          ""
-      ],
-        [
           "Sort the Court",
           "/assets/sort-the-court/img/splash.png",
           "/assets/sort-the-court/index.html",
@@ -2101,6 +2095,12 @@
           "/assets/supermarioconstruct/index.html",
           ""
       ],
+      [
+        "Yoshi's Fabrication",
+        "/assets/yoshifabrication/icons/icon-512.png",
+        "/assets/yoshifabrication/index.html",
+        ""
+    ],
         [
           "Surviv.io",
           "/assets/surviv/img/favicon.png",
@@ -2156,12 +2156,6 @@
           ""
       ],
         [
-          "Townscaper",
-          "/assets/townscaper/img/cover.jpg",
-          "/assets/townscaper/index.html",
-          ""
-      ],
-        [
           "Very Very Plane",
           "/img/veryveryplane.png",
           "/assets/vvplane/index.html",
@@ -2189,13 +2183,6 @@
           "X Trial Racing",
           "/assets/x-trial-racing/splash.png",
           "/assets/x-trial-racing/index.html",
-          ""
-      ],
-
-        [
-          "Yoshi's Fabrication",
-          "/assets/yoshifabrication/icons/icon-512.png",
-          "/assets/yoshifabrication/index.html",
           ""
       ],
         [
