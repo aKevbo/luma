@@ -46,9 +46,7 @@ function createGames(data) {
         const url = link.href;
 
         if (url.startsWith("http://") || url.startsWith("https://")) {
-          // Check if there is an existing iframe and remove it along with the overlay
-          const existingIframe = document.querySelector("iframe");
-
+         
           // Create the new iframe and container div
           const container = document.createElement("div");
           container.style.cssText = `
@@ -68,10 +66,11 @@ function createGames(data) {
             left: 0;
             width: 100%;
             height: 100%;
-            border-radius: 10px;
+            border-radius: 15px;
             border-style: solid;
-            border-color: #ffffff;
-            border-width: 4px;
+            border-transparency: 100%;
+            border-width: 5px;
+            
           `;
           iframe.innerHTML =`
           allow="fullscreen" 
@@ -132,10 +131,7 @@ function createGames(data) {
           newTabButton.addEventListener("click", function () {
             window.open(iframe.src, '_blank');
           });
-        } else {
-          // The URL is not valid, so display an error message
-          alert("Invalid URL: " + url);
-        }
+        } 
       });
       
     }

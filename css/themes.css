@@ -12,6 +12,17 @@
     --icon-color: #ffffff;
   }
 
+  body[data-theme="default1"] { 
+    --background: #0a102b;
+    --theme: #182a69;
+    --theme-ts: #172557;
+    --text: #ffffff;
+    --text-secondary: #ffffff;
+    --search-color: #000000;
+    --icon-color: #ffffff;
+  }
+
+
 
    body[data-theme="light"] {
     --background: #ffffff;

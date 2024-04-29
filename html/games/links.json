@@ -868,6 +868,12 @@
       "title": "Retro [BROKEN]",
       "games": [
 [
+          "Quake",
+          "/img/quake.png",
+          "/assets/quake",
+          ""
+],
+[
           "Super Mario 64 Remaster",
           "/img/sm64.webp",
           "https://raw.githack.com/aKevbo/luma-assets/main/retro/sm64/index.html",
@@ -1726,7 +1732,7 @@
         [
           "Funny Shooter 2",
           "/img/fs2.jpg",
-          "/assets/funnyshooter2/index.html",
+          "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/funnyshooter2/index.html",
           ""
       ],
         [
