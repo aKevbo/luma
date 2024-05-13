@@ -865,7 +865,7 @@
     },
 
     {
-      "title": "Retro [BROKEN]",
+      "title": "Retro [50% BROKEN]",
       "games": [
 [
           "Super Mario 64 Remaster",
@@ -876,238 +876,252 @@
 [
   "Super Mario 64 Original",
   "/img/sm64.webp",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/n64/sm64.z64",
+  "/assets/webretro/index.html?core=autodetect&rom=n64/sm64.zip",
   "Reccomended to play Super Mario 64 Remaster as it runs far better than this version."
 ],
 
 [
           "Mario Kart 64",
           "/img/mk64.png",
-          "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/n64/mk64.z64",
+          "/assets/webretro/index.html?core=autodetect&rom=n64/mk64.zip",
           ""
 ],
 [
   "Paper Mario 64",
   "/img/papermario.png",
-  "/assets/webretro/index.html?core=autodetect&rom=pm64.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=n64/papermario.zip",
   "",
-  "/assets/webretro/index.html?core=autodetect&rom=pm64.zip",
-  "/assets/webretro/index.html?core=autodetect&rom=pm64.zip"
-],
-[
-        "The Legend of Zelda: Ocarina of Time",
-        "/img/ocarinaoftime.png",
-        "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/n64/ocarinaoftime.z64",
-        ""
-],
-[
-      "The Legend of Zelda: Majoras Mask",
-      "/img/majorasmask.jpg",
-      "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/n64/majorasmask.z64",
-      ""
+  "/assets/webretro/index.html?core=autodetect&rom=n64/papermario.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=n64/papermario.zip"
 ],
 [
     "Starfox 64",
     "/img/starfox64.png",
-    "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/n64/starfox64.z64",
+    "/assets/webretro/index.html?core=autodetect&rom=n64/sf64.zip",
     ""
 ],
 [
   "Super Smash Bros.",
   "/img/supersmashbros.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/n64/smashbros.z64",
+  "/assets/webretro/index.html?core=autodetect&rom=n64/smb64.zip",
   ""
 ],
 [
   "Kirby 64: The Crystal Shards",
   "/img/kirby64.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/n64/kirby64.z64",
+  "/assets/webretro/index.html?core=autodetect&rom=n64/kirby64.zip",
+  ""
+],
+[
+  "Super Mario All Stars + Super Mario World",
+  "/img/allstars.png",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/allstars.zip",
   ""
 ],
 [
   "Super Mario World",
   "/img/supermarioworld.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/snes/supermarioworld.smc",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/supermarioworld.zip",
   ""
 ],
 [
   "Super Mario World 2: Yoshis Island",
   "/img/yoshisisland.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/snes/supermarioworld2.smc",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/supermarioworld2.zip",
   ""
+],
+[
+  "Super Mario RPG",
+  "/img/mariorpg.png",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/smrpg.zip",
+  "",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/smrpg.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/smrpg.zip"
 ],
 [
   "Donkey Kong Country",
   "/img/donkeykongcountry.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/snes/donkeykongcountry.smc",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/donkeykongcountry.zip",
   ""
 ],
 [
   "F-Zero",
   "/img/fzero.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/snes/fzero.sfc",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/fzero.zip",
   ""
 ],
 [
   "Super Mario Kart",
   "/img/supermariokart.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/snes/supermariokart.sfc",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/supermariokart.zip",
   ""
 ],
 [
   "Super Metroid",
   "/img/supermetroid.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/snes/supermetroid.sfc",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/supermetroid.zip",
   ""
 ],
 [
   "Star Fox",
   "/img/starfox.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/snes/starfox.smc",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/starfox.zip",
+  ""
+],
+[
+  "Star Fox 2",
+  "/img/starfox2.png",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/starfox2.zip",
+  ""
+],
+[
+  "Super Street Fighter II TURBO",
+  "/img/ssf2t.jpg",
+  "/assets/webretro/index.html?core=autodetect&rom=snes/streetfighter2turbo.zip",
   ""
 ],
 [
   "Super Mario Bros.",
   "/img/smb1.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/supermariobros.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/supermariobros.zip",
   ""
 ],
 [
   "Super Mario Bros. 2",
   "/img/smb2.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/supermariobros2.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/supermariobros2.zip",
   ""
 ],
 [
   "Super Mario Bros. 3",
   "/img/smb3.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/supermariobros3.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/supermariobros3.zip",
   ""
 ],
 [
   "Metroid",
   "/img/metroid.ico",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/Metroid.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/metroid.zip",
   ""
 ],
 [
   "Dr. Mario",
   "/img/drmario.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/drmario.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/drmario.zip",
   ""
 ],
 [
   "Sonic the Hedgehog",
   "/img/sonicthehedgehog.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/genesis/sonic.md",
+  "/assets/webretro/index.html?core=autodetect&rom=genesis/sonic.zip",
   ""
 ],
 [
   "Sonic the Hedgehog 2",
   "/img/sonicthehedgehog2.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/genesis/sonic2.md",
+  "/assets/webretro/index.html?core=autodetect&rom=genesis/sonic2.zip",
   ""
 ],
 [
   "Sonic the Hedgehog 3 & Knuckles",
   "/img/sonicthehedgehog3.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/genesis/sonic3.md",
+  "/assets/webretro/index.html?core=autodetect&rom=genesis/sonic3.zip",
   ""
 ],
 [
   "Pokemon Red Version (Gen I)",
   "/img/pokered.avif",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/gb/pokemonred.gb",
+  "/assets/webretro/index.html?core=autodetect&rom=gb/pokemonred.zip",
   ""
 ],
 [
   "Pokemon Blue Version (Gen I)",
   "/img/pokeblue.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/gb/pokemonblue.gb",
+  "/assets/webretro/index.html?core=autodetect&rom=gb/pokemonblue.zip",
   ""
 ],
 [
   "Pokemon Yellow Version (Gen I)",
   "/img/pokeyellow.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/gb/pokemonyellow.gb",
+  "/assets/webretro/index.html?core=autodetect&rom=gb/pokemonyellow.zip",
   ""
 ],
 [
   "Pokemon Gold Version (Gen II)",
   "/img/pokegold.avif",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/gbc/pokemongold.gbc",
+  "/assets/webretro/index.html?core=autodetect&rom=gbc/pokemongold.zip",
   ""
 ],
 [
   "Pokemon Silver Version (Gen II)",
   "/img/pokesilver.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/gbc/pokemonsilver.gbc",
+  "/assets/webretro/index.html?core=autodetect&rom=gbc/pokemonsilver.zip",
   ""
 ],
 [
   "Pokemon Crystal Version (Gen II)",
   "/img/pokecrystal.avif",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/gbc/pokemoncrystal.gbc",
+  "/assets/webretro/index.html?core=autodetect&rom=gbc/pokemoncrystal.zip",
   ""
 ],
 [
   "Pokemon Ruby Version (Gen III)",
   "/img/pokeruby.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/gba/pokemonruby.gba",
+  "/assets/webretro/index.html?core=autodetect&rom=gba/pokemonruby.zip",
   ""
 ],
 [
   "Pokemon Sapphire Version (Gen III)",
   "/img/pokesapphire.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/gba/pokemonsapphire.gba",
+  "/assets/webretro/index.html?core=autodetect&rom=gba/pokemonsapphire.zip",
   ""
 ],
 [
   "Pokemon Emerald Version (Gen III)",
   "/img/pokeemeraldversion.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/gba/pokemonemerald.gba",
+  "/assets/webretro/index.html?core=autodetect&rom=gba/pokemonemerald.zip",
   "<q>my favorite pokemon game<q> - kevin h 9/5/23"
 ],
 [
   "Batman",
   "/img/bm.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/batman.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/batman.nes",
   ""
 ],
 [
   "Contra",
   "/img/contra.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/contra.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/contra.nes",
   ""
 ],
 [
   "Double Dragon ",
   "/img/doubledragon.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/doubledragon.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/doubledragon.nes",
   ""
 ],
 [
   "Duck Tales ",
   "/img/ducktales.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/ducktales.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/ducktales.nes",
   ""
 ],
 [
   "Excitebike ",
   "/img/exitebike.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/excitebike.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/excitebike.nes",
   ""
 ],
 [
   "Friday the 13th ",
   "/img/ft13.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/friday13.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/friday13.nes",
   ""
 ],
 [
   "Mega Man 2 ",
   "/img/megaman2.png",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/nes/megaman2.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=nes/megaman2.nes",
   ""
 ],
 [
@@ -1145,10 +1159,10 @@
 [
   "Earthbound",
   "/assets/webretro/thumb/earthbound.jpg",
-  "/assets/webretro/index.html?core=autodetect&rom=earthbound.sfc",
+  "/assets/webretro/index.html?core=autodetect&rom=earthbound.zip",
   "",
-  "/assets/webretro/index.html?core=autodetect&rom=earthbound.sfc",
-  "/assets/webretro/index.html?core=autodetect&rom=earthbound.sfc"
+  "/assets/webretro/index.html?core=autodetect&rom=earthbound.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=earthbound.zip"
 ],
 [
   "Final Fantasy",
@@ -1161,18 +1175,18 @@
 [
   "Mike Tysons Punch Out",
   "/img/punchout.png",
-  "/assets/webretro/index.html?core=autodetect&rom=mtpo.nes",
+  "/assets/webretro/index.html?core=autodetect&rom=mtpo.zip",
   "",
-  "/assets/webretro/index.html?core=autodetect&rom=mtpo.nes",
-  "/assets/webretro/index.html?core=autodetect&rom=mtpo.nes"
+  "/assets/webretro/index.html?core=autodetect&rom=mtpo.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=mtpo.zip"
 ],
 [
   "The Legend of Zelda - A Link to the Past",
   "/assets/webretro/thumb/linktothepast.jpg",
-  "/assets/webretro/index.html?core=autodetect&rom=linktothepast.smc",
+  "/assets/webretro/index.html?core=autodetect&rom=linktothepast.zip",
   "",
-  "/assets/webretro/index.html?core=autodetect&rom=linktothepast.smc",
-  "/assets/webretro/index.html?core=autodetect&rom=linktothepast.smc"
+  "/assets/webretro/index.html?core=autodetect&rom=linktothepast.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=linktothepast.zip"
 ],
 [
   "Earthbound Zero",
@@ -1181,14 +1195,6 @@
   "",
   "/assets/webretro/index.html?core=autodetect&rom=mother.nes",
   "/assets/webretro/index.html?core=autodetect&rom=mother.nes"
-],
-[
-  "Super Mario RPG",
-  "/img/mariorpg.png",
-  "/assets/webretro/index.html?core=autodetect&rom=smrpg.smc",
-  "",
-  "/assets/webretro/index.html?core=autodetect&rom=smrpg.smc",
-  "/assets/webretro/index.html?core=autodetect&rom=smrpg.smc"
 ],
 [
   "Sonic Advance",
@@ -1217,10 +1223,10 @@
 [
   "Kirby - Super Star",
   "/assets/webretro/thumb/kirbo.jpg",
-  "/assets/webretro/index.html?core=autodetect&rom=kirbo.smc",
+  "/assets/webretro/index.html?core=autodetect&rom=kirbo.zip",
   "",
-  "/assets/webretro/index.html?core=autodetect&rom=kirbo.smc",
-  "/assets/webretro/index.html?core=autodetect&rom=kirbo.smc"
+  "/assets/webretro/index.html?core=autodetect&rom=kirbo.zip",
+  "/assets/webretro/index.html?core=autodetect&rom=kirbo.zip"
 ],
 [
   "Mother 3",
@@ -1231,15 +1237,9 @@
   "/assets/webretro/index.html?core=autodetect&rom=mother3.gba"
 ],
 [
-  "Super Street Fighter II TURBO",
-  "/img/ssf2t.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/snes/streetfighter2turbo.smc",
-  ""
-],
-[
   "Christmas Dream 64",
   "/img/christmasdream.jpg",
-  "https://rawcdn.githack.com/aKevbo/luma-assets/94eac3275dcef314da837833ffb0421de3b7b542/index.html?core=autodetect&rom=/retro/n64/christmasdream.z64",
+  "/assets/webretro/index.html?core=autodetect&rom=n64/christmasdream.z64",
   ""
 ]
       ]
