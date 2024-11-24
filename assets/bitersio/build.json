@@ -2,7 +2,7 @@
 "companyName": "Clown Games",
 "productName": "biters.io",
 "dataUrl": "biters.io-v1.3.data.unityweb",
-"asmCodeUrl": "biters.io-v1.3.asm.code.unityweb",
+"asmCodeUrl": "https://rawcdn.githack.com/aKevbo/lumassets/e9453f4c08c04c84b5c61c7bc7b841ac06de9677/bitersdata/biters.io-v1.3.asm.code.unityweb",
 "asmMemoryUrl": "biters.io-v1.3.asm.memory.unityweb",
 "asmFrameworkUrl": "biters.io-v1.3.asm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
