@@ -1,0 +1,73 @@
+/* Blurry background overlay */
+.loader-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.3); /* Semi-transparent */
+  backdrop-filter: blur(30px); /* Blurring the background */
+  z-index: 9999; /* Behind the loader, but above other elements */
+  opacity: 1; /* Initially visible */
+  transition: opacity 1s ease; /* Smooth fade-out effect */
+  display: flex; /* Added to show after inline removal */
+  justify-content: center;
+  align-items: center;
+}
+
+/* Loader animation */
+.loader {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+  font-weight: bold;
+  font-family: 'Fredoka', sans-serif;
+  font-size: 52px;
+  display: inline-grid;
+  opacity: 1; /* Visible */
+  text-rendering: optimizeLegibility;
+  transition: opacity 1s ease; /* Smooth fade-out */
+}
+
+
+
+
+.loader:before,
+.loader:after {
+  content: "Loading...";
+  -webkit-mask:linear-gradient(90deg,var(--text) 50%,#ffffff00 0) 0 50%/0.1ch 100%;
+  mask:linear-gradient(90deg,var(--text) 50%,#ffffff00 0) 0 50%/0.1ch 100%; /* compatability crap idk */
+  filter: drop-shadow(50px 50px 0 #000000); /* Adjust drop-shadow */
+  animation: l11 1s infinite cubic-bezier(0.5,220,0.5,-220);
+  grid-area: 1/1;
+
+
+ 
+
+}
+
+.loader:after {
+  -webkit-mask-position:1ch 50%;
+  mask-position:1ch 50%; /* compatability crap idk */
+  --s:-1;
+}
+
+
+
+
+@keyframes l11 {100%{transform: translateY(calc(var(--s,1)*0.1%));}}
+
+
+
+/* Fade-in effect for page content */
+body {
+  opacity: 1; /* Initially hidden */
+  transition: opacity 1s ease; /* Fade in */
+}
+
+/* When the page is fully loaded, make it visible */
+body.loaded {
+  opacity: 1; /* Fade-in effect when class 'loaded' is added */
+}

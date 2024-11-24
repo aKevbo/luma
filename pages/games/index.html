@@ -1,0 +1,109 @@
+
+  <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Google Tag Manager -->
+    <script>
+      (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-5RNXCVK5');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Preloader Script & CSS -->
+    <script src="/js/preloader.js"></script>
+    <link rel="stylesheet" href="/css/preloader.css" />
+    
+     <!-- Favicon-->
+  <link rel="icon" type="image/x-icon" href="/img/websiteutility/minilcw.png">
+    
+    <!-- Meta Information -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Title of the Page -->
+    <title>Luma | Games</title>
+
+   
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="/css/games.css" />
+    <link rel="stylesheet" href="/css/themes.css" />
+
+    <!-- Manifest (if u wanna install luma as an app) -->
+    <link rel="manifest" href="/manifest.json"> 
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka:wght@700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Scroll Event Script for Topbar Behavior -->
+    <script>
+      window.addEventListener("scroll", function() {
+        var topbar = document.querySelector(".topbar");
+        topbar.classList.toggle("scrolled", window.scrollY > 0);
+      });
+    </script>
+    
+    <!-- Scroll Res Script -->
+    <script src="/js/scrollres.js"></script>
+
+    <!-- Loader Overlay -->
+    <div class="loader-overlay"></div> <!-- Blurry background -->
+    <div class="loader"></div> <!-- Loader animation -->
+  </head>
+
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-5RNXCVK5"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden;"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Topbar Section with Search -->
+    <div class="topbar">
+      <div class="text-center">
+        <input
+          type="text"
+          class="text-center"
+          id="mySearch"
+          onload="startSearch()"
+          onkeyup="startSearch()"
+          placeholder="Search for games..."
+          title="Search"
+          autofocus
+        />
+      </div>
+    </div>
+
+
+    <div id="played-games" class="flex-container">
+      <!-- "Played before" games will appear here -->
+    </div>
+
+<!-- Flex container for Search Results -->
+<div id="search" class="flex-container"></div>
+    <!-- Scripts for Functionality -->
+    <script src="/js/search.js"></script>
+    <script src="/js/generategames.js"></script>
+    <script src="/js/saves.js"></script>
+    <script src="/js/navbar.js"></script>
+    <script src="/js/theme.js"></script>
+
+  </body>
+</html>

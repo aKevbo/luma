@@ -1,0 +1,25 @@
+{
+    "name": "Luma",
+    "short_name": "Luma",
+    "description": "Unblocked games",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#182a69",
+    "version": "3.0",
+    "manifest_version": 3,
+    "version_name": "the third one",
+    "icons": [
+      {
+        "src": "/img/websiteutility/LumaCircleWhite.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/websiteutility/LumaCircleWhite.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  

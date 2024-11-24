@@ -27,7 +27,7 @@
    body[data-theme="light"] {
     --background: #ffffff;
     --theme: #c7c7c7;
-    --theme-ts: #b5b5b560;
+    --theme-ts: #b5b5b5;
     --text: #2c2c2c;
     --text-secondary: #414141;
     --search-color: #ffffff;
@@ -37,7 +37,7 @@
   body[data-theme="dark"] {
     --background: #141414;
     --theme: #202020;
-    --theme-ts: #44444460;
+    --theme-ts: #2b2b2b;
     --text:#dadada;
     --text-secondary: #ffffff;
     --search-color: #000000;
@@ -47,7 +47,7 @@
   body[data-theme="echo"] {
     --background: #1c1c1c;
     --theme: #4caf50;
-    --theme-ts: #4caf5060;
+    --theme-ts: #4caf4f;
     --text: #dadada;
     --text-secondary: rgb(245, 245, 245);
     --search-color: #000000;
@@ -153,3 +153,195 @@
     --search-color: #000000;
     --icon-color: #ffffff;
   }
+
+  
+
+
+
+
+
+
+
+  body[data-theme="forest"] {
+    --background: #2c5f2d;
+    --theme: #97bc62;
+    --theme-ts: #618a3d;
+    --text: #f5f5f5;
+    --text-secondary: #d1e8d5;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
+  }
+  
+  body[data-theme="sunset"] {
+    --background: #ff6f61;
+    --theme: #ff9f80;
+    --theme-ts: #f14a16;
+    --text: #ffffff;
+    --text-secondary: #ffeecc;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
+  }
+  
+  body[data-theme="ice"] {
+    --background: #e0f7fa;
+    --theme: #81d4fa;
+    --theme-ts: #4fc3f7;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
+  }
+  
+  body[data-theme="midnight"] {
+    --background: #0f0f1e;
+    --theme: #31336a;
+    --theme-ts: #1e1f4b;
+    --text: #f5f5f5;
+    --text-secondary: #d1d1d1;
+    --search-color: #000000;
+    --icon-color: #ffffff;
+  }
+  
+  body[data-theme="neon"] {
+    --background: #000000;
+    --theme: #00ff87;
+    --theme-ts: #00e077;
+    --text: #ffffff;
+    --text-secondary: #d1ffe6;
+    --search-color: #000000;
+    --icon-color: #00ff87;
+  }
+  
+  body[data-theme="autumn"] {
+    --background: #e07b39;
+    --theme: #c85600;
+    --theme-ts: #d97c0d;
+    --text: #ffffff;
+    --text-secondary: #e6e6e6;
+    --search-color: #000000;
+    --icon-color: #ffffff;
+  }
+  
+  body[data-theme="pastel"] {
+    --background: #f9e0e3;
+    --theme: #f7cac9;
+    --theme-ts: #f4a7b9;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
+  }
+  
+  body[data-theme="lavender"] {
+    --background: #e6e6fa;
+    --theme: #b57edc;
+    --theme-ts: #8a2be2;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
+  }
+  
+  body[data-theme="galaxy"] {
+    --background: #1a1b41;
+    --theme: #6241b2;
+    --theme-ts: #483ea9;
+    --text: #dadada;
+    --text-secondary: #ffffff;
+    --search-color: #000000;
+    --icon-color: #ffffff;
+  }
+  
+  body[data-theme="sunshine"] {
+    --background: #fff7e0;
+    --theme: #ffd740;
+    --theme-ts: #ffeb3b;
+    --text: #2c2c2c;
+    --text-secondary: #414141;
+    --search-color: #ffffff;
+    --icon-color: #ffffff;
+  }
+  
+
+
+
+
+
+
+
+  
+body[data-theme="ocean"] {
+    --background: #003366; /* Deep Ocean Blue */
+    --theme: #0099cc; /* Light Ocean Blue */
+    --theme-ts: #006699; /* Darker Shade */
+    --text: #ffffff; /* White Text */
+    --text-secondary: #e0f7fa; /* Light Cyan */
+    --search-color: #ffffff; /* White Search Bar */
+    --icon-color: #ffffff; /* White Icons */
+}
+
+/* Retro Theme */
+body[data-theme="retro"] {
+  --background: #d1d1d1; /* Light Gray */
+  --theme: #ff3366; /* Bright Pink */
+  --theme-ts: #ff6699; /* Light Pink */
+  --text: #333333; /* Dark Gray */
+  --text-secondary: #666666; /* Medium Gray */
+  --search-color: #ffffff; /* White Search Bar */
+  --icon-color: #333333; /* Dark Gray Icons */
+}
+
+/* Candy Theme */
+body[data-theme="candy"] {
+  --background: #ffb3c1; /* Light Pink */
+  --theme: #ff8d85; /* Soft Red */
+  --theme-ts: #ff6f61; /* Coral */
+  --text: #2c2c2c; /* Dark Text */
+  --text-secondary: #414141; /* Medium Dark Text */
+  --search-color: #ffffff; /* White Search Bar */
+  --icon-color: #ff6f61; /* Coral Icons */
+}
+
+/* Cyberpunk Theme */
+body[data-theme="cyberpunk"] {
+  --background: #0e0e0e; /* Dark Gray */
+  --theme: #ff0055; /* Bright Pink */
+  --theme-ts: #00ffcc; /* Bright Cyan */
+  --text: #ffffff; /* White Text */
+  --text-secondary: #cccccc; /* Light Gray */
+  --search-color: #000000; /* Black Search Bar */
+  --icon-color: #ff0055; /* Bright Pink Icons */
+}
+
+/* Mint Theme */
+body[data-theme="mint"] {
+  --background: #f5fffa; /* Mint Cream */
+  --theme: #98ff98; /* Mint Green */
+  --theme-ts: #66cdaa; /* Medium Sea Green */
+  --text: #2c2c2c; /* Dark Text */
+  --text-secondary: #414141; /* Medium Dark Text */
+  --search-color: #ffffff; /* White Search Bar */
+  --icon-color: #98ff98; /* Mint Green Icons */
+}
+
+/* Steel Theme */
+body[data-theme="steel"] {
+  --background: #2f2f2f; /* Dark Steel Gray */
+  --theme: #4a4a4a; /* Steel Gray */
+  --theme-ts: #7d7d7d; /* Light Steel Gray */
+  --text: #ffffff; /* White Text */
+  --text-secondary: #cccccc; /* Light Gray */
+  --search-color: #000000; /* Black Search Bar */
+  --icon-color: #ffffff; /* White Icons */
+}
+
+/* Earthy Theme */
+body[data-theme="earthy"] {
+  --background: #7a523a; /* Earth Brown */
+  --theme: #a45b3a; /* Clay Brown */
+  --theme-ts: #d6c6b8; /* Light Clay */
+  --text: #ffffff; /* White Text */
+  --text-secondary: #e6d4c7; /* Very Light Clay */
+  --search-color: #000000; /* Black Search Bar */
+  --icon-color: #ffffff; /* White Icons */
+}

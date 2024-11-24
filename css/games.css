@@ -1,0 +1,247 @@
+body {
+    font-family: 'Fredoka', sans-serif;
+    font-size: "25px";
+      color: white;
+    text-align: left;
+      background-color: var(--background);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  a {
+    text-decoration: none;
+    color: #0084ff;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .game-link {
+    display: inline-block;
+    position: relative;
+    width: 225px;
+    height: 225px;
+    overflow: hidden;
+    margin: 5px;
+    transition: all 0.2s ease-in-out;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    border-radius: 20px;
+  }
+  
+  .game-tile {
+    background-color: var(--theme);
+    position: relative;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+  
+  }
+  
+  
+  
+  .game-icon:hover {
+    transform: scale(1.1);
+    filter: brightness(30%);
+    
+    
+  }
+  
+  .game-icon {
+    display: block;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    transition: all .2s;
+    
+  }
+  
+  
+  .game-title {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    color: var(--icon-color);
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    pointer-events: none; /* This allows hover to pass through to the .game-icon */
+}
+
+  
+  .game-desc {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 20%;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+      color: var(--text-secondary);
+    border-radius: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.2s ease-in-out;
+    text-shadow: 0 0 10px rgba(1, 1, 1, 1);
+    pointer-events: none; /* This allows hover to pass through to the .game-icon */
+    
+  }
+  
+  .game-link:hover .game-title {
+  
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 0s, opacity 0.2s ease-in-out;
+  }
+  
+  .game-link:not(:hover) .game-title {
+  
+    visibility: visible;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.2s ease-in-out;
+  }
+  
+  .game-link:hover .game-desc {
+  
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 0s, opacity 0.2s ease-in-out;
+  }
+  
+  .game-link:not(:hover) .game-desc {
+  
+    visibility: visible;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.2s ease-in-out;
+  }
+  
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    order: 0;
+    flex-grow: 0;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start; /* Aligns the game-tile to the left */
+    
+}
+  
+.container {
+  padding: 10px; /* Space around the flexbox container */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* Spaces out items properly */
+  
+}
+
+  
+  .badge {
+    background-color: red;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  #mySearch {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    padding: 11px;
+    border: 3px solid var(--background);
+    background-color: var(--theme);
+    transition: all 0.3s ease-in-out;
+    color: var(--search-color);
+    transition: all 0.3s ease-in-out;
+    border-radius: 15px;
+    border: 4px solid #0000006b; /* White border, you can change the color as needed */
+
+  }
+  
+  #mySearch:focus {
+    outline: none;
+    background-color: var(--text);
+  }
+  
+  #mySearch::placeholder {
+    color: var(--background);
+  }
+  
+  ::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    height: 20px;
+    width: 20px;
+    background-image: url("https://i.imgur.com/UjJvQrK.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    cursor: pointer;
+  }
+  
+  
+  h2 {
+    width: 99%;
+    text-align: left;
+    border-bottom: 5px solid var(--theme);
+    line-height: 1.4em;
+    margin: 10px 0 20px;
+    padding-top: 4vw;
+  }
+  
+  h2 span {
+    padding: 0 10px;
+  }
+  .home {
+    position: absolute;
+    top: 7px;
+    left: 5px;
+    width:3em;
+    fill: var(--theme);
+  }
+  .rand {
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    width:2.5em;
+    fill: var(--theme);
+  }
+  .topbar {
+    position: fixed;
+    top: 45px;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    transition: all 0.3s ease-in-out;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+  }
+  
+  .topbar.scrolled {
+    transform: translateY(-65%);
+    background-color: var(--theme-ts);
+    box-shadow: 0 2px 4px rgba(128, 128, 128, 0.1); /* add a subtle shadow when scrolled */
+  }
+  
+  #navbar #top-bar {
+      background-color: var(--theme);
+    }
+  
+  

@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Fredoka", sans-serif;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    background: var(--theme-ts);
+    padding: 25px 20px;
+    transition: all 0.4s ease;
+    z-index: 9998;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 15px 10px 30px 0px rgba(0,0,0,0.6), inset 0 0 0 0 #0000006b;
+  }
+  
+  .sidebar:hover {
+    width: 260px;
+    box-shadow: 15px 10px 30px 0px rgba(0,0,0,0.6), inset 0 0 0 6px #0000006b;
+    transition: all 0.4s ease;
+  }
+  
+  
+
+/* Sidebar header styles */
+.sidebar-header { 
+    display: flex;
+    align-items: center;
+}
+
+
+
+/* Default image styling */
+.sidebar-header img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: block;
+    transition: opacity 0.3s ease;
+}
+
+/* On hover, fully hide the static image */
+.sidebar-header .img-button:hover img {
+    visibility: hidden; /* Fully hides the image, preventing flickering */
+}
+
+/* Ensure the hover background works as intended */
+.sidebar-header .img-button:hover {
+    background-image: url('/img/websiteutility/waveylumacircle.gif');
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.img-button {
+    height: 68px;
+    width: 68px;
+}
+
+
+.navigationtext {
+    font-size: 30px;
+    font-weight: 600;
+    color: var(--text);
+    margin-left: 79px;
+    position: absolute;
+    align-items: center;
+}
+
+
+
+.navtext {
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+    margin-left: 80px;
+    margin-top: 25px;
+    position: absolute;
+}
+
+/* Sidebar links and other styles */
+.sidebar-links {
+    list-style: none;
+    margin-top: 20px;
+    height: 80%;
+    overflow-y: auto;
+    scrollbar-width: none;
+}
+
+.sidebar-links h4 {
+    color: #fff;
+    font-weight: 500;
+    margin: 10px 0;
+    white-space: nowrap;
+    position: relative;
+}
+
+.sidebar-links li a {
+  display: flex;
+  align-items: center;
+  gap: 0 20px;
+  color: var(--text);
+  font-weight: 500;
+  padding: 15px 20px;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.sidebar-links li a:hover {
+    background: var(--background);
+    color: var(--text);
+    border-radius: 9px;
+}

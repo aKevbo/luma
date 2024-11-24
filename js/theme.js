@@ -1,3 +1,5 @@
+// Saves the theme and makes sure it appears on all the other pages.
+
 const storageKey = "selectedTheme";
 
 let selectedTheme = localStorage.getItem(storageKey);

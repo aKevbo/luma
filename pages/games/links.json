@@ -1,0 +1,476 @@
+{
+  "links": [
+    {
+        "title": "Utility",
+        "games": [
+            ["Now.gg", "/img/games/nowgg.webp", "https://www.now.gg/", "May be blocked", "IgnoreIframe"],
+            ["Xbox Cloud Gaming", "/img/games/cloudgaming.webp", "https://www.xbox.com/en-us/play", "May be blocked", "IgnoreIframe"],
+            ["GeForce NOW", "/img/games/geforcenow.webp", "https://play.geforcenow.com/mall/#/loginwall", "Play your Steam, Ubisoft, and Epic Games account on the cloud. May be blocked", "IgnoreIframe"],
+            ["ChatGPT", "/img/games/chatgpt.webp", "https://chatgpt.com/", "May be blocked", "IgnoreIframe"],
+            ["Calculator", "/img/games/calculator.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/calculator/index.html", ""],
+            ["Monkeytype", "/img/games/monkeytype.webp", "https://www.monkeytype.com", "May be blocked", "IgnoreIframe"]
+
+        ]
+      },
+      {
+          "title": "A",
+          "games": [
+              ["Abobos Big Adventure", "/img/games/abobos.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=abobbos-big-adventure.swf", ""],
+              ["Achievement Unlocked", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/achievementunlocked/achievementunlocked.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/achievementunlocked/index.html", ""],
+              ["Adrenaline Challenge", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/adrenalinechallenge/adrenalinechallenge.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/adrenalinechallenge/index.html", ""],
+              ["Age Of War", "/img/games/ageofwar.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=age_of_war.swf", ""],
+              ["Ages of Conflict", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ages-of-conflict/splash.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ages-of-conflict/index.html", ""],
+              ["Alien Homonid", "/img/games/alienhomoid.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=alien_hominid.swf", ""],
+              ["Among Us Fan Game", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/among-us/red.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/among-us/index.html", ""],
+              ["Angry Birds", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/angrybirds/images/logo.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/angrybirds/index.html", ""],
+              ["Angry Sharks", "/img/games/angrysharks.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/angry-sharks/index.html", ""],
+              ["Apple Shooter", "/img/games/appleshooter.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=weebly_apple_shooter.swf", ""],
+              ["Asteroids", "/img/games/asteroids.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=asteroids.swf", ""],
+              ["Avalanche", "/img/games/avalanche.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=avalanche.swf", ""],
+              ["Axis Football League", "/img/games/axis.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=afl.swf", ""]
+          ]
+      },
+      {
+          "title": "B",
+          "games": [
+              ["BUNnGUN", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bunngun/bng.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/518be7995db9ff1ab2fa1669355d3ab7198652d1/bunngun/index.html", ""],
+              ["Backrooms", "/img/games/backrooms.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/backrooms/index.html", ""],
+              ["Bad Ice Cream", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bad-ice-cream/bad-ice-cream.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bad-ice-cream/index.html", ""],
+              ["Bad Ice Cream 2", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bad-ice-cream-2/bad-ice-cream-2.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bad-ice-cream-2/index.html", ""],
+              ["Bad Ice Cream 3", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bad-ice-cream-3/bad-ice-cream-3.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bad-ice-cream-3/index.html", ""],
+              ["Baldis Basics", "/img/games/baldisbasics.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/baldisbasics/index.html", ""],
+              ["Ball Hop", "/img/games/ballhop.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ball-hop/index.html", ""],
+              ["Basket Bros", "/img/games/basketbros.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/basketbros/index.html", ""],
+              ["Basket Random", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bball-random/splash.jpeg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bball-random/index.html", ""],
+              ["Basket n Ball", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/basketnball/images/ball-basket-for-cover.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/basketnball/index.html", ""],
+              ["Basketball Stars", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bstars/bstars.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bstars/index.html", ""],
+              ["Big Tower Tiny Square", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/btts/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/btts/index.html", ""],
+              ["Biters.io", "/img/games/biters.webp", "/assets/bitersio/", ""],
+              ["Bitlife", "/img/games/bitlife.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bitlife/", ""],
+              ["Black Hole.io", "/img/games/eatio.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/eatio/index.html", ""],
+              ["BlackJack", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/blackjack/bj.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/blackjack/index.html", ""],
+              ["Bloons Tower Defense", "/img/games/bloons1.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/BloonsTowerDefense/index.html", ""],
+              ["Bloons Tower Defence 2", "/img/games/bloons2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=bloonstd2.swf", ""],
+              ["Bloons Tower Defence 3", "/img/games/bloons3.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=bloonstd3.swf", ""],
+              ["Bloons Tower Defence 4", "/img/games/bloons4.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=bloonstd4.swf", ""],  
+              ["Bloons Tower Defence 5", "/img/games/bloons5.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=bloonstd5.swf", ""],   
+              ["Bloxorz", "/img/games/bloxorz.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/Bloxorz/index.html", ""],
+              ["Bob The Robber 2", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bobtherobber2/34d6aae0257d4e4c8068cbdfc11a8758-512x512.jpeg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bobtherobber2/index.html", ""],
+              ["Bouncy Bacsketball", "https://play-lh.googleusercontent.com/EPZmezQTx453RJ1bBjh46zjzyYe-tynNwGhyiVlEriYr6qGhdquDYwt8tuxUGXaBBg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/bouncybasketball/index.html", ""],
+              ["BoxHead 2", "/img/games/boxhead.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=boxhead2.swf", ""],
+              ["Boxing Random", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/boxing-random/512x512.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/boxing-random/index.html", ""],
+              ["Breaking the Bank", "/img/games/breakingthebank.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=breakingthebank.swf", ""],
+              ["Bubble Shooter", "/img/games/bubbleshooter.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=bubble-shooter.swf", ""],
+              ["Burger and Frights", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/burger-and-frights/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/burger-and-frights/index.html", ""],
+              ["Burrito Bison", "/img/games/burritobison.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/burritobison/index.html", ""]
+          ]
+      },
+      {
+          "title": "C",
+          "games": [
+              ["CS-GO Clicker", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/csgo-clicker/images/vanguard.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/csgo-clicker/index.html", ""],
+              ["Cannon Basketball 4", "/img/games/cannonbasketball4.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/cannon-basketball-4/index.html", ""],
+              ["Cat Ninja", "/img/games/catninja.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=catninja.swf", ""],
+              ["Cell Machine", "/img/games/cellmachine.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/cell-machine/index.html", ""],
+              ["Chrome Dino Runner", "/img/games/chromedinorunner.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/trexrunner/index.html", ""],
+              ["Circl0", "/img/games/circloo.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/circlo/index.html", ""],
+              ["Cluster Rush", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/cluster-rush/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/cluster-rush/index.html", ""],
+              ["Color Combat", "/img/games/colorcombat.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=color_combat.swf", ""],
+              ["Commando", "/img/games/commando.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/Commando/index.html", ""],
+              ["Cookie Clicker", "/img/games/cc.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/cookieclicker/", "", "IgnoreIframe"],
+              ["Creative Kill Chamber", "https://a.silvergames.com/j/b/creative-kill-chamber.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/creativekillchamber/index.html", ""],
+              ["Creative Kill Chamber 2", "https://img.kbhgames.com/2012/07/Creative-Kill-Chamber-2.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/creativekillchamber2/index.html", ""],
+              ["Crossy Road", "/img/games/crossyroad.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/crossy/index.html", ""],
+              ["Cubefield", "/img/games/cf.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=cubefield.swf", ""],
+              ["Cut the Rope", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ctr/logo.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ctr/index.html", ""],
+              ["Cut the Rope Holiday Gift", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ctrholiday/Holiday_Gift.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ctrholiday/index.html", ""],
+              ["Cut the Rope Time Travel", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ctrtr/logo.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ctrtr/index.html", ""]
+          ]
+      },
+      {
+          "title": "D",
+          "games": [
+              ["Dad n' Me", "/img/games/dadnme.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=dadnme.swf", ""],
+              ["Deal or No Deal", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/deal-or-no-deal/index.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/deal-or-no-deal/index.html", ""],
+              ["Defend Your Castle", "/img/games/defendcastle.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=102209_castle202c.swf", ""],
+              ["Doctor Acorn 2", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/doctor-acorn2/icon-256.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/doctor-acorn2/index.html", ""],
+              ["Don't Whack Your Teacher", "/img/games/whackteacher.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=dwyt.swf", ""],
+              ["Donkey Kong Country", "/img/games/donkeykongcountry.webp", "/assets/retro/files/snes/donkeykongcountry.html", ""],
+              ["Doodle Jump", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/doodle-jump/doodle.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/doodle-jump/index.html", ""],
+              ["Dr. Mario", "/img/games/drmario.webp", "/assets/retro/files/nes/drmario.html", ""],
+              ["Dragon Ball Z", "/img/games/dragonballz.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=dragonballz.swf", ""],
+              ["Dragon Ball Z Devolution", "/img/games/dragonballzdevolutionwebp.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=dbzd.swf", ""],
+              ["Drift Boss", "/img/games/driftboss.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/DriftBoss/index.html", ""],
+              ["Drift Hunters", "/img/games/drifthunters.webp", "https://rawcdn.githack.com/aKevbo/lumassets/51030ecf5185cb586ddd785f7e9313f77f851548/drifthunters/game.html", "The audio and some maps dont work, sorry."],
+              ["DriftCity.io", "/img/games/driftc.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/drift-city/index.html", ""],
+              ["Duck Hunt", "/img/games/duckhunt.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=duckhunt.swf", ""],
+              ["Duck Life", "/img/games/ducklife.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=ducklife1.swf", ""],
+              ["Duck Life 2", "/img/games/ducklife2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=ducklife2.swf", ""],
+              ["Duck Life 3", "/img/games/ducklife3.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=ducklife3.swf", ""],
+              ["Duck Life 4", "/img/games/ducklife4.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=ducklife4.swf", ""]
+          ]
+      },
+      {
+          "title": "E",
+          "games": [
+              ["EaglercraftX (Minecraft 1.8.8)", "/img/games/minecraft.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/eaglercraft/eaglercraft.html", "Play singleplayer, multiplayer, or even LAN on ur school's wifi lol.", "IgnoreIframe"],
+              ["Earn to Die", "/img/games/earntodie.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=earntodie.swf", ""],
+              ["Earn to Die 2", "/img/games/earntodie2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=earntodie2.swf", ""],
+              ["Earthbound", "/img/games/earthbound.webp", "/assets/retro/files/snes/earthbound.html", ""],
+              ["Eggy Car", "/img/games/eggycar.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/EggyCar/index.html", ""],
+              ["Electricman 2", "/img/games/electricman.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=electricman2.swf", ""],
+              ["Escaping the Prison", "/img/games/escapingprison.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=etp.swf", ""],
+              ["Evil Glitch", "/img/games/evil-glitch.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/evil-glitch/index.html", ""],
+              ["Evolution", "/img/games/evo.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/evo/index.html", ""]
+          ]
+      },
+      {
+          "title": "F",
+          "games": [
+              ["F-Zero", "/img/games/fzero.webp", "/assets/retro/files/snes/fzero.html", ""],
+              ["Fair Squares", "/img/games/fairsquares.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fairsquares/index.html", ""],
+              ["Final Fantasy", "/img/games/finalfantasy.webp", "/assets/retro/files/nes/finalfantasy.html", ""],
+              ["Fireboy and Watergirl 1", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fbwg1/img.gamedistribution.com/gamedistributionid-512x512.jpeg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fbwg1/index.html", ""],
+              ["Fireboy and Watergirl 2", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fbwg2/fb2.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fbwg2/index.html", ""],
+              ["Fireboy and Watergirl 3", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fbwg3/fb3.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fbwg3/index.html", ""],
+              ["Fireboy and Watergirl 4", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fbwg4/fb4.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fbwg4/index.html", ""],
+              ["Five Nights at Freddy's", "/img/games/fnaf.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fnaf/index.html", ""],
+              ["Five Nights at Freddy's 2", "/img/games/fnaf2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fnaf2/index.html", ""],
+              ["Five Nights at Winstons", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fnaw/smile.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fnaw/index.html", ""],
+              ["Flappy 2048", "/img/games/flappy-2048.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/flappy-2048/index.html", ""],
+              ["Flappy 2048 2", "/img/games/flappy2048.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/flappy-2048-2/index.html", ""],
+              ["Flappy Bird", "/img/games/flappybird.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/flappy-bird/index.html", ""],
+              ["Freeway Fury", "/img/games/freewayfury.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=freewayfury.swf", ""],
+              ["Friday Night Funkin", "/img/games/fnf.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/funkin/index.html", ""],
+              ["Fruit Ninja", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fruitninja/FruitNinjaTeaser.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/fruitninja/index.html", ""],
+              ["Frying Nemo", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/frying-nemo/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/frying-nemo/index.html", ""],
+              ["Funny Shooter", "/img/games/fs.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/funnyshooter/index.html", ""],
+              ["Funny Shooter 2", "/img/games/fs2.webp", "https://raw.githack.com/lioxryt/lioxryt-assets/main/other/funnyshooter2/index.html", ""]
+          ]
+      },
+      {
+          "title": "G",
+          "games": [
+              ["Game Inside a Game", "/img/games/gameinsidegame.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/game-inside/index.html", ""],
+              ["Generic Fishing Game", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/generic-fishing-game/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/generic-fishing-game/index.html", ""],
+              ["Getaway Shootout", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main//getawayshootout/images.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/getawayshootout/index.html", ""],
+              ["Getting Over It: Scratch Edition", "/img/games/goiscratch.webp", "https://scratch.mit.edu/projects/389464290/embed", ""],
+              ["Gimme the Airpod", "/img/games/airpod.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/gimme-the-airpod/index.html", ""],
+              ["Glass City", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/glass-city/image.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/glass-city/index.html", ""],
+              ["Goodnight", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/goodnight/goodnight.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/goodnight/index.html", ""],
+              ["Goomy Clicker", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/goomyclicker/favicon.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/goomyclicker/index.html", ""],
+              ["Goomy Clicker 2", "/img/games/goomy2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/goomyclicker2/index.html", ""],
+              ["Gravity Soccer", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/gravity-soccer/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/gravity-soccer/index.html", ""],
+              ["GreyBox", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/greybox/ico.png", "https://rawcdn.githack.com/aKevbo/lumassets/418ca9c1a2006cd6507bb223d2256ace84536e43/greybox/index.html", ""],
+              ["Gunblood", "/img/games/gunblood.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=1gunblood.swf", ""]
+          ]
+      },
+      {
+          "title": "H",
+          "games": [
+            ["Half-Life", "/img/games/halflife.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/halflife/xash.html", "Go to controls and change the Duck key with Shift intead of Ctrl. If your mouse is not in the game press the escape key and resume the game."],
+              ["Hack n Slash n Saw", "/img/games/hackslashsaw.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/hsb/index.html", ""],
+              ["Happy Wheels", "/img/games/hw.webp", "https://totaljerkface.com/happy_wheels.tjf", "May be blocked", "IgnoreIframe"],
+              ["Hobo", "/img/games/hobo.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=hobo.swf", ""],
+              ["Hobo 2: Prison Brawl", "/img/games/hobo2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=hobo2.swf", ""],
+              ["Hobo 3: Wanted", "/img/games/hobo3.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=hobo3.swf", ""],
+              ["Hobo 4: Total War", "/img/games/hobo4.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=hobo4.swf", ""],
+              ["Hobo 5: Space Brawls", "/img/games/hobo5.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=hobo5.swf", ""],
+              ["Hobo 6: Hell", "/img/games/hobo6.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=hobo6.swf", ""],
+              ["Hobo 7: Heaven", "/img/games/hobo7.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=hobo7.swf", ""],
+              ["Horde Killer", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/hordekiller/logo.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/hordekiller/index.html", ""]
+          ]
+      },
+      {
+          "title": "I",
+          "games": [
+              ["Idle Breakout", "/img/games/idlebreakout.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/idlebreakout/game.html", ""],
+              ["IndestructoTank", "/img/games/indestructo.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/IndestructoTank/index.html", ""],
+              ["Interactive Buddy", "/img/games/buddy1.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=interactivebuddy.swf", ""],
+              ["Interactive Buddy 2", "/img/games/buddy2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=interactivebuddy2.swf", ""]
+          ]
+      },
+      {
+          "title": "J",
+          "games": [
+              ["Jetpack Joyride", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/jetpack-joyride/splash.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/jetpack-joyride/index.html", ""],
+              ["Johnny Rocketfingers 2", "/img/games/rocketfingers2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=johnny2.swf", ""],
+              ["Just Fall", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/just-fall/splash.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/just-fall/index.html", ""],
+              ["Just One Boss", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/just-one-boss/pv1Gr5.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/just-one-boss/index.html", ""]
+          ]
+      },
+      {
+          "title": "K",
+          "games": [
+              ["Kirby - Super Star", "/img/games/superstar.webp", "/assets/retro/files/snes/kirbysuperstar.html", ""],
+              ["Kirby 64: The Crystal Shards", "/img/games/kirby64.webp", "/assets/retro/files/n64/kirby64.html", ""],
+              ["Kitchen Gun", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/kitchen-gun-game/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/kitchen-gun-game/index.html", ""]
+          ]
+      },
+      {
+          "title": "L",
+          "games": [
+              ["Learn to Fly", "/img/games/learntofly1.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=learntofly.swf", ""],
+              ["Learn to Fly 2", "/img/games/learntofly2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=learntofly2.swf", ""],
+              ["Learn to Fly 3", "/img/games/learntofly3.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=learntofly3.swf", ""],
+              ["Little Alchemy", "/img/games/littlealchemy.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/littlealchemy/index.html", ""]
+          ]
+      },
+      {
+          "title": "M",
+          "games": [
+              ["Mari0", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/mario/m0.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/mario/index.html", ""],
+              ["Mario & Luigi - Superstar Saga", "/img/games/superstarsaga.webp", "/assets/retro/files/gba/superstarsaga.html", ""],
+              ["Mario Combat", "/img/games/mariocombat.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=Mario_Combat.swf", ""],
+              ["Mario Kart 64", "/img/games/mk64.webp", "/assets/retro/files/n64/mariokart64.html", ""],
+              ["Mario Kart Flash", "/img/games/mkFLASH.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=mariokartflash.swf", ""],
+              ["Meat Boy", "/img/games/meatboy.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=dagobah_Meat_Boy.swf", ""],
+              ["Merge Round Racers", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/merge-round-racers/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/merge-round-racers/index.html", ""],
+              ["Metroid", "/img/games/metroid.webp", "/assets/retro/files/nes/metriod.html", ""],
+              ["Miami Shark", "/img/games/miamishark.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=miami-shark.swf", ""],
+              ["Mike Tysons Punch Out", "/img/games/punchout.webp", "/assets/retro/files/nes/mtpo.html", ""],
+              ["Mineblocks", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/mineblocks/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/mineblocks/index.html", ""],
+              ["Minecraft TD", "/img/games/minecrafttd.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=minecrafttd.swf", ""],
+              ["Mini Putt", "/img/games/miniputt.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=miniputt.swf", ""],
+              ["Monster Tracks (Drive Mad)", "/img/games/monstertracks.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/drive-mad-main/index.html", ""],
+              ["MotoX3M", "/img/games/motox3m.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/MotoX1/index.html", ""],
+              ["MotoX3M 2", "/img/games/motox3m2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/MotoX2/index.html", ""],
+              ["MotoX3M Pool Party", "/img/games/motopoolparty.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/MotoXpool/index.html", ""],
+              ["MotoX3M Spooky Land", "/img/games/motospooky.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/MotoXspooky/index.html", ""],
+              ["MotoX3M Winterland", "/img/games/motowinter.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/MotoXwinter/index.html", ""],
+              ["Mutilate a Doll", "/img/games/mutilatedoll.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=mad.swf", ""],
+              ["My Rusty Submarine", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/my-rusty-submarine/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/0b72347517451d63c1c81f79c9a35ec5c2e69097/my-rusty-submarine/index.html", ""]
+          ]
+      },
+      {
+          "title": "N",
+          "games": [
+              ["N", "/img/games/N.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/N/index.html", ""],
+              ["N Gon", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/n-gon/bot.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/n-gon/index.html", ""],
+              ["Neon Square Resurgence", "/img/games/nsr.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/neonsquareres/index.html", ""],
+              ["New York Shark", "/img/games/nyshark.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=new-york-shark-unblocked.swf", ""]
+          ]
+      },
+      {
+          "title": "O",
+          "games": [
+              ["Ovo", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ovo/ovo.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ovo/index.html", ""]
+          ]
+      },
+      {
+          "title": "P",
+          "games": [
+              ["Pac-Man", "/img/games/pacman.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=pacman.swf", ""],
+              ["Jacksmith", "/img/games/jacksmith.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=jacksmith.swf", ""],
+              ["Papa's Bakeria", "/img/games/bakeria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papasbakeria.swf", ""],
+              ["Papa's Burgeria", "/img/games/burgeria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=burgeria.swf", ""],
+              ["Papa's Cupcakeria", "/img/games/cupcakeria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papascupcakeria.swf", ""],
+              ["Papa's Donuteria", "/img/games/donuteria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papasdonuteria.swf", ""],
+              ["Papa's Freezeria", "/img/games/freezeria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papasfreezeria.swf", ""],
+              ["Papa's Hot Doggeria", "/img/games/doggeria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papashotdoggeria.swf", ""],
+              ["Papa's Pancakeria", "/img/games/pancakeria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papaspancakeria.swf", ""],
+              ["Papa's Pastaria", "/img/games/pastaria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papaspastaria.swf", ""],
+              ["Papa's Pizzeria", "/img/games/pizzeria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=pizzeria.swf", ""],
+              ["Papa's Scooperia", "/img/games/scooperia.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papasscooperia.swf", ""],
+              ["Papa's Sushiria", "/img/games/sushiria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papassushiria.swf", ""],
+              ["Papa's Taco Mia", "/img/games/tacomia.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papastacomia.swf", ""],
+              ["Papa's Wingeria", "/img/games/wingeria.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/waflash/index.html?swf=papaswingeria.swf", ""],
+              ["Paper Mario 64", "/img/games/papermario.webp", "/assets/retro/files/n64/papermario.html", ""],
+              ["Paper.io 2", "/img/games/paperio2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/paperio2/index.html", ""],
+              ["Papery Planes", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/papery-planes/splash.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/papery-planes/index.html", ""],
+              ["Picky Package", "/img/games/ppac.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/picky-package/index.html", ""],
+              ["Pokemon Blue Version (Gen I)", "/img/games/pokeblue.webp", "/assets/retro/files/gb/pokemonblue.html", ""],
+              ["Pokemon Crystal Version (Gen II)", "/img/games/pokecrystal.webp", "/assets/retro/files/gbc/pokemoncrystal.html", ""],
+              ["Pokemon Emerald Version (Gen III)", "/img/games/pokeemeraldversion.webp", "/assets/retro/files/gba/pokemonemerald.html", "<q>my favorite pokemon game<q> - kevin h 9/5/23"],
+              ["Pokemon Gold Version (Gen II)", "/img/games/pokegold.webp", "/assets/retro/files/gbc/pokemongold.html", ""],
+              ["Pokemon Red Version (Gen I)", "/img/games/pokered.webp", "/assets/retro/files/gb/pokemonred.html", ""],
+              ["Pokemon Ruby Version (Gen III)", "/img/games/pokeruby.webp", "/assets/retro/files/gba/pokemonruby.html", ""],
+              ["Pokemon Sapphire Version (Gen III)", "/img/games/pokesapphire.webp", "/assets/retro/files/gba/pokemonsapphire.html", ""],
+              ["Pokemon Silver Version (Gen II)", "/img/games/pokesilver.webp", "/assets/retro/files/gbc/pokemonsilver.html", ""],
+              ["Pokemon Yellow Version (Gen I)", "/img/games/pokeyellow.webp", "/assets/retro/files/gb/pokemonyellow.html", ""],
+              ["Pong", "/img/games/pong.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=pong.swf", ""],
+              ["Portal: The Flash Version", "/img/games/portaltfv.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/Portal/index.html", ""],
+              ["Potty Racers", "/img/games/pottyracers.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=pottyracers.swf", ""],
+              ["Potty Racers 2", "/img/games/pottyracers2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=pottyracers2.swf", ""],
+              ["Potty Racers 3", "/img/games/pottyracers3.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=pottyracers3.swf", ""],
+              ["Potty Racers 4", "/img/games/pottyracers4.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=pottyracers4.swf", ""]
+          ]
+      },
+      {
+          "title": "Q",
+          "games": [
+              ["Quake", "/img/games/quake.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/quake/index.html", "", "IgnoreIframe"],
+              ["QWOP", "/img/games/QWOP.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/QWOP/index.html", ""]
+          ]
+      },
+      {
+          "title": "R",
+          "games": [
+              ["Rabbit Samurai", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/rabbit-samurai/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/rabbit-samurai/index.html", ""],
+              ["Rabbit Samurai 2", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/rabbit-samurai2/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/rabbit-samurai2/index.html", ""],
+              ["Raft Wars", "/img/games/raftwars.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=raftwars.swf", ""],
+              ["Raft Wars 2", "/img/games/raftwars.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=raftwars2.swf", ""],
+              ["Ragdoll Avalanche 2", "/img/games/ragdollavalanche2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=ragdollavalanche2.swf", ""],
+              ["Rage 3", "/img/games/rage3.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=rage3.swf", ""],
+              ["Retro Bowl", "/img/games/retrobowl.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/retrobowl/index.html", ""],
+              ["Riddle School", "/img/games/riddleschool.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=riddleschool.swf", ""],
+              ["Riddle School 2", "/img/games/riddleschool2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=riddleschool2.swf", ""],
+              ["Riddle School 3", "/img/games/riddleschool3.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=riddleschool3.swf", ""],
+              ["Riddle School 4", "/img/games/riddleschool4.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=riddleschool4.swf", ""],
+              ["Riddle School 5", "/img/games/riddleschool5.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=riddleschool5.swf", ""],
+              ["Riddle Transfer", "/img/games/riddletransfer.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=riddletransfer.swf", ""],
+              ["Riddle Transfer 2", "/img/games/riddletransfer2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=riddletransfer2.swf", ""],
+              ["Rooftop Snipers", "/img/games/rooftopsniper.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/rooftopsnipers/index.html", ""],
+              ["Rooftop Snipers 2", "/img/games/rooftopsniper2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/rooftopsnipers2/index.html", ""],
+              ["Run", "/img/games/run3.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/Run1/index.html", ""],
+              ["Run 2", "/img/games/run2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=run2.swf", ""],
+              ["Run 3", "/img/games/run3.webp", "/assets/run3/index.html", "My personal favorite flash game :) - Kevin H 2022"]
+          ]
+      },
+      {
+          "title": "S",
+          "games": [
+              ["Sand Game", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/sand-game/sand.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/sand-game/index.html", ""],
+              ["Sandboxels", "/img/games/sandboxels.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/sandboxels/index.html", ""],
+              ["Sans Fight", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/sansfight/icon-256.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/sansfight/index.html", ""],
+              ["Shark Game", "/img/games/sharkgame.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/idle-shark/index.html", ""],
+              ["Slime Rush TD", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/slime-rush-td/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/slime-rush-td/index.html", ""],
+              ["Slope", "/img/games/slope.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/Slope/index.html", ""],
+              ["Slope 2", "/img/games/slope2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/Slope2/index.html", ""],
+              ["SlowRoads.io", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/slowroads/favicon_circle.svg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/slowroads/index.html", ""],
+              ["Smoking Barrels", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/smokingbarrels/smokingbarrels.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/smokingbarrels/index.html", ""],
+              ["Snow Rider 3D", "/img/games/snowrider.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/snowrider3d/index.html", ""],
+              ["SnowBattle.io", "/img/games/snowbattle.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/snowbattle/index.html", ""],
+              ["Soccer Random", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/soccer-random/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/soccer-random/index.html", ""],
+              ["Sonic Flash", "/img/games/sonicflash.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=ultimate-flash-sonic.swf", ""],
+              ["Sonic the Hedgehog", "/img/games/sonicthehedgehog.webp", "/assets/retro/files/genesis/sonic.html", ""],
+              ["Sonic the Hedgehog 2", "/img/games/sonicthehedgehog2.webp", "/assets/retro/files/genesis/sonic2.html", ""],
+              ["Sonic the Hedgehog 3 & Knuckles", "/img/games/sonicthehedgehog3.webp", "/assets/retro/files/genesis/sonic3.html", ""],
+              ["Sort the Court", "/img/games/sortcourt.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/sort-the-court/index.html", ""],
+              ["Space Company", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/space-company/whiteLogo.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/space-company/index.html", ""],
+              ["Stack", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/stack/stack.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/stack/index.html", ""],
+              ["Star Fox", "/img/games/starfox.webp", "/assets/retro/files/snes/starfox.html", ""],
+              ["Star Fox 2", "/img/games/starfox2.webp", "/assets/retro/files/snes/starfox2.html", ""],
+              ["Star Fox 64", "/img/games/starfox64.webp", "/assets/retro/files/n64/starfox64.html", ""],
+              ["Steal This Election", "/img/games/ste.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/steal-this-election/index.html", ""],
+              ["Stealing the Diamond", "/img/games/stealingdiamond.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=std.swf", ""],
+              ["Stick RPG", "/img/games/stickrpg.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=stickrpg.swf", ""],
+              ["Stick War", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/stickwar/stickwar.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/stickwar/index.html", ""],
+              ["Stickman Boost", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/stickman-boost/icon-256.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/stickman-boost/index.html", ""],
+              ["Stickman Golf", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/stickman-golf/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/stickman-golf/index.html", ""],
+              ["Stickman Hook", "/img/games/stickman.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/StickmanHook", ""],
+              ["Stickman Survival", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/Stickman-Survival/Icon.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/Stickman-Survival/index.html", ""],
+              ["Storm the House 2", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/stormthehouse2/stormthehouse2.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/stormthehouse2/index.html", ""],
+              ["Subway Surfers", "/img/games/subway.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/subwaysurfers/index.html", ""],
+              ["Suckit League", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/suckitleague/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/suckitleague/index.html", ""],
+              ["Super Mario 63", "/img/games/sm63.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/sm63/index.html", ""],
+              ["Super Mario 64 Original", "/img/games/sm64.webp", "/assets/retro/files/n64/supermario64.html", "Reccomended to play Super Mario 64 Remaster as it runs far better than this version."],
+              ["Super Mario 64 Remaster", "/img/games/sm64.webp", "https://rawcdn.githack.com/aKevbo/lumassets/303b61a05af2d7ab9d3540e754d38664269e38a6/sm64/index.html", ""],
+              ["Super Mario All Stars + Super Mario World", "/img/games/allstars.webp", "/assets/retro/files/snes/allstars.html", ""],
+              ["Super Mario Bros.", "/img/games/smb1.webp", "/assets/retro/files/nes/smb1.html", ""],
+              ["Super Mario Bros. 2", "/img/games/smb2.webp", "/assets/retro/files/nes/smb2.html", ""],
+              ["Super Mario Bros. 3", "/img/games/smb3.webp", "/assets/retro/files/nes/smb3.html", ""],
+              ["Super Mario Construct", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/supermarioconstruct/icons/icon-256.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/supermarioconstruct/index.html", ""],
+              ["Super Mario Flash", "/img/games/supermarioflash.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=dagobah_super_mario_flash.swf", ""],
+              ["Super Mario Kart", "/img/games/supermariokart.webp", "/assets/retro/files/snes/supermariokart.html", ""],
+              ["Super Mario RPG", "/img/games/mariorpg.webp", "/assets/retro/files/snes/smrpg.html", ""],
+              ["Super Mario World", "/img/games/supermarioworld.webp", "/assets/retro/files/snes/supermarioworld.html", ""],
+              ["Super Mario World 2: Yoshis Island", "/img/games/yoshisisland.webp", "/assets/retro/files/snes/supermarioworld2.html", ""],
+              ["Super Metroid", "/img/games/supermetroid.webp", "/assets/retro/files/snes/supermetroid.html", ""],
+              ["Super Smash Bros.", "/img/games/supersmashbros.webp", "/assets/retro/files/n64/supersmash64.html", ""],
+              ["Super Smash Flash", "/img/games/supersmashflash.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=ssf.swf", ""],
+              ["Super Street Fighter II TURBO", "/img/games/ssf2t.webp", "/assets/retro/files/snes/streetfighter2turbo.html", ""],
+              ["Superhot", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/superhot/hot.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/superhot/index.html", ""],
+              ["Sushi Unroll", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/sushi-unroll/favicon.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/sushi-unroll/index.html", ""],
+              ["Swerve", "/img/games/swerve.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/swerve/index.html", ""],
+              ["Swordbattle.io", "/img/games/sb.webp", "https://sword-io-game.herokuapp.com/", ""]
+          ]
+      },
+      {
+          "title": "T",
+          "games": [
+              ["Tactical Assasin 2", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/tacticalassasin2/tacticalassassin2.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/tacticalassasin2/index.html", ""],
+              ["Tanuki Sunset", "/img/games/tanuki.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/tanukisunset/index.html", ""],
+              ["Tank Trouble", "/img/games/tanktrouble.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=tanktrouble.swf", ""],
+              ["Tank Trouble 2", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/tank-trouble-2/icon-128.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/tank-trouble-2/index.html", ""],
+              ["Temple Run 2", "/img/games/templerun2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/templerun2/index.html", ""],
+              ["Tetris NES", "/img/games/nestetris.webp", "/assets/retro/files/nes/tetris.html", ""],
+              ["Tetr.io", "/img/games/tetrio.webp", "https://tetr.io/", "May be blocked.", "IgnoreIframe"],
+              ["Tetris", "/img/games/tetris.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=flash-tetris.swf", ""],
+              ["The Binding of Isaac", "/img/games/thebindingofisaac.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=isaac.swf", ""],
+              ["The Fancy Pants Adventures", "/img/games/fancypants.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=fancypantsadventure.swf", ""],
+              ["The Heist", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/theheist/theheist.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/theheist/index.html", ""],
+              ["The Impossible Quiz", "/img/games/impossiblequiz.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/ImpossibleQuiz/index.html", ""],
+              ["The Impossible Quiz 2", "/img/games/impossiblequiz2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/ImpossibleQuiz2/index.html", ""],
+              ["The Impossible Quizmas", "/img/games/impossiblequizmas.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/ImpossibleQuizmas/index.html", ""],
+              ["The Legend Of Zelda - Links Awakening DX", "/img/games/linksawakening.webp", "/assets/retro/files/gbc/linksawakeningdx.html", ""],
+              ["The Legend of Zelda - A Link to the Past", "/img/games/linktopast.webp", "/assets/retro/files/snes/linktopast.html", ""],
+              ["The Legend of Zelda - The Minish Cap", "/img/games/minishcap.webp", "/assets/retro/files/gba/minishcap.html", ""],
+              ["The Worlds Hardest Game", "/img/games/hardestgame1.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/HardestGame1/index.html", ""],
+              ["The Worlds Hardest Game 2.0", "/img/games/hardestgame2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/HardestGame2/index.html", ""],             
+              ["The Legend of Zelda - Ocarina of Time", "/img/games/ocarinaoftime.webp", "/assets/retro/files/n64/ocarina.html", ""],
+              ["The Legend of Zelda - Majora's Mask", "/img/games/majorasmask.webp", "/assets/retro/files/n64/majoras.html", ""],
+              ["There is no game.", "/img/games/thereisnogame.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/thereisnogame/index.html", ""],
+              ["This is the Only Level", "/img/games/only.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=this_is_the_only_level.swf", ""],
+              ["TicTacGPT", "/img/games/ttg.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/tictacgpt/index.html", ""],
+              ["Tiny Fishing", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/tiny-fishing/thumb.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/tiny-fishing/index.html", ""],
+              ["Traffic Jam 3D", "/img/games/trafficjam3d.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/trafficjam3d/index.html", ""],
+              ["Toss the Turtle", "/img/games/tosstheturtle.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=toss_the_turtle.swf", ""],
+              ["Tunnel Rush", "/img/games/tunnelrush.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/tunnelrush/index.html", ""]
+          ]
+      },
+      {
+          "title": "U",
+          "games": [
+              ["Ultimate Custom Night", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ucn/resources/0317.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/ucn/index.html", ""],
+              ["Unfair Mario", "/img/games/unfairmario.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/index.html?swf=unfairmario.swf", ""]
+          ]
+      },
+      { 
+          "title": "V",
+          "games": [
+              ["Very Very Plane", "/img/games/veryveryplane.webp", "https://rawcdn.githack.com/aKevbo/lumassets/ccb22ed3b466af7f885141d6920b956bcc00d049/vvplane/index.html", ""],
+              ["Vex", "/img/games/v1.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/Vex/index.html", ""],
+              ["Vex 2", "/img/games/v2.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/Vex2/index.html", ""],
+              ["Vex 3", "/img/games/v3.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/Vex3/index.html", ""],
+              ["Vex 4", "/img/games/vex4.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/Vex4/index.html", ""],
+              ["Vex 5", "/img/games/v5.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/Vex5/index.html", ""],
+              ["Vex 6", "/img/games/v6.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/Vex6/index.html", ""],
+              ["Vex 7", "/img/games/v7.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/Vex7/index.html", ""],
+              ["Vex 8", "/img/games/v8.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/Vex8/index.html", ""]
+          ]
+      },
+      {
+          "title": "W",
+          "games": [
+              ["Wasted Sky", "/img/games/wastedsky.webp", "https://rawcdn.githack.com/aKevbo/lumassets/e894450e0001a0214d52ecbb6ee23eadb0d292ee/FLASH/wastedsky/index.html", ""],
+              ["Waterworks", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/waterworks/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/waterworks/index.html", ""],
+              ["Wolfenstien 3D", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/wolf3d/art/wolf3d.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/wolf3d/index.html", ""],
+              ["Wordle +", "/img/games/wordle.webp", "/assets/wordle/index.html", ""]
+          ]
+      },
+      {
+          "title": "X",
+          "games": [
+              ["X Trial Racing", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/x-trial-racing/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/x-trial-racing/index.html", ""]
+          ]
+      },
+      {
+          "title": "Y",
+          "games": [
+              ["You Are Bezos", "/img/games/youarebezos.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/you-are-bezos/index.html", ""]
+          ]
+      },
+      {
+        "title": "1 - 9",
+        "games": [
+            ["1", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/1/meta/apple-touch-icon.png", "https://rawcdn.githack.com/aKevbo/lumassets/f09abb523caed65dd5d47f749d8e8dbf98ca4498/1/index.html", ""],
+            ["10 Minutes Till Dawn", "/img/games/10mtd.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/10mtd/index.html", ""],
+            ["100NG", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/100ng/100ng.jpg", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/100ng/index.html", ""],
+            ["2048", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/2048/thumb.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/2048/index.html", ""],
+            ["2048 Multitask", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/2048-multitask/splash.png", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/2048-multitask/index.html", ""],
+            ["3D.City", "/img/games/3dcity.webp", "https://rawcdn.githack.com/aKevbo/lumassets/refs/heads/main/3dcity/index.html", ""]
+        ]
+    }
+  ]
+}

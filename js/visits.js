@@ -1,1 +1,0 @@
-document.write('<img src="//counter.websiteout.net/compte.php?S='+encodeURI(window.location.hostname)+'&C=36&D=8&N=4937&M=0" alt="" border="0" />');

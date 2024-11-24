@@ -1,0 +1,86 @@
+body {
+  background-color: var(--background);
+  font-family: 'Fredoka', sans-serif;
+  transition: background-color 0.5s ease, color 0.5s ease;
+  padding: 20px; /* Add padding to body */
+  color: white;
+}
+
+h1, h2 {
+  color: var(--text);
+  transition: background-color 0.5s ease, color 0.5s ease;
+  margin-bottom: 20px; /* Add spacing below headings */
+  border-bottom: 5px solid var(--theme);
+
+}
+
+section {
+  margin-bottom: 30px; /* Add margin between sections */
+}
+
+button, .console-button, .drop {
+  background-color: var(--theme-ts);
+  color: var(--text-secondary);
+  border: none;
+  border-radius: 7px;
+  padding: 12px 24px; /* Add more padding for better button spacing */
+  font-size: 1.1em;
+  margin: 5px 5px; /* Add margin above and below buttons */
+  cursor: pointer;
+  transition: background-color 0.5s ease, transform 0.3s ease;
+}
+
+button:hover, .console-button:hover, .drop:hover {
+  background-color: var(--theme); /* Hover color */
+  transform: scale(1.1);
+}
+
+input, .console-input input {
+  background-color: var(--theme);
+  color: var(--text-secondary);
+  border: none;
+  border-radius: 7px;
+  padding: 12px;
+  font-size: 1.1em; /* Slightly larger input font size */
+  margin-bottom: 15px; /* Add spacing below inputs */
+  width: 100%;
+  box-sizing: border-box;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+input::placeholder {
+  color: var(--text-secondary);
+}
+
+hr {
+  border: 1px solid var(--text);
+  margin: 20px 0;
+}
+
+p {
+  color: var(--text);
+  font-size: 1.2em;
+  margin: 10px 0 20px; /* Add spacing below paragraphs */
+}
+
+#navbar #top-bar {
+  background-color: var(--theme);
+  padding: 10px; /* Add padding to top-bar */
+}
+
+.presets {
+  margin-right: 15px; /* Increase spacing between preset items */
+  cursor: pointer;
+}
+
+.presets:hover {
+  transform: scale(1.1);
+}
+
+.home {
+  position: absolute;
+  top: 0px;
+  right: 5px;
+  width: 3em;
+  fill: var(--theme);
+}

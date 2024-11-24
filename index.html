@@ -1,88 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+  <!-- Meta Information -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Luma | Home</title>
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="/css/home.css" />
+  <link rel="stylesheet" href="/css/themes.css" />
+  <link rel="stylesheet" href="/css/preloader.css">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <!-- Manifest (if u wanna install luma as an app) -->
+  <link rel="manifest" href="/manifest.json">
+
+  <!-- Favicon-->
+  <link rel="icon" type="image/x-icon" href="/img/websiteutility/minilcw.png">
+
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5RNXCVK5');
+  </script>
+  <!-- End Google Tag Manager -->
+
 </head>
+
 <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RNXCVK5" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
-  <head>
-    <!-- Google tag (gtag.js) -->
- <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXGG6SJL6H"></script>
- <script>
-   window.dataLayer = window.dataLayer || [];
-   function gtag(){dataLayer.push(arguments);}
-   gtag('js', new Date());
- 
-   gtag('config', 'G-XXGG6SJL6H');
- </script>
- <link rel="preconnect" href="https://fonts.googleapis.com">
- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
- <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@700&display=swap" rel="stylesheet">
- 
-   <meta charset="utf-8" />
-   <meta name="viewport" content="width=device-width, initial-scale=1" />
- 
-   <link rel="icon" type="image/x-icon" href="/img/lumalogo.png" />
-   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-   <link rel="stylesheet" href="/css/home.css" />
-   <link rel="stylesheet" href="/css/themes.css" />
- </head>
- <body>
-   
+  <!-- Preloader (Loading Screen) -->
+  <div class="loader-overlay"></div>
+  <div class="loader"></div>
 
-   <div class="content">
-     <img src="/img/lumabanner.png" alt="Welcome to Luma!" draggable="false" style=" width: 25%; padding-top: 10px;">
-     <a href="https://hits.seeyoufarm.com"><img style="padding-top: 5px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsites.google.com%2Ftvsd.info%2Fscarlet%2Fhome&count_bg=%2300C1FF&title_bg=%2300C1FF&icon=&icon_color=%23E7E7E7&title=Visits%3A&edge_flat=false"/></a>
-     <h2>Website made by Kevin H.</h2>
-     <div id="subtitle" onclick="newSub()">loading website... u got slow internet lmao</div>
+  <!-- Main Content Section -->
+  <div class="content">
+    <!-- Banner Image -->
+    <img src="/img/websiteutility/waveylumacircle.gif" alt="Welcome to Luma!" draggable="false" style="width: 25%; padding-top: 10px;">
 
-     <script src="ovc/counter.js"></script>
-     
-     <div class="buttons">
-       <a class="button play" draggable="false" href="html/games">Play</a>
-       <a class="button play2" draggable="false" style="font-size: 200%;" href="html/email.html">Glitches / Reccomendations</a>
-     </div>
-     <br>
-     <br>
-    
-     <div class="infboxes">
-       <div draggable="false" class="square">
-         <div class="intxtbig">20,000+</div>
-         <div class="intxtsml">Visits!!</a></div>
-       </div>
-       <div class="square">
-         <div class="intxtbig">EST Feb 18th, 2021.</div>
-       </div>
-       <div class="square">
-         <div class="intxtbig">Checkmate Linewize.</div>
-       </div>
-       
-     </div>
-     <div draggable="false" class="topleft">v2.8.1: tyshon update</div>
-    
-   </div>
-   
-   <div class="bg"> 
-     <img class="bg" src="/img/whentheupdate.gif"></img>
-   </div>
- <div style="display: none;" >
-     <script type="text/javascript" src="other/counter/lll"></script>
-     <script
-       type="text/javascript"
-       src="https://www.freevisitorcounters.com/en/home/counter/974405/t/1"
-     ></script>
-   <script src="html/settings/js/index.js"></script>
-   <script src="js/subtitle.js"></script>
-   <script src="/js/navbar.js"></script>
-   <script src="/js/theme.js"></script>
- <script src="/js/polyfill.js"></script>
- 
- </body>
- 
 
+    <!-- Subheading and Subtitle -->
+    <h2>Website made by Kevin H.</h2>
+    &nbsp;
+    <div id="subtitle" onclick="newSub()">loading website... u got slow internet lmao</div>
+
+    <!-- Visit Counter Script -->
+    <script src="ovc/counter.js"></script>
+
+    <!-- Play Button -->
+    <div class="buttons">
+      <a class="button play" draggable="false" href="pages/games">Start</a>
+    </div>
+
+ <!-- Visit Counter (Third Party Service) -->
+<a href="https://hits.seeyoufarm.com">
+  <img style="padding-top: 5px;"
+  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsites.google.com%2Ftvsd.info%2Fscarlet%2Fhome&count_bg=%2315255D&title_bg=%231D337D&icon=googleanalytics.svg&icon_color=%23E7E7E7&title=Luma+Visits&edge_flat=false"/>
+</a>
+
+ <!-- Version Display -->
+ <div class="version" draggable="false">v3.0: the third one</div>
+
+
+<!-- GitHub Icon Button -->
+<div class="github" style="margin-top: 10px;">
+  <a href="https://github.com/aKevbo/luma" target="_blank" title="View on GitHub">
+    <img src="/img/websiteutility/github.png" alt="GitHub Logo" style="width: 30px; height: 30px;">
+  </a>
+</div>
+
+  </div>
+
+  <!-- Background Image -->
+  <div class="bg">
+    <img class="bg" src="/img/websiteutility/lumabgtest3.webp" alt="Update Animation">
+  </div>
+
+  <!-- Hidden Scripts (Non-displayed content) -->
+  <div style="display: none;">
+    <script type="text/javascript" src="other/counter/lll"></script>
+    <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/974405/t/1"></script>
+
+    <!-- Additional JavaScript Files -->
+    <script src="html/settings/js/index.js"></script>
+    <script src="js/subtitle.js"></script>
+    <script src="js/navbar.js"></script>
+    <script src="js/theme.js"></script>
+    <script src="js/preloader.js"></script>
+  </div>
 </body>
 
-
 </html>
+
+
+
+
+

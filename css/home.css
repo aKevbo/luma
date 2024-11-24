@@ -1,21 +1,26 @@
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+html, body {
+	overflow: hidden; 
+	height: 100%;
+	color:white;
+  }
+
 body {
 	background-color: var(--background);
-	color: var(--text);
+	color: white;
 	font-family: 'Fredoka', sans-serif;
 }
 .bg video,
 .bg img {
 	filter: brightness(90%);
 	object-fit: contain;
-	width: max(100vw, 100vh);
-	height: max(90vw, 90vh);
 	position: fixed;
 	top: 50%;
 	left: 50%;
 	z-index: 1;
 	transform: translate(-50%, -50%);
+	width: 100vw;
+    height: 100vh;
+    object-fit: cover;
 }
 .content {
 	z-index: 2;
@@ -95,7 +100,9 @@ h2 {
 	margin-top: 15px;
 	text-align: center;
 	transition: transform 0.15s cubic-bezier(0, 0.55, 0.45, 1);
-	border-radius: 5px;
+	border-radius: 15px;
+	border: 6px solid #0000006b; /* White border, you can change the color as needed */
+
 }
 .button:hover {
 	transform: scale(1.15);
@@ -175,9 +182,19 @@ a {
 	background-color: var(--theme);
   }
 
-.topleft {
+.version {
   position: absolute;
   top: 1px;
   left: 16px;
   font-size: 18px;
 }
+
+
+.github {
+	position: absolute;
+	top: 20px;
+	left: 12px;
+  }
+
+
+

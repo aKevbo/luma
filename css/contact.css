@@ -1,0 +1,55 @@
+body {
+  font-family: 'Fredoka', sans-serif;
+  background-color: var(--background);
+  color: white;
+}
+
+h1 {
+  color: var(--text);
+  margin-bottom: 20px;
+  font-size: 40px;
+  border-bottom: 5px solid var(--theme);
+  width: 99.6%;
+
+
+}
+
+h2 {
+  color: var(--text);
+  font-size: 24px;
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+p {
+  color: var(--text-secondary);
+  font-size: 20px;
+  text-align: left;
+  align-items: left;
+  width: fit-content;
+  max-width: 90%;
+  padding: 10px;
+  background-color: #0000006b;
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 15px; /* Adds space between <p> elements */
+}
+
+/* Expand effect on hover */
+p:hover {
+  transform: scale(1.02);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.version-container {
+  padding: 20px;
+  margin-bottom: 30px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('your-image-url.jpg');
+  border-radius: 14px;
+  border: 7px solid #0000006b; /* White border, you can change the color as needed */
+}
+
