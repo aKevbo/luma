@@ -99,7 +99,6 @@ Here are a few options:
 - **Fork and Customize**  
   The project is fully open-source, making it simple to modify and create your own unique version.
 
----
 
 
 
