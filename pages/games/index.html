@@ -105,5 +105,12 @@
     <script src="/js/navbar.js"></script>
     <script src="/js/theme.js"></script>
 
+<!-- Attempt to fix issues with old paths on google search console, this is only needed for the official site, lumamain.com so u can delete / ignore this if you like-->
+    <script>
+      if (window.location.pathname === '/html/games') {
+        window.location.replace('/pages/games');
+      }
+    </script>
+
   </body>
 </html>
