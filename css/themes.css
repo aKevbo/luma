@@ -2,11 +2,11 @@
 	background-color: var(--theme);
   }
 
-    body[data-theme="default"] {
-    --background: #0a102b;
-    --theme: #182a69;
-    --theme-ts: #172557;
-    --text: #ffffff;
+  body[data-theme="default"] {
+    --background: #289944;
+    --theme: #1d6e30;
+    --theme-ts: #17571f;
+    --text: #dadada;
     --text-secondary: #ffffff;
     --search-color: #000000;
     --icon-color: #ffffff;
@@ -134,15 +134,6 @@
     --icon-color: #ffffff;
   }
 
-  body[data-theme="christmas"] {
-    --background: #289944;
-    --theme: #1d6e30;
-    --theme-ts: #17571f;
-    --text: #dadada;
-    --text-secondary: #ffffff;
-    --search-color: #000000;
-    --icon-color: #ffffff;
-  }
 
   body[data-theme="valentine"] {
     --background: #ff748d;
@@ -153,13 +144,6 @@
     --search-color: #000000;
     --icon-color: #ffffff;
   }
-
-  
-
-
-
-
-
 
 
   body[data-theme="forest"] {
