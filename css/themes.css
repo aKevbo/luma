@@ -11,8 +11,8 @@
     --search-color: #000000;
     --icon-color: #ffffff;
   }
-  
-  body[data-theme="christmas"] {
+
+  body[data-theme="christmastime"] {
     --background: #289944;
     --theme: #1d6e30;
     --theme-ts: #17571f;
