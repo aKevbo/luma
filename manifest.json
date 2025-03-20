@@ -6,9 +6,9 @@
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#182a69",
-    "version": "3.0",
+    "version": "3.1",
     "manifest_version": 3,
-    "version_name": "the third one",
+    "version_name": "the third point one",
     "icons": [
       {
         "src": "/img/websiteutility/LumaCircleWhite.png",
