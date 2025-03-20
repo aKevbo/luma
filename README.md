@@ -85,8 +85,8 @@ Here are a few options:
 ![2024-11-2412-01-52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/71f1cf04-e02b-4eca-bdac-362e31a3804a)
 
 
-- **Raw GitHack Hosting**  
-  Games and assets are delivered via raw.githack.com, ensuring accessibility even on restricted networks.
+- **Cloudflare Hosting**  
+  Games and assets are delivered via Cloudflare CDN.
 
 - **Simplicity**  
   Luma 3 is lightweight and easy to set up, so anyone can easily download onto their computer and host it.
