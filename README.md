@@ -47,7 +47,7 @@ Unblocked Games Website.
 ## About Luma
 
 
-Luma 3 is a platform for accessing unblocked games hosted through [raw.githack.com](https://raw.githack.com). With over **300+ games**, it is designed for simplicity and customization, allowing anyone to fork and make it their own.
+Luma 3 is a platform for accessing unblocked games hosted through [Cloudflare](https://www.cloudflare.com/). With over **300+ games**, it is designed for simplicity and customization, allowing anyone to fork and make it their own.
 
 
   ![2024-11-2411-28-21-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b4c5d80c-3ea9-422f-beda-91e6bca043b5)
@@ -82,7 +82,7 @@ Here are a few options:
 - **Themes**  
   Change Luma's look to your liking and create your own on themes.css
 
-![2024-11-2412-01-52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/71f1cf04-e02b-4eca-bdac-362e31a3804a)
+    ![2024-11-2412-01-52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/71f1cf04-e02b-4eca-bdac-362e31a3804a)
 
 
 - **Cloudflare Hosting**  
@@ -91,13 +91,14 @@ Here are a few options:
 - **Simplicity**  
   Luma 3 is lightweight and easy to set up, so anyone can easily download onto their computer and host it.
 
- [![Bootstrap][Bootstrap.com]][Bootstrap-url]  [![Laravel][Laravel.com]][Laravel-url]  [![JQuery][JQuery.com]][JQuery-url]
+    [![Bootstrap][Bootstrap.com]][Bootstrap-url]  [![Laravel][Laravel.com]][Laravel-url]  [![JQuery][JQuery.com]][JQuery-url]
 
 
 
 
 - **Fork and Customize**  
   The project is fully open-source, making it simple to modify and create your own unique version.
+
 
 
 
