@@ -32,7 +32,6 @@
   <p align="center">
 Unblocked Games Website.
     <br />
-    <a href="https://playluma.org/"><strong>Go to Luma! »</strong></a>
     <br />
     <br />
         <a href="https://youtu.be/8Wa5fCSEqmY"><strong>Watch Luma Trailer! »</strong></a>
